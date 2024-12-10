@@ -36,15 +36,15 @@ If you think you have something great to talk about – submit your idea! If you
 
 ### CfP powered by:
 
-[![pretalx](/static/images/other/pretalx.svg){:class='secondary-logo'}](https://pretalx.com/p/about/){:target="_blank"}
+[![pretalx](/static/images/other/pretalx.svg){:class='secondary-logo'}](https://pretalx.com/p/about/){:target="\_blank"}
 
 <hr class="pink-line">
 
 ## Schedule ️
 
-* Talks - October 17, 18
+- Talks - October 17, 18
 
-* Workshops - October 19
+- Workshops - October 19
 
 The conference will take place from 9AM to 6PM.
 
@@ -54,23 +54,23 @@ Follow us on social media for up-to-date information - see footer below!
 
 ## Topics
 
-* Python internals and challenges in modern development.
+- Python internals and challenges in modern development.
 
-* Wild ideas, clever hacks, surprising or cool use cases.
+- Wild ideas, clever hacks, surprising or cool use cases.
 
-* Improving Python developers’ lives.
+- Improving Python developers’ lives.
 
-* Pushing Python to its limits.
+- Pushing Python to its limits.
 
-* Fundamentals, in a modern light.
+- Fundamentals, in a modern light.
 
-* The Python community, culture, history, past, present & future, the why, the who, and the what of it all.
+- The Python community, culture, history, past, present & future, the why, the who, and the what of it all.
 
-* Security.
+- Security.
 
-* Whatever you deem appropriate – it's your conference, after all!
+- Whatever you deem appropriate – it's your conference, after all!
 
-You may think that your idea is not suited to PyCon Portugal, or that you couldn't possibly present it well, or that others will do it better. We want to prove you wrong. Read more on [Why You, Too, Should Speak at a Conference](https://www.womenwhocode.com/blog/why-you-too-should-speak-at-a-conference){:target="_blank"}, which applies to speaking at PyCon Portugal!
+You may think that your idea is not suited to PyCon Portugal, or that you couldn't possibly present it well, or that others will do it better. We want to prove you wrong. Read more on [Why You, Too, Should Speak at a Conference](https://www.womenwhocode.com/blog/why-you-too-should-speak-at-a-conference){:target="\_blank"}, which applies to speaking at PyCon Portugal!
 
 If you would like to ask a question, you are always welcome to write to the content committee: [content@pycon.pt](mailto:content@pycon.pt).
 
@@ -86,17 +86,17 @@ For companies or employers: talks' content should not be influenced directly by 
 
 ## Guidelines
 
-* Submit your talk in time, no excuses.
+- Submit your talk in time, no excuses.
 
-* All talks will be in English.
+- All talks will be in English.
 
-* Read, understand, and agree to our Code of Conduct. As a speaker, your talk and your slides will need to follow our Code of Conduct – if you are not sure what that means, or have some issue you are not sure about, just ask us!
+- Read, understand, and agree to our Code of Conduct. As a speaker, your talk and your slides will need to follow our Code of Conduct – if you are not sure what that means, or have some issue you are not sure about, just ask us!
 
-* Make sure you spend some time and effort on your proposal. Typos, lack of formatting, and half finished sentences are unnecessary and make your proposal hard to be taken seriously. (Ask a mentor or a friend to help if this is difficult for you.)
+- Make sure you spend some time and effort on your proposal. Typos, lack of formatting, and half finished sentences are unnecessary and make your proposal hard to be taken seriously. (Ask a mentor or a friend to help if this is difficult for you.)
 
-* Don't overdo it – two or three paragraphs are plenty of space to give us an idea of your talk, we don't require an entire thesis. ;
+- Don't overdo it – two or three paragraphs are plenty of space to give us an idea of your talk, we don't require an entire thesis. ;
 
-* Original content: Since we have little space and lots of submissions, we prefer original content. If your talk is so awesome that you want to give it in multiple places, we'd ask you to consider putting a new spin on it, if at all possible.
+- Original content: Since we have little space and lots of submissions, we prefer original content. If your talk is so awesome that you want to give it in multiple places, we'd ask you to consider putting a new spin on it, if at all possible.
 
 <hr class="pink-line">
 

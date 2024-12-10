@@ -2,15 +2,11 @@ layout: simple
 
 ## Braga
 
-[//]: # (In this second edition, we had a record number of submissions: 113. 🎉)
-
-[//]: # ()
-
-[//]: # (Please check the current Schedule.)
-
-[//]: # ()
-
-[//]: # (The conference talks & workshops will take place from 9:00 AM to 6:30 PM, September 7, 8, and 9.)
+[//]: # 'In this second edition, we had a record number of submissions: 113. 🎉'
+[//]: #
+[//]: # 'Please check the current Schedule.'
+[//]: #
+[//]: # 'The conference talks & workshops will take place from 9:00 AM to 6:30 PM, September 7, 8, and 9.'
 
 Braga is a city of huge beauty and heritage richness, which combines tradition with innovation, the memory to the youth, creativity to conservatism.
 
@@ -24,6 +20,7 @@ Visiting Braga is like taking a time travel inside modernity. Old city and of tr
 
 -Câmara Municipal de Braga
 <br>
+
 <iframe style="width:100%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2871307.9567439742!2d-9.253030688695183!3d41.178230703557716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd24febc6cf5d867%3A0xbc5d054162d1e218!2sBraga!5e0!3m2!1spt-PT!2spt!4v1711109975375!5m2!1spt-PT!2spt" width="600" height="450" style="border:0;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <hr class="pink-line">
 <br>
@@ -111,7 +108,7 @@ basis.
 
 **Get Bus**
 Shuttle provided by Get Bus, it connects the airport and the city of Braga in 50 minutes.
-[www.getbus.eu](http://www.getbus.eu){:style="color: white;" target="_blank"}
+[www.getbus.eu](http://www.getbus.eu){:style="color: white;" target="\_blank"}
 
 ### Train
 
@@ -124,10 +121,11 @@ In terms of road transportation, Braga’s Bus Station hosts the companies Arriv
 Rede Expressos, Renex, Rodonorte, Salvador Alves e Fihos lda, Transdev, assuring the connection to several regional,
 national and international destinations.
 <br>
+
 <hr class="pink-line">
 <br>
 ## Getting around
-**Tub - Transportes Urbanos de Braga**  
+**Tub - Transportes Urbanos de Braga**
 **(Braga’s Urban Transportation)**
 This company provides a service of urban passenger transportation in the municipality of Braga. The mission is to provide mobility and comfort solutions in the region, satisfying and surpassing the expectations of involved partners.
 [www.tub.pt](https://www.tub.pt){:style="color: white;" target="_blank"}

@@ -1,6 +1,7 @@
 layout: simple
 
 ## Talks and Workshops Schedule
+
 All sessions are in Central European Summer Time (GMT+2).
 
 - **Talks** - October 17th-19th
@@ -10,9 +11,6 @@ All sessions are in Central European Summer Time (GMT+2).
 
 The conference will take place from 9AM to 6PM.
 
-
-
-
 <a href="https://pretalx.evolutio.pt/pycon-portugal-2024/schedule/" target="_blank">View the schedule on Pretalx</a>
 
 <div id="pretalx-widget-container" style="margin-top: 20px;">
@@ -21,13 +19,13 @@ The conference will take place from 9AM to 6PM.
     src="https://pretalx.evolutio.pt/pycon-portugal-2024/schedule/widget/v2.en.js"
   ></script>
 
-  <pretalx-schedule
-    event-url="https://pretalx.evolutio.pt/pycon-portugal-2024/"
-    locale="en"
-    format="grid"
-    style="--pretalx-clr-primary: #FF00FF; --pretalx-clr-background: #ffffff; --pretalx-clr-text: #333333; width: 100%; max-width: 100%;"
-  >
-  </pretalx-schedule>
+<pretalx-schedule
+event-url="https://pretalx.evolutio.pt/pycon-portugal-2024/"
+locale="en"
+format="grid"
+style="--pretalx-clr-primary: #FF00FF; --pretalx-clr-background: #ffffff; --pretalx-clr-text: #333333; width: 100%; max-width: 100%;"
+
+>   </pretalx-schedule>
 
   <noscript>
     <div class="pretalx-widget">
@@ -72,13 +70,12 @@ The conference will take place from 9AM to 6PM.
 
 </style>
 
-[//]: # (In this second edition, we had a record number of submissions: 113. 🎉)
+[//]: # 'In this second edition, we had a record number of submissions: 113. 🎉'
+[//]: #
+[//]: # 'Please check the current Schedule.'
+[//]: #
+[//]: # 'The conference talks & workshops will take place from 9:00 AM to 6:30 PM, September 7, 8, and 9.'
 
-[//]: # ()
-[//]: # (Please check the current Schedule.)
-
-[//]: # ()
-[//]: # (The conference talks & workshops will take place from 9:00 AM to 6:30 PM, September 7, 8, and 9.)
 <br>
   <!-- <hr class="purple-line"> -->
 <!-- Keep checking this page , we normally update on a daily basis. -->
@@ -89,7 +86,3 @@ The conference will take place from 9AM to 6PM.
 <br>
 <br>
 <br>
-
-
-
-

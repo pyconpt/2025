@@ -1,6 +1,6 @@
 // homepage
 
-@use "base";
+@use 'base';
 
 .display-flex {
   display: flex;
@@ -16,7 +16,9 @@
 }
 
 %HOME_TITLE {
-  font-family: Turret Road, sans-serif;
+  font-family:
+    Turret Road,
+    sans-serif;
   font-size: 6em;
   font-weight: 800;
 }
@@ -209,7 +211,9 @@ li {
 
   h2 {
     color: #fdfdfd;
-    font-family: Turret Road, sans-serif;
+    font-family:
+      Turret Road,
+      sans-serif;
     font-size: 88px;
     font-weight: 800;
   }
@@ -222,7 +226,9 @@ li {
 
   h3 {
     color: #fdfdfd;
-    font-family: Turret Road, sans-serif;
+    font-family:
+      Turret Road,
+      sans-serif;
     font-size: 36px;
     font-weight: 700;
   }
@@ -312,7 +318,9 @@ li {
   h3 {
     text-align: center;
     color: #fdfdfd;
-    font-family: Turret Road, sans-serif;
+    font-family:
+      Turret Road,
+      sans-serif;
     font-size: 36px;
     font-weight: 700;
   }
@@ -389,7 +397,7 @@ li {
   }
 
   h4 {
-    font-family: "Turret Road", sans-serif;
+    font-family: 'Turret Road', sans-serif;
     font-size: 3rem;
     font-weight: 800;
     line-height: 52.46px;
@@ -407,7 +415,7 @@ li {
   }
 
   .price {
-    font-family: "Turret Road", sans-serif;
+    font-family: 'Turret Road', sans-serif;
     font-size: 3.875rem;
     font-weight: 800;
     line-height: 67.77px;

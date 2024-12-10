@@ -3,6 +3,7 @@ layout: simple
 ## Previous Editions
 
 <!-- Previous Editions -->
+
 <a href="https://2022.pycon.pt"><img src="/static/images/icons/porto2022.png" alt="2022 Porto" class="img-fluid main-img"></a>
 
 <div class="container">
@@ -23,6 +24,7 @@ layout: simple
 <hr class="purple-line">
 
 <!-- Coimbra -->
+
 <a href="https://2022.pycon.pt"><img src="/static/images/icons/coimbra.png" alt="2023 Coimbra" class="img-fluid main-img"></a>
 
 <div class="container">

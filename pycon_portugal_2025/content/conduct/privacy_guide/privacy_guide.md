@@ -1,4 +1,4 @@
-layout: simple 
+layout: simple
 
 ## Privacy Guide
 

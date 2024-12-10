@@ -2,8 +2,6 @@ title: Speakers
 
 ## Meet our Speakers
 
-
-
 <style>
   .carousel-item {
     text-align: center;
@@ -38,7 +36,7 @@ title: Speakers
  width: 200px; /* Set a fixed width */
         height: 200px; /* Set a fixed height */
         object-fit: cover; /* Ensure the image covers the area without distortion */
-        border: 2px solid #FF00FF; 
+        border: 2px solid #FF00FF;
   }
 </style>
 <!-- first carousel -->

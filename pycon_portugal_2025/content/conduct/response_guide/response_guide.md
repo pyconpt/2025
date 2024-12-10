@@ -16,22 +16,22 @@ In general, as a representative of the conference, be aware that other participa
 
 When you are an organiser or volunteer not on the CARE team, the general guidelines for observing an incident or receiving a report are:
 
-* If you can easily find a member of the CARE team, do that, and let them handle the incident from there on. In that case, you don’t need to do anything else. If you were a witness, the CARE team may ask for more information later.
-* If you can't easily find a CARE team member, write down the basic details of the incident: what happened, who was involved, when and where this happened, whether the incident is ongoing and how we can contact the reporter. If someone is reluctant to provide some of this information, or doesn't know, do not pressure them.
-* If possible, the reporter can also send a mail to [conduct@pycon.pt](mailto:conduct@pycon.pt). This is helpful, as it gives the CARE team a first-hand written account.
-* In any case, pass the details you noted down to a CARE team member as soon as possible.
-* If requested, try to arrange for an escort by staff or a trusted person, help the reporter contact a friend, or contact local law enforcement. Never pressure any of these action if the reporter does not want this.
-* Do not share any of the information with anyone else.
+- If you can easily find a member of the CARE team, do that, and let them handle the incident from there on. In that case, you don’t need to do anything else. If you were a witness, the CARE team may ask for more information later.
+- If you can't easily find a CARE team member, write down the basic details of the incident: what happened, who was involved, when and where this happened, whether the incident is ongoing and how we can contact the reporter. If someone is reluctant to provide some of this information, or doesn't know, do not pressure them.
+- If possible, the reporter can also send a mail to [conduct@pycon.pt](mailto:conduct@pycon.pt). This is helpful, as it gives the CARE team a first-hand written account.
+- In any case, pass the details you noted down to a CARE team member as soon as possible.
+- If requested, try to arrange for an escort by staff or a trusted person, help the reporter contact a friend, or contact local law enforcement. Never pressure any of these action if the reporter does not want this.
+- Do not share any of the information with anyone else.
 
 In speaking to a reporter, be cautious in your wording. Try to be understanding and compassionate, and make them feel heard and taken seriously. However, do not make commitments on whether the conference will see this as a violation, or what action will be taken.
 
 In urgent cases, where it is not possible to contact a CARE team member and you believe immediate action is essential, you may intervene unilaterally. For example, you may consider this:
 
-* When any delay of action will likely bring unacceptable further harm to others. Ongoing aggression or serious harassment are examples of this.
-* If you feel people are in immediate physical danger, it can be appropriate to contact local law enforcement.
-* If you witness a presentation which is clearly in violation of the Code of Conduct repeatedly or very seriously. You might simply say “I’m sorry, this presentation cannot be continued at the present time”. Examples of when this is justified could be significant threats of violence, harassment of others, or continuous sexist jokes. Do not end a presentation in cases like a few inappropriate jokes - in that case do report it to the CARE team.
+- When any delay of action will likely bring unacceptable further harm to others. Ongoing aggression or serious harassment are examples of this.
+- If you feel people are in immediate physical danger, it can be appropriate to contact local law enforcement.
+- If you witness a presentation which is clearly in violation of the Code of Conduct repeatedly or very seriously. You might simply say “I’m sorry, this presentation cannot be continued at the present time”. Examples of when this is justified could be significant threats of violence, harassment of others, or continuous sexist jokes. Do not end a presentation in cases like a few inappropriate jokes - in that case do report it to the CARE team.
 
-* When possible, even in these cases, consult with another organiser or volunteer if you see one nearby.
+- When possible, even in these cases, consult with another organiser or volunteer if you see one nearby.
 
 <hr class="purple-line">
 
@@ -57,16 +57,16 @@ When receiving a report, the CARE team acknowledges receipt as soon as possible,
 
 The CARE team generally works, decides and communicates as a team. If the report indicates that immediate action is required and other CARE team members are not available, any CARE team member may take the action they see appropriate. The same guidelines for unilateral action apply as listed above for other staff members. If possible, it’s still preferred to take action after a brief discussion with at least one other CARE team member, or even any other organiser, rather than acting entirely unilaterally. Formal processes and guidelines must never get in the way of preventing threats to anyone’s safety.
 
-<hr class="pink-line"> 
+<hr class="pink-line">
 
 ### Reviewing the report
 
 Based on the report and any other available information, the CARE team will meet to determine, to the best of their ability:
 
-* What happened
-* Whether this event constitutes a Code of Conduct violation
-* Who, if anyone, was the bad actor(s)
-* What the appropriate resolution is
+- What happened
+- Whether this event constitutes a Code of Conduct violation
+- Who, if anyone, was the bad actor(s)
+- What the appropriate resolution is
 
 A written record will be kept of each incident and its review. Although that sometimes seems superfluous at the time, hectic environments like conferences can make it easy to forget or confuse details later.
 
@@ -86,14 +86,14 @@ A conflict of interest does not inherently mean the team member can no longer pa
 
 The most common resolutions the CARE team can decide on are:
 
-* No action (if the team determines no violation occurred).
-* Demanding that a participant stops their behaviour.
-* Demanding that a participant prevents further contact with certain other participants.
-* Not publishing the video of a conference talk.
-* Cancelling a conference talk.
-* Removing a participant from the conference, without refund.
+- No action (if the team determines no violation occurred).
+- Demanding that a participant stops their behaviour.
+- Demanding that a participant prevents further contact with certain other participants.
+- Not publishing the video of a conference talk.
+- Cancelling a conference talk.
+- Removing a participant from the conference, without refund.
 
-* Resolutions are not restricted to these options. Any conversations with bad actors are done by two people from the CARE team, and notes from this conversation will be added to the record of the incident.
+- Resolutions are not restricted to these options. Any conversations with bad actors are done by two people from the CARE team, and notes from this conversation will be added to the record of the incident.
 
 When deciding on a resolution, our basic goal is to address the report in an appropriate way, while also looking to prevent or reduce the risk of continuing harm in the future. For example, we may try to distinguish whether a violation occurred intentionally or not, especially in not too severe cases like inappropriate jokes. In intentional cases, or severe behaviour, we'll probably choose for stronger measures. The CARE team can also use behaviour on social media, the conference Slack, or personal interactions to further build a picture of the person(s) involved.
 
