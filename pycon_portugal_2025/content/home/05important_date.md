@@ -10,7 +10,6 @@ title: Important Dates
 
 <div markdown="1" class="col-md-9 d-flex " style="text-decoration: line-through; text-decoration-color: white; color: white;">
 
-
 **15th** - Call for Participation Deadline ✅
 **30th** - Grants Applications Opening ✅
 **30th** - Early Bird Ticket Sales Closes ✅

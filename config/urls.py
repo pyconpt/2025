@@ -10,8 +10,9 @@ from django.views.generic import TemplateView
 from pycon_portugal_2025.site.views import default_view
 
 urlpatterns = [
-
-    path("about/", TemplateView.as_view(template_name="pages/about.html"), name="about"),
+    path(
+        "about/", TemplateView.as_view(template_name="pages/about.html"), name="about"
+    ),
     # Django Admin, use {% url 'admin:index' %}
     path(settings.ADMIN_URL, admin.site.urls),
     # User management
@@ -19,9 +20,13 @@ urlpatterns = [
     path("accounts/", include("allauth.urls")),
     # Your stuff: custom urls includes go here
     path("", default_view, name="home"),
-    path("zencoder", TemplateView.as_view(template_name="pages/zencoder.html"), name="zencoder"),
+    path(
+        "zencoder",
+        TemplateView.as_view(template_name="pages/zencoder.html"),
+        name="zencoder",
+    ),
     path("<slug:menu>/", default_view, name="menu-view"),
-    path("<slug:menu>/<slug:submenu>/", default_view, name="submenu-view")
+    path("<slug:menu>/<slug:submenu>/", default_view, name="submenu-view"),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 

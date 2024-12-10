@@ -1,10 +1,8 @@
-
-
 <div markdown="1" class="col-2 offset-1 month-container">
 
 ### March
 
-</div> 
+</div>
 
 <div markdown="1" class="col-8 d-flex">
 
@@ -16,7 +14,7 @@
 
 ### April
 
-</div> 
+</div>
 
 <div markdown="1" class="col-8 d-flex">
 
@@ -28,7 +26,7 @@
 
 ### May
 
-</div> 
+</div>
 
 <div markdown="1" class="col-8 d-flex">
 
@@ -40,7 +38,7 @@
 
 ### June
 
-</div> 
+</div>
 
 <div markdown="1" class="col-8 d-flex">
 
@@ -52,7 +50,7 @@
 
 ### July
 
-</div> 
+</div>
 
 <div markdown="1" class="col-8 d-flex">
 
@@ -64,37 +62,34 @@
 
 ### August
 
-</div> 
+</div>
 
 <div markdown="1" class="col-8 d-flex">
 
 <span class="day-container"><strong></strong></span>
 
 </div>
-
 
 <div markdown="1" class="col-2 offset-1 month-container">
 
 ### September
 
-</div> 
+</div>
 
 <div markdown="1" class="col-8 d-flex">
 
 <span class="day-container"><strong></strong></span>
 
 </div>
-
 
 <div markdown="1" class="col-2 offset-1 month-container">
 
 ### October
 
-</div> 
+</div>
 
 <div markdown="1" class="col-8 d-flex">
 
 <span class="day-container"><strong></strong></span>
 
 </div>
-

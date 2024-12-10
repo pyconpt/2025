@@ -1,7 +1,6 @@
 # ruff: noqa: ERA001, E501
 """Base settings to build other settings files upon."""
 
-
 from pathlib import Path
 
 import environ
@@ -84,7 +83,6 @@ LOCAL_APPS = [
     "pycon_portugal_2025.users",
     # Your stuff: custom apps go here
     "pycon_portugal_2025.site",
-
 ]
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS

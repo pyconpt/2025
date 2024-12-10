@@ -67,10 +67,10 @@ events = [
         "title": "A simples serverless data pipeline",
         "room": A,
         "speaker": "Riccardo Magliocchetti",
-        "description": "Building and maintaining data pipelines when it’s not "
+        "description": "Building and maintaining data pipelines when it’s not "  # noqa: RUF001
         "your full time job is a pain! So better keep things simple"
         " without the need to manage the system yourself. In this "
-        "talk I’ll show a data pipeline architecture built leveraging"
+        "talk I’ll show a data pipeline architecture built leveraging"  # noqa: RUF001
         " some cloud offerings by AWS and Preset.",
     },
     {
@@ -189,7 +189,7 @@ events = [
         "speaker": "Jorge Miranda",
         "description": "Tavern is an open source pytest plugin aimed to write"
         " automated integration tests for HTTP and MQTT APIs. "
-        "Currently, there isn’t any UI support for it. This talk"
+        "Currently, there isn’t any UI support for it. This talk"  # noqa: RUF001
         " presents a Visual Studio Code extension that enables"
         " easy and fast writing of Tavern tests .",
     },

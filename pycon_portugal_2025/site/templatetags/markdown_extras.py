@@ -1,6 +1,8 @@
-from markdown import Markdown
+from pathlib import Path
+
 from django import template
 from django.template.defaultfilters import stringfilter
+from markdown import Markdown
 
 register = template.Library()
 
@@ -9,8 +11,9 @@ register = template.Library()
 @stringfilter
 def markdown(value):
     r = {}
-    f = open(value, "r")
-    f = f.read()
+    path = Path(value)
+    with path.open("r") as f:
+        content = f.read()
     m = Markdown(
         extensions=[
             "extra",
@@ -18,8 +21,8 @@ def markdown(value):
             "sane_lists",
             "meta",
             "toc",
-        ]
+        ],
     )
-    r["html"] = m.convert(f)
+    r["html"] = m.convert(content)
     r["meta"] = m.Meta
     return r

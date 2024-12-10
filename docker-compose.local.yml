@@ -1,7 +1,6 @@
 volumes:
   pycon_portugal_2025_local_postgres_data: {}
   pycon_portugal_2025_local_postgres_data_backups: {}
-  
 
 services:
   django:
