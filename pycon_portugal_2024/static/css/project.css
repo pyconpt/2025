@@ -1742,7 +1742,7 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  margin-top: 350px;
+  margin-top: 150px;
 }
 
 .button-container-action button {
@@ -1798,12 +1798,11 @@ body {
 }
 
 .location {
-  position: absolute;
-  bottom: 20px;
-  right: 20px;
-  font-size: 14px;
-  color: #77F1A1; /* Match the green theme */
+  font-size: 40px;
+  margin-top: 200px;
+  color: #5076F6; /* Match the green theme */
   font-weight: bold;
   text-transform: uppercase;
   opacity: 0.8;
+  rotate: -10deg;
 }
