@@ -1632,7 +1632,6 @@ blockquote {
 body {
   font-family: "Share Tech", sans-serif;
   margin: 0;
-  height: 100vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1659,10 +1658,10 @@ body {
 
 .landing_page_filler {
   position: absolute;
-  width: 100%;
   opacity: 0.08;
   z-index: 0;
   max-height: 100vh;
+  width: 100%;
 }
 
 .aligner {
@@ -1800,9 +1799,108 @@ body {
 .location {
   font-size: 40px;
   margin-top: 200px;
-  color: #5076F6; /* Match the green theme */
+  color: #77F1A1; /* Match the green theme */
   font-weight: bold;
   text-transform: uppercase;
   opacity: 0.8;
   rotate: -10deg;
+}
+
+@media (max-width: 1290px) {
+  .green {
+    font-size: 25px;
+  }
+  .white {
+    font-size: 40px;
+  }
+  .blue {
+    font-size: 40px;
+  }
+  .landing_page_filler {
+    min-height: 100vh;
+  }
+}
+@media (max-width: 1090px) {
+  .green {
+    font-size: 20px;
+  }
+  .location {
+    font-size: 35px;
+  }
+}
+@media (max-width: 990px) {
+  .aligner {
+    margin-top: 100px;
+  }
+  .location {
+    margin-top: 200px;
+  }
+  .button-container-action {
+    display: grid;
+    margin-bottom: 100px;
+  }
+  .landing_page_filler {
+    min-height: 125vh;
+  }
+}
+@media (max-width: 880px) {
+  .green {
+    font-size: 15px;
+  }
+  .blue {
+    font-size: 30px;
+  }
+  .white {
+    font-size: 30px;
+  }
+  .button-container-action button {
+    font-size: 20px;
+  }
+  .location {
+    font-size: 30px;
+  }
+}
+@media (max-width: 650px) {
+  .landing_page_filler {
+    display: none;
+  }
+  .blue {
+    font-size: 25px;
+  }
+  .green {
+    font-size: 10px;
+  }
+  .white {
+    font-size: 25px;
+  }
+  .location {
+    font-size: 25px;
+  }
+  .button-container-action button {
+    font-size: 15px;
+  }
+}
+@media (max-width: 550px) {
+  .blue {
+    font-size: 20px;
+  }
+  .green {
+    font-size: 10px;
+    width: 90px;
+  }
+  .white {
+    font-size: 20px;
+    margin-top: -17px;
+  }
+  .location {
+    font-size: 20px;
+  }
+}
+@media (max-width: 450px) {
+  .white {
+    margin-top: -7px;
+  }
+  .green {
+    margin-top: 4px;
+  }
 }
