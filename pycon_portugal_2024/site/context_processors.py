@@ -41,7 +41,7 @@ def links(request):
             },
             "Tickets": {
                 "dropdown": "false",
-                "href": "https://pretix.evolutio.pt/evolutio/pyconpt2024/",
+                "href": "https://pretix.evolutio.pt/evolutio/pyconpt2025/",
                 "blanktarget": True,
             },
             "About": {
