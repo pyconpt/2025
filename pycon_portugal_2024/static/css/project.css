@@ -354,7 +354,7 @@ nav {
 }
 
 .custom-footer {
-  background-color: #0a042c;
+  background-color: #5076F6;
   color: #FDFDFD;
   position: relative;
   padding-top: 8vh;
@@ -365,22 +365,25 @@ nav {
   }
 }
 .custom-footer .footer-container {
-  border-top: 1px solid #9747ff;
-  border-bottom: 1px solid #9747ff;
   padding-left: 48px;
   padding-left: 3rem;
   padding-right: 48px;
   padding-right: 3rem;
 }
 .custom-footer .footer-title {
-  font-family: Turret Road, sans-serif;
-  font-size: 48px;
-  font-weight: 800;
-  color: #FFFFFF;
-  padding-left: 3em;
+  padding-left: 50px;
+  color: #77F1A1;
+  font-family: "Share Tech";
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 .custom-footer a {
-  color: #ff00ff;
+  color: #F9F9F9;
+}
+.custom-footer .p {
+  color: #F9F9F9;
 }
 .custom-footer .footer-social-media-link {
   padding: 4px;
@@ -391,7 +394,6 @@ nav {
   padding-top: 1rem;
   padding-bottom: 16px;
   padding-bottom: 1rem;
-  color: #ff00ff;
 }
 .custom-footer .footer-end p {
   margin: 2px;
@@ -421,7 +423,7 @@ nav {
       -ms-flex-align: center;
           align-items: center;
   margin: 0.5em;
-  background-color: #ff00ff;
+  background-color: #77F1A1;
   width: 65px;
   height: 65px;
   border-radius: 50%;
@@ -953,6 +955,73 @@ nav {
 }
 
 /*#endregion HomeHero*/
+/*#region HomeHeroSubtitle*/
+/*#region HomeHeroSubtitle*/
+.home-hero-subtitle {
+  margin-top: 160px;
+  font-family: "Share Tech";
+}
+.home-hero-subtitle .left {
+  margin-top: 40px;
+  padding: 0;
+}
+.home-hero-subtitle .left .ticket {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+  padding-right: 120px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  background: #77F1A1;
+}
+.home-hero-subtitle .left .ticket p {
+  color: #1F2B37;
+  font-family: "Share Tech";
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin: 10px 20px 10px 0;
+}
+.home-hero-subtitle .left .filler {
+  background: #77F1A1;
+}
+.home-hero-subtitle .left .filler img {
+  width: 100%;
+}
+.home-hero-subtitle .right {
+  padding-right: 100px;
+}
+.home-hero-subtitle .right .location {
+  color: #F9F9F9;
+  text-align: right;
+  font-family: "Share Tech";
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.home-hero-subtitle .right .date {
+  color: #5076F6;
+  text-align: right;
+  font-family: "Share Tech";
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.home-hero-subtitle .right .xaxa-text {
+  margin: 50px 0 0 100px;
+  color: #77F1A1;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+/*#endregion HomeHeroSubtitle*/
+/*#endregion HomeHeroSubtitle*/
 .date-div {
   height: 25em;
 }
@@ -1206,11 +1275,6 @@ li {
     height: auto;
   }
 }
-.content-newsletter {
-  background: -webkit-gradient(linear, left top, left bottom, from(#f7f7f7), color-stop(50%, #f7f7f7), color-stop(50%, #2c2c2c), to(#2c2c2c)) !important;
-  background: linear-gradient(to bottom, #f7f7f7 0%, #f7f7f7 50%, #2c2c2c 50%, #2c2c2c 100%) !important;
-}
-
 .text-align-webit-center {
   text-align: -webkit-center;
 }

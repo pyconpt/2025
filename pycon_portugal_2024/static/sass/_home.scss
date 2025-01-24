@@ -76,6 +76,80 @@
 
 /*#endregion HomeHero*/
 
+/*#region HomeHeroSubtitle*/
+/*#region HomeHeroSubtitle*/
+.home-hero-subtitle {
+  margin-top: 160px;
+  font-family: "Share Tech";
+
+  .left {
+    margin-top: 40px;
+    padding: 0;
+
+    .ticket {
+      justify-content: end;
+      padding-right: 120px;
+      display: flex;
+
+      p {
+        color: base.$DarkBlue;
+        font-family: "Share Tech";
+        font-size: 38px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin: 10px 20px 10px 0;
+      }
+
+      background: base.$Green;
+    }
+    .filler {
+      background: base.$Green;
+      img {
+        width: 100%;
+      }
+    }
+  }
+
+  .right {
+    padding-right: 100px;
+
+
+    .location {
+      color: #F9F9F9;
+      text-align: right;
+      font-family: "Share Tech";
+      font-size: 38px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+
+    .date {
+      color: #5076F6;
+      text-align: right;
+      font-family: "Share Tech";
+      font-size: 38px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+
+    .xaxa-text {
+      margin: 50px 0 0 100px;
+      color: base.$Green;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+  }
+}
+
+/*#endregion HomeHeroSubtitle*/
+/*#endregion HomeHeroSubtitle*/
+
+
 .date-div {
   height: 25em;
 }
@@ -343,15 +417,6 @@ li {
   }
 }
 
-.content-newsletter {
-  background: linear-gradient(
-      to bottom,
-      base.$white 0%,
-      base.$white 50%,
-      base.$BgBlack 50%,
-      base.$BgBlack 100%
-  ) !important;
-}
 
 .text-align-webit-center {
   text-align: -webkit-center;

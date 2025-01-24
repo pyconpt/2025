@@ -53,7 +53,7 @@ def links(request):
             },
         },
         "social_media": {
-            "twitter": "https://twitter.com/PyConPT",
+            "x": "https://x.com/PyConPT",
             "slack": "https://join.slack.com/t/pyconportugal/shared_invite/zt-1ckszg1ye-QDgxx3lOkC15Ocal8xhCSg",
             "youtube": "https://www.youtube.com/@DisjoinedTech94",
             "linkedin": "https://www.linkedin.com/company/84778227",

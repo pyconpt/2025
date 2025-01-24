@@ -3,32 +3,36 @@
 @use "base";
 
 .custom-footer {
-  background-color: base.$bgPurple;
+  background-color: base.$bgFooter;
   color: #FDFDFD;
   position: relative;
   padding-top: 8vh;
 
-  @media (max-width: 768px){
+  @media (max-width: 768px) {
     padding-bottom: 20vh !important;
   }
 
   .footer-container {
-    border-top: 1px solid base.$purple;
-    border-bottom: 1px solid base.$purple;
     padding-left: 3rem;
     padding-right: 3rem;
   }
 
   .footer-title {
-    font-family: Turret Road, sans-serif;
-    font-size: 48px;
-    font-weight: 800;
-    color: #FFFFFF;
-    padding-left: 3em;
+    padding-left: 50px;
+    color: base.$Green;
+    font-family: "Share Tech";
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
   }
 
   a {
-    color: base.$lightPurple;
+    color: base.$WhiteGray;
+  }
+
+  .p {
+    color: base.$WhiteGray;
   }
 
   .footer-social-media-link {
@@ -38,7 +42,6 @@
   .footer-end {
     padding-top: 1rem;
     padding-bottom: 1rem;
-    color: base.$lightPurple;
 
     p {
       @media (min-width: 768px) {
@@ -59,7 +62,7 @@
       justify-content: center;
       align-items: center;
       margin: 0.5em;
-      background-color: base.$lightPurple;
+      background-color: base.$Green;
       width: 65px;
       height: 65px;
       border-radius: 50%;

@@ -4,10 +4,10 @@
   <div class="container-fluid inner-content-width footer-container">
     <div class="row justify-content-around">
       <div class="row footer-links">
-        <div class=" col-12 col-sm-6 footer-title social-media-title"><strong>Follow us</strong></div>
-        <div class="col-sm-6 col-12 row justify-content-center align-self-center">
+        <div class=" col-12 col-sm-6 footer-title social-media-title">STAY UPDATED WITH<br>PYCON PORTUGAL NEWS</div>
+        <div class="col-sm-6 col-12 row justify-content-around align-self-center">
           {% for smedia, smedia_href in social_media.items %}
-            {% with smedia_logo='images/external_logo/logo_'|add:smedia|add:'.png' %}
+            {% with smedia_logo='images/external_logo/logo_'|add:smedia|add:'.svg' %}
               <div class="text-center footer-social-media-link">
                 <a class="nav-link" href="{{ smedia_href }}" target="_blank">
                   <img src="{% static smedia_logo %}" alt="{{ smedia }}" height="33rem;">
