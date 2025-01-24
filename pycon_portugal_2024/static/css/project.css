@@ -955,73 +955,144 @@ nav {
 }
 
 /*#endregion HomeHero*/
-/*#region HomeHeroSubtitle*/
-/*#region HomeHeroSubtitle*/
-.home-hero-subtitle {
+/*#region HomeHeroSubsection*/
+.home-hero-subsection {
   margin-top: 160px;
   font-family: "Share Tech";
 }
-.home-hero-subtitle .left {
+.home-hero-subsection .left {
   margin-top: 40px;
   padding: 0;
 }
-.home-hero-subtitle .left .ticket {
+.home-hero-subsection .left .ticket {
   -webkit-box-pack: end;
       -ms-flex-pack: end;
           justify-content: end;
-  padding-right: 120px;
+  padding-right: 100px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   background: #77F1A1;
 }
-.home-hero-subtitle .left .ticket p {
+.home-hero-subsection .left .ticket p {
   color: #1F2B37;
   font-family: "Share Tech";
-  font-size: 38px;
+  font-size: 48px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
   margin: 10px 20px 10px 0;
 }
-.home-hero-subtitle .left .filler {
+.home-hero-subsection .left .filler {
   background: #77F1A1;
 }
-.home-hero-subtitle .left .filler img {
+.home-hero-subsection .left .filler img {
   width: 100%;
 }
-.home-hero-subtitle .right {
+.home-hero-subsection .right {
   padding-right: 100px;
 }
-.home-hero-subtitle .right .location {
+.home-hero-subsection .right .location {
   color: #F9F9F9;
   text-align: right;
   font-family: "Share Tech";
-  font-size: 38px;
+  font-size: 48px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
 }
-.home-hero-subtitle .right .date {
+.home-hero-subsection .right .date {
   color: #5076F6;
   text-align: right;
   font-family: "Share Tech";
-  font-size: 38px;
+  font-size: 48px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
 }
-.home-hero-subtitle .right .xaxa-text {
+.home-hero-subsection .right .xaxa-text {
   margin: 50px 0 0 100px;
   color: #77F1A1;
-  font-size: 20px;
+  font-size: 24px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
 }
 
-/*#endregion HomeHeroSubtitle*/
-/*#endregion HomeHeroSubtitle*/
+/*#endregion HomeHeroSubsection*/
+/*#region HomeTickets */
+.home-tickets {
+  margin-top: 100px;
+}
+.home-tickets .ticket-card-green {
+  border: 2px solid #77F1A1;
+}
+.home-tickets .ticket-card-white {
+  border: 2px solid #F9F9F9;
+}
+.home-tickets .ticket-card-blue {
+  border: 2px solid #5076F6;
+}
+.home-tickets .card-green {
+  color: #77F1A1;
+}
+.home-tickets .card-white {
+  color: #F9F9F9;
+}
+.home-tickets .card-blue {
+  color: #5076F6;
+}
+.home-tickets h4 {
+  font-family: "Share Tech";
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.home-tickets .detail {
+  font-family: Nunito;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-align: center;
+  margin-left: -100px;
+  margin-bottom: 0;
+}
+.home-tickets .detail-green {
+  margin-left: -90px;
+}
+.home-tickets .detail-white {
+  margin-left: -140px;
+}
+.home-tickets .detail-blue {
+  margin-left: -110px;
+}
+.home-tickets .price {
+  font-family: Nunito;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-align: center;
+}
+.home-tickets .description {
+  font-family: Nunito;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.home-tickets a {
+  color: white;
+  text-decoration: none;
+}
+.home-tickets .row > * {
+  padding-bottom: 32px !important;
+  padding-bottom: 2rem !important;
+}
+
+/*#endregion HomeTickets*/
 .date-div {
   height: 25em;
 }
@@ -1387,63 +1458,6 @@ li {
   font-weight: 400;
   line-height: 32.68px;
   text-align: left;
-}
-
-.tickets-section {
-  text-align: left;
-}
-.tickets-section h2 {
-  padding: 32px;
-  padding: 2rem;
-}
-.tickets-section h4 {
-  font-family: "Turret Road", sans-serif;
-  font-size: 48px;
-  font-size: 3rem;
-  font-weight: 800;
-  line-height: 52.46px;
-  text-align: left;
-  padding: 16px 32px;
-  padding: 1rem 2rem;
-  background: -webkit-gradient(linear, left top, right top, color-stop(20%, rgba(255, 0, 255, 0.8)), color-stop(80%, #9747ff));
-  background: linear-gradient(90deg, rgba(255, 0, 255, 0.8) 20%, #9747ff 80%);
-}
-.tickets-section .detail {
-  font-family: Alef, sans-serif;
-  font-size: 16px;
-  font-size: 1rem;
-  font-weight: 700;
-  line-height: 21.79px;
-  text-align: left;
-}
-.tickets-section .price {
-  font-family: "Turret Road", sans-serif;
-  font-size: 62px;
-  font-size: 3.875rem;
-  font-weight: 800;
-  line-height: 67.77px;
-  text-align: left;
-}
-.tickets-section p {
-  font-family: Alef, sans-serif;
-  font-size: 19.2px;
-  font-size: 1.2rem;
-  font-weight: 400;
-  line-height: 32.68px;
-  text-align: left;
-}
-.tickets-section .col-content {
-  border-width: 0 1px 1px 1px;
-  border-style: solid;
-  border-color: #ff00ff;
-}
-.tickets-section a {
-  color: white;
-  text-decoration: none;
-}
-.tickets-section .row > * {
-  padding-bottom: 32px !important;
-  padding-bottom: 2rem !important;
 }
 
 .free-ticket-section h2 {

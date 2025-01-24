@@ -76,9 +76,8 @@
 
 /*#endregion HomeHero*/
 
-/*#region HomeHeroSubtitle*/
-/*#region HomeHeroSubtitle*/
-.home-hero-subtitle {
+/*#region HomeHeroSubsection*/
+.home-hero-subsection {
   margin-top: 160px;
   font-family: "Share Tech";
 
@@ -88,13 +87,13 @@
 
     .ticket {
       justify-content: end;
-      padding-right: 120px;
+      padding-right: 100px;
       display: flex;
 
       p {
         color: base.$DarkBlue;
         font-family: "Share Tech";
-        font-size: 38px;
+        font-size: 48px;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -103,8 +102,10 @@
 
       background: base.$Green;
     }
+
     .filler {
       background: base.$Green;
+
       img {
         width: 100%;
       }
@@ -119,7 +120,7 @@
       color: #F9F9F9;
       text-align: right;
       font-family: "Share Tech";
-      font-size: 38px;
+      font-size: 48px;
       font-style: normal;
       font-weight: 400;
       line-height: normal;
@@ -129,7 +130,7 @@
       color: #5076F6;
       text-align: right;
       font-family: "Share Tech";
-      font-size: 38px;
+      font-size: 48px;
       font-style: normal;
       font-weight: 400;
       line-height: normal;
@@ -138,7 +139,7 @@
     .xaxa-text {
       margin: 50px 0 0 100px;
       color: base.$Green;
-      font-size: 20px;
+      font-size: 24px;
       font-style: normal;
       font-weight: 400;
       line-height: normal;
@@ -146,9 +147,99 @@
   }
 }
 
-/*#endregion HomeHeroSubtitle*/
-/*#endregion HomeHeroSubtitle*/
+/*#endregion HomeHeroSubsection*/
 
+/*#region HomeTickets */
+.home-tickets {
+  margin-top: 100px;
+
+  .ticket-card-green {
+    border: 2px solid base.$Green;
+  }
+
+  .ticket-card-white {
+    border: 2px solid base.$WhiteGray;
+
+  }
+
+  .ticket-card-blue {
+    border: 2px solid base.$LightBlue;
+
+  }
+
+  .card-green {
+    color: base.$Green;
+  }
+
+  .card-white {
+    color: base.$WhiteGray;
+  }
+
+  .card-blue {
+    color: base.$LightBlue;
+  }
+
+  h4 {
+    font-family: "Share Tech";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+  }
+
+  .detail {
+    font-family: Nunito;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    margin-left: -100px;
+    margin-bottom: 0;
+  }
+
+  .detail-green {
+    margin-left: -90px
+  }
+
+  .detail-white {
+    margin-left: -140px
+  }
+
+  .detail-blue {
+    margin-left: -110px
+  }
+
+
+  .price {
+    font-family: Nunito;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+  }
+
+  .description {
+    font-family: Nunito;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+
+  .row > * {
+    padding-bottom: 2rem !important;
+  }
+}
+
+/*#endregion HomeTickets*/
 
 .date-div {
   height: 25em;
@@ -517,62 +608,6 @@ li {
   text-align: left;
 }
 
-.tickets-section {
-  text-align: left;
-
-  h2 {
-    padding: 2rem;
-  }
-
-  h4 {
-    font-family: "Turret Road", sans-serif;
-    font-size: 3rem;
-    font-weight: 800;
-    line-height: 52.46px;
-    text-align: left;
-    padding: 1rem 2rem;
-    background: linear-gradient(90deg, rgba(255, 0, 255, 0.8) 20%, #9747ff 80%);
-  }
-
-  .detail {
-    font-family: Alef, sans-serif;
-    font-size: 1rem;
-    font-weight: 700;
-    line-height: 21.79px;
-    text-align: left;
-  }
-
-  .price {
-    font-family: "Turret Road", sans-serif;
-    font-size: 3.875rem;
-    font-weight: 800;
-    line-height: 67.77px;
-    text-align: left;
-  }
-
-  p {
-    font-family: Alef, sans-serif;
-    font-size: 1.2rem;
-    font-weight: 400;
-    line-height: 32.68px;
-    text-align: left;
-  }
-
-  .col-content {
-    border-width: 0 1px 1px 1px;
-    border-style: solid;
-    border-color: base.$lightPurple;
-  }
-
-  a {
-    color: white;
-    text-decoration: none;
-  }
-
-  .row > * {
-    padding-bottom: 2rem !important;
-  }
-}
 
 .free-ticket-section {
   h2 {
