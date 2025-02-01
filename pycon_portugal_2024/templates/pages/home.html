@@ -101,6 +101,169 @@
       </div>
     </div>
   </div>
+  <div class="container home-speakers mt-5 mb-5">
+    <div class="row">
+      <div class="col-12 d-flex justify-content-center mt-5 title-wrapper">
+        <button class="speakers-title-1">OUR</button>
+        <button class="speakers-title-2">SPEAKERS</button>
+      </div>
+
+      <div id="speakersCarousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <div class="row justify-content-center">
+
+              <div class="col-lg-3 col-md-4 col-10">
+                <button class="speaker-function keynote-button">KEYNOTE</button>
+                <img src="/static/images/speakers/JuliusBoakye.jpg"
+                     class="d-block w-100"
+                     alt="JuliusBoakye">
+                <div class="carousel-caption">
+                  <p class="speaker-name keynote">Julius Boakye</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 col-10">
+                <button class="speaker-function talk-button">TALK</button>
+                <img src="/static/images/speakers/MaximDanilov.jpg"
+                     class="d-block w-100"
+                     alt="MaximDanilov">
+                <div class="carousel-caption">
+                  <p class="speaker-name talk">Maxim Danilov</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 col-10">
+                <button class="speaker-function talk-button">TALK</button>
+                <img src="/static/images/speakers/QuaziNafiulIslam.jpg"
+                     class="d-block w-100" alt="QuaziNafiulIslam">
+                <div class="carousel-caption">
+                  <p class="speaker-name talk">Quazi Nafiul Islam</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 col-10">
+                <button class="speaker-function workshop-button">WORKSHOP</button>
+                <img src="/static/images/speakers/QuaziNafiulIslam.jpg"
+                     class="d-block w-100" alt="QuaziNafiulIslam">
+                <div class="carousel-caption">
+                  <p class="speaker-name workshop">Quazi Nafiul Islam</p>
+                </div>
+              </div>
+
+            </div>
+          </div>
+          <!-- second carousel -->
+          <div class="carousel-item">
+            <div class="row justify-content-center">
+              <div class="col-lg-3 col-md-4 col-10">
+                <button class="speaker-function talk-button">TALK</button>
+                <img src="/static/images/speakers/InacioGomesMedeiros.jpg"
+                     class="d-block w-100" alt="JorgeMiranda">
+                <div class="carousel-caption">
+                  <p class="speaker-name talk">Inacio Gomes Medeiros</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 col-10">
+                <button class="speaker-function workshop-button">WORKSHOP</button>
+                <img src="/static/images/speakers/JoaoVasconcelos.jpeg"
+                     class="d-block w-100" alt="Speaker 7">
+                <div class="carousel-caption">
+                  <p class="speaker-name workshop">Joao Vasconcelos</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 col-10">
+                <button class="speaker-function keynote-button">KEYNOTE</button>
+                <img src="/static/images/speakers/CaioSalgado.jpeg"
+                     class="d-block w-100"
+                     alt="Speaker 8">
+                <div class="carousel-caption">
+                  <p class="speaker-name keynote">Caio Salgado</p>
+                </div>
+              </div>
+              <div class="col-lg-3 col-md-4 col-10">
+                <button class="speaker-function workshop-button">WORKSHOP</button>
+                <img src="/static/images/speakers/StefanieMolin.jpeg"
+                     class="d-block w-100"
+                     alt="Speaker 9">
+                <div class="carousel-caption">
+                  <p class="speaker-name workshop">Stefanie Molin</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button"
+                data-bs-target="#speakersCarousel" data-bs-slide="prev"
+                aria-label="Previous">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button"
+                data-bs-target="#speakersCarousel" data-bs-slide="next"
+                aria-label="Next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div class="container home-free-tickets">
+    <div class="row">
+      <div class="col-12 d-flex justify-content-center">
+        <button class="free-tickets-section-title-1">YOU CAN WIN</button>
+      </div>
+      <div class="col-12 d-flex justify-content-center mb-5">
+        <button class="free-tickets-section-title-2">A FREE TICKET</button>
+      </div>
+      <div class="col-lg-4">
+        <div class="ticket-card-green">
+          <h4 class="text-center pt-3 card-green">CFP</h4>
+          <div class="col-content p-3 text-center">
+            <img class="mb-4 mt-3" src="{% static 'images/home/free_tickets_3.svg' %}"
+                 alt="CALL FOR PROPOSAL">
+            <p class="description card-green">Do you have content to share with the
+              community?
+            </p>
+            <button class="tickets-call-to-action call-to-action-green"><a
+              href="https://pretalx.evolutio.pt/pycon-portugal-2025/">SUBMIT</a>
+            </button>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div class="col-lg-4">
+        <div class="ticket-card-white">
+          <h4 class="text-center pt-3 card-white">VOLUNTEER</h4>
+          <div class="col-content p-3 text-center">
+            <img class="mb-4 mt-3" src="{% static 'images/home/free_tickets_1.svg' %}"
+                 alt="VOLUNTEERS">
+
+            <p class="description card-white">Do you want to see what’s behind the
+              curtain?
+            </p>
+            <button class="tickets-call-to-action call-to-action-white"><a
+              href="https://docs.google.com/forms/d/e/1FAIpQLSeywzmQzzVr-53q3ZBq7mjYjA5JYpDBk5mlyWEbTJCTVrOK9w/viewform">APPLY</a>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="ticket-card-blue">
+          <h4 class="text-center pt-3 card-blue">GRANT</h4>
+          <div class="col-content p-3 text-center">
+            <img class="mb-4 mt-3" src="{% static 'images/home/free_tickets_2.svg' %}"
+                 alt="GRANTS">
+
+            <p class="description card-blue">Do you need a push to attend PyCon
+              Portugal?
+            </p>
+            <button class="tickets-call-to-action call-to-action-blue"><a
+              href="information/grants">APPLY</a></button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
   {#  <div class="container-fluid px-0 home-header">#}
   {#    <div class="container-fluid px-0 home-banner">#}
