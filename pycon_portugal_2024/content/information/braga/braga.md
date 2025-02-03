@@ -25,7 +25,7 @@ Visiting Braga is like taking a time travel inside modernity. Old city and of tr
 -Câmara Municipal de Braga
 <br>
 <iframe style="width:100%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2871307.9567439742!2d-9.253030688695183!3d41.178230703557716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd24febc6cf5d867%3A0xbc5d054162d1e218!2sBraga!5e0!3m2!1spt-PT!2spt!4v1711109975375!5m2!1spt-PT!2spt" width="600" height="450" style="border:0;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<hr class="pink-line">
+<hr class="green-line">
 <br>
 ## Explore the city
 <div class="swiper-buttons d-none d-sm-block">
@@ -92,7 +92,7 @@ Visiting Braga is like taking a time travel inside modernity. Old city and of tr
     });
   });
 </script>
-<hr class="pink-line">
+<hr class="green-line">
 <br>
 ## Getting there
 Thanks to its great location, Braga is easily accessible by car, train, taxi or bus.
@@ -124,7 +124,7 @@ In terms of road transportation, Braga’s Bus Station hosts the companies Arriv
 Rede Expressos, Renex, Rodonorte, Salvador Alves e Fihos lda, Transdev, assuring the connection to several regional,
 national and international destinations.
 <br>
-<hr class="pink-line">
+<hr class="green-line">
 <br>
 ## Getting around
 **Tub - Transportes Urbanos de Braga**  

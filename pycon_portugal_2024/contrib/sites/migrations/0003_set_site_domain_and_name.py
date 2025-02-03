@@ -41,7 +41,7 @@ def update_site_forward(apps, schema_editor):
         Site,
         schema_editor.connection,
         "example.com",
-        "Pycon Portugal 2024",
+        "Pycon Portugal 2025",
     )
 
 

@@ -81,4 +81,4 @@ Please contact [sponsors@pycon.pt](mailto:sponsors@pycon.pt) with questions and 
 
 </object>
 
-<hr class="pink-line">
+<hr class="green-line">

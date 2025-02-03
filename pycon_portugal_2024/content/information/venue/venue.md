@@ -21,7 +21,7 @@ R. Monsenhor Airosa
 <br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5069.663304899653!2d-8.425918536088231!3d41.54131581562045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd24ffac9e112765%3A0xcfbbeef9f53e5d87!2sAltice%20Forum%20Braga!5e0!3m2!1spt-PT!2spt!4v1711117466207!5m2!1spt-PT!2spt" width="600" height="450" style="border:0; width:100%;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
-<hr class="pink-line">
+<hr class="green-line">
 <br>
 ## Explore the facilities
 

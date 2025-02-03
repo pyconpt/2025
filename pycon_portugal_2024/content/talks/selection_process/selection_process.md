@@ -6,7 +6,7 @@ layout: simple
 
 Follow us on social media for up to date information - see footer below!
 
-<hr class="pink-line">
+<hr class="green-line">
 
 ## Reviewing
 
@@ -16,7 +16,7 @@ We'll of course notify you regardless of the review outcome with the result. We'
 
 We value your feedback. If you have any questions, concerns or wish to volunteer for the review team, please get in touch with [content@pycon.pt](mailto:content@pycon.pt).
 
-<hr class="purple-line">
+<hr class="blue-line">
 
 ## Selection Process
 

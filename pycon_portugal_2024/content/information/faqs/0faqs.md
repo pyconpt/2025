@@ -16,7 +16,7 @@ The organizers of Pycon Portugal offer invitation letters to assist with your tr
 Grant Application is closed.
 
 **👉What do I do if I am refused visa but still bought tickets?**
-Sorry, hopefully that doesn't happen, but if it does send an email to our email here [2024@pycon.pt](mailto:2024@pycon.pt)
+Sorry, hopefully that doesn't happen, but if it does send an email to our email here [2025@python.pt](mailto:2025@python.pt)
 and the team will get back you.
 
 **👉Are there options for virtual participation?**

@@ -18,4 +18,4 @@ layout: centered
     </div>
 </ul>
 
-<hr class="pink-line">
+<hr class="green-line">

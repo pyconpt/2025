@@ -87,7 +87,7 @@ _be marked as spam._
 
 
 _To know more about this job visit [Pydantic Jobs](https://pydantic.dev/about#join-the-teams)_
-<hr class="pink-line">
+<hr class="green-line">
 
 <!-- second job  -->
 ### [**Principal Developer**](https://pydantic.dev/about#join-the-teams){:target="\_blank"}
@@ -149,7 +149,7 @@ No recruiters or agencies please, any contact from recruiters will be marked as 
 
 
 _To know more about this job visit [Pydantic Jobs](https://pydantic.dev/about#join-the-teams)_
-<hr class="pink-line">
+<hr class="green-line">
 
 [![Zencoder](/static/images/sponsors/zencoder.svg){:class='jobs my-3' style="width: 350px; height: auto;"}](https://zencoder.ai/){:target='_blank'}
 
@@ -190,7 +190,7 @@ Innovative Thinker: You have a track record of creating innovative solutions tha
 
 _Zencoder is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees._
 
-<hr class="pink-line">
+<hr class="green-line">
 
 ### [**Sr Full-Stack Software Engineer, Developer Tools**](https://job-boards.greenhouse.io/zencoder/jobs/4249747007){:target="\_blank"}
 **Remote**
@@ -237,7 +237,7 @@ You should possess experience developing high-quality products used and loved by
 
 _Zencoder is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees._
 
-<hr class="pink-line">
+<hr class="green-line">
 
 
 ### [**Senior Full-stack QA Engineer**](https://job-boards.greenhouse.io/zencoder/jobs/4532232007){:target="\_blank"}
@@ -290,7 +290,7 @@ _Zencoder is an equal opportunity employer. We celebrate diversity and are commi
 
 
 
-<hr class="pink-line">
+<hr class="green-line">
 
 
 ### [**Developer Advocate / Solutions Architect**](https://job-boards.greenhouse.io/zencoder/jobs/4518124007){:target="\_blank"}

@@ -7,4 +7,4 @@ Reading the above you might feel this is relevant for you and/or your employer t
 
 Please contact [sponsors@pycon.pt](mailto:sponsors@pycon.pt) with any request and comment.
 
-<hr class="pink-line">
+<hr class="green-line">

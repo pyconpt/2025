@@ -8,7 +8,7 @@ The team can be reached on [conduct@pycon.pt](mailto:conduct@pycon.pt).
 
 We would like to thank the DjangoCon Europe 2019 CoC team for the awesome CoC (which we adapted with some minor modifications) and the response guidelines (which we have adopted almost unedited from DjangoCon Europe 2018).
 
-<hr class="pink-line">
+<hr class="green-line">
 
 ### Why do we have a Code of Conduct?
 Our goals with having this Code of Conduct are:
@@ -18,7 +18,7 @@ Our goals with having this Code of Conduct are:
 * Informing everyone of the expected behaviour. We are a diverse community, and having a Code of Conduct makes the expectations over everybody's behaviour explicit and transparent.
 * Having a framework for report handling (see the response guidelines. The Code of Conduct is the basis for dealing with a report, assessing whether the CoC was violated, and what action should be taken.
 
-<hr class="purple-line">
+<hr class="blue-line">
 
 ### Our Code of Conduct
 We ask each attendant to keep the community in mind and do their best to foster a positive environment for everyone.
@@ -41,7 +41,7 @@ We are dedicated to providing a harassment-free conference experience for everyo
 * Condescending behavior towards people of different knowledge levels, and especially beginners, is unacceptable.
 * No one owes anyone any form of interaction or explanation for why they don't want contact. If someone asks you to leave them alone, accept and respect it without any further discussion, even if you think it is unwarranted.
 
-<hr class="pink-line">
+<hr class="green-line">
 
 ### Where does the Code of Conduct apply?
 This Code of Conduct applies to all conference related spaces. That includes, but is not limited to:
@@ -51,7 +51,7 @@ This Code of Conduct applies to all conference related spaces. That includes, bu
 * Slack channels, tweets with the conference hashtag, and other online media
 * The Code of Conduct does not exclusively apply to events on the conference agenda. For example, if after a scheduled social event, you go to a bar with a group of fellow participants and someone harasses you there, we would still treat that as a CoC violation.
 
-<hr class="purple-line">
+<hr class="blue-line">
 
 ### What can happen if the CoC is violated?
 
@@ -64,7 +64,7 @@ In case of a Code of Conduct violation, some of the most common actions organise
 * Removing a participant from the conference, without refund.
 * The action taken is at the discretion of the Code of Conduct team. Participants are expected to comply immediately, and further action may be taken in case a participant does not comply. A record will be kept of all incidents.
 
-<hr class="pink-line">
+<hr class="green-line">
 
 ### Where to report incidents
 
@@ -74,7 +74,7 @@ Your report will be treated confidentially and will only be discussed within the
 
 The team members will be introduced at the conference. You can message any of them at any time to discuss an incident or concern. You can also ask any other staff to help you find them.
 
-<hr class="purple-line">
+<hr class="blue-line">
 
 ### Guidelines for reporting incidents
 

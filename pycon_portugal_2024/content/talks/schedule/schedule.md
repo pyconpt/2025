@@ -80,7 +80,7 @@ The conference will take place from 9AM to 6PM.
 [//]: # ()
 [//]: # (The conference talks & workshops will take place from 9:00 AM to 6:30 PM, September 7, 8, and 9.)
 <br>
-  <!-- <hr class="purple-line"> -->
+  <!-- <hr class="blue-line"> -->
 <!-- Keep checking this page , we normally update on a daily basis. -->
 
 <!-- Follow us on social media for up to date information - see footer below! -->

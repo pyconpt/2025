@@ -27,6 +27,6 @@ With our limited funds, we can't promise you will receive a grant, but if you're
                        opacity: 0.5;" disabled>Grant Closed</button>
     </a>
 </div>
-If you have questions, you can write to [2024@pycon.pt](mailto:2024@pycon.pt).
+If you have questions, you can write to [2025@python.pt](mailto:2025@python.pt).
 
 **The application window closes on July 15th!**

@@ -20,7 +20,7 @@ layout: simple
     </div>
 </div>
 
-<hr class="purple-line">
+<hr class="blue-line">
 
 <!-- Coimbra -->
 <a href="https://2022.pycon.pt"><img src="/static/images/icons/coimbra.png" alt="2023 Coimbra" class="img-fluid main-img"></a>

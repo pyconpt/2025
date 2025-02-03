@@ -38,7 +38,7 @@ If you think you have something great to talk about – submit your idea! If you
 
 [![pretalx](/static/images/other/pretalx.svg){:class='secondary-logo'}](https://pretalx.com/p/about/){:target="_blank"}
 
-<hr class="pink-line">
+<hr class="green-line">
 
 ## Schedule ️
 
@@ -50,7 +50,7 @@ The conference will take place from 9AM to 6PM.
 
 Follow us on social media for up-to-date information - see footer below!
 
-<hr class="purple-line">
+<hr class="blue-line">
 
 ## Topics
 
@@ -74,7 +74,7 @@ You may think that your idea is not suited to PyCon Portugal, or that you couldn
 
 If you would like to ask a question, you are always welcome to write to the content committee: [content@pycon.pt](mailto:content@pycon.pt).
 
-<hr class="pink-line">
+<hr class="green-line">
 
 ## Bonuses
 
@@ -82,7 +82,7 @@ As a speaker, you will not need to buy a ticket, since you gain free entrance to
 
 For companies or employers: talks' content should not be influenced directly by commercial interests, but if your company or employer has supported your process for creating and giving the talk (for instance allowing you to prepare it in working hours), you are always welcome to mention this support during a talk.
 
-<hr class="purple-line">
+<hr class="blue-line">
 
 ## Guidelines
 
@@ -98,7 +98,7 @@ For companies or employers: talks' content should not be influenced directly by 
 
 * Original content: Since we have little space and lots of submissions, we prefer original content. If your talk is so awesome that you want to give it in multiple places, we'd ask you to consider putting a new spin on it, if at all possible.
 
-<hr class="pink-line">
+<hr class="green-line">
 
 ## Selection Process️
 
@@ -110,7 +110,7 @@ Moreover, we might prioritize speakers from an under-represented or marginalised
 
 We will document our selection process on this website and announce it via Twitter.
 
-<hr class="purple-line">
+<hr class="blue-line">
 
 ## Lightning Talks️
 

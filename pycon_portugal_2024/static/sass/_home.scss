@@ -2,10 +2,6 @@
 
 @use "base";
 
-.display-flex {
-  display: flex;
-}
-
 /*#region HomeHero*/
 .home-hero {
   margin-top: 100px;
@@ -75,7 +71,6 @@
 }
 
 /*#endregion HomeHero*/
-
 /*#region HomeHeroSubsection*/
 .home-hero-subsection {
   margin-top: 160px;
@@ -107,7 +102,68 @@
       background: base.$Green;
 
       img {
-        width: 100%;
+        width: 90%;
+      }
+    }
+
+    .button-wrapper {
+      position: absolute;
+      margin-top: -20%;
+
+      .button-1 {
+        position: absolute;
+        cursor: default;
+        border: 0;
+        transform: rotate(-9.274deg);
+        background: #5076F6;
+        color: #000;
+        text-align: center;
+        font-family: "Share Tech";
+        font-size: 80px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 88px;
+        margin-left: 210px;
+        padding: 0 50px 0 50px;
+        z-index: 10;
+      }
+
+      .button-2 {
+        position: absolute;
+        cursor: default;
+        border: 0;
+        background: #F9F9F9;
+        transform: rotate(-2.725deg);
+        color: #5076F6;
+        text-align: center;
+        font-family: "Share Tech";
+        font-size: 64px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 64px;
+        padding: 0 100px 0 100px;
+        margin-left: 320px;
+        margin-top: 80px;
+        z-index: 1;
+      }
+
+      .button-3 {
+        position: absolute;
+        cursor: default;
+        border: 0;
+        background: #1F2B37;
+        transform: rotate(5.584deg);
+        color: #F9F9F9;
+        text-align: center;
+        font-family: "Share Tech";
+        font-size: 80px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 80px;
+        padding: 0 50px 0 50px;
+        margin-left: 370px;
+        margin-top: 145px;
+        z-index: 0;
       }
     }
   }
@@ -148,7 +204,6 @@
 }
 
 /*#endregion HomeHeroSubsection*/
-
 /*#region HomeTickets */
 .home-tickets {
   margin-top: 100px;
@@ -308,6 +363,10 @@
 /*#endregion HomeTickets*/
 /*#region Speakers */
 .home-speakers {
+  a {
+    text-decoration: none;
+  }
+
   .title-wrapper {
     margin-bottom: 100px;
   }
@@ -426,6 +485,93 @@
 }
 
 /*endregion Speakers */
+/*#region Sponsors */
+.home-sponsors {
+  margin-bottom: 200px;
+  .sponsors-title {
+    border: 0;
+    color: base.$WhiteGray;
+    text-align: center;
+    font-family: "Share Tech";
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 88px;
+    background: base.$LightBlue;
+    transform: rotate(2.233deg);
+    margin-top: 100px;
+    cursor: default !important;
+  }
+
+  .diamond {
+    border: 0;
+    cursor: default;
+    color: base.$LightBlue;
+    text-align: center;
+    font-family: "Share Tech";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background: base.$Green;
+    padding: 10px 0 10px 0;
+    width: 170px;
+    margin: 100px 0 80px 0;
+  }
+
+  .platinum {
+    border: 0;
+    cursor: default;
+    color: base.$LightBlue;
+    text-align: center;
+    font-family: "Share Tech";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background: base.$WhiteGray;
+    padding: 10px 0 10px 0;
+    width: 170px;
+    margin: 80px 0 80px 0;
+  }
+
+  .grants {
+    border: 0;
+    cursor: default;
+    color: base.$Green;
+    text-align: center;
+    font-family: "Share Tech";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background: base.$LightBlue;
+    padding: 10px 0 10px 0;
+    width: 170px;
+    margin: 80px 0 80px 0;
+  }
+
+  .organizer {
+    border: 0;
+    cursor: default;
+    color: base.$DarkBlue;
+    text-align: center;
+    font-family: "Share Tech";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    background: base.$Green;
+    padding: 10px 0 10px 0;
+    width: 170px;
+    margin: 80px 0 80px 0;
+  }
+  img{
+    margin: 0 30px 0 30px;
+  }
+}
+
+/*#endregion Sponsors */
 /*#region HomeFreeTickets */
 .home-free-tickets {
   margin-top: 100px;

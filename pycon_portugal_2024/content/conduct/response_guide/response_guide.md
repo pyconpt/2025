@@ -6,7 +6,7 @@ This is a guide for the organisers and volunteers of PyCon Portugal on handling 
 
 Some parts of this guide discuss very severe incidents, like ongoing violence. This is not because these events are common at PyCon, but rather because we want to be prepared as well as reasonably possible, for anything from the more common smaller incidents to the most severe cases.
 
-<hr class="pink-line">
+<hr class="green-line">
 
 ## For Organisers and Volunteers
 
@@ -33,7 +33,7 @@ In urgent cases, where it is not possible to contact a CARE team member and you 
 
 * When possible, even in these cases, consult with another organiser or volunteer if you see one nearby.
 
-<hr class="purple-line">
+<hr class="blue-line">
 
 ## For CoC Response Team
 
@@ -43,7 +43,7 @@ Participants look towards the CARE team for appropriate behaviour, even more tha
 
 CARE team members almost never act on their own, including tasks like replying to Code of Conduct related e-mails. If it’s not possible to meet with the entire CARE team in time, at least one other team member should be consulted.
 
-<hr class="pink-line">
+<hr class="green-line">
 
 ### Receiving a report
 
@@ -51,13 +51,13 @@ Reports are typically received by e-mail, in Slack, or from another staff member
 
 When receiving a report, the CARE team acknowledges receipt as soon as possible, and aims to be understanding and compassionate. However, there should be no commitment on whether this is a violation or which action will be taken.
 
-<hr class="purple-line">
+<hr class="blue-line">
 
 ### Acting as a team
 
 The CARE team generally works, decides and communicates as a team. If the report indicates that immediate action is required and other CARE team members are not available, any CARE team member may take the action they see appropriate. The same guidelines for unilateral action apply as listed above for other staff members. If possible, it’s still preferred to take action after a brief discussion with at least one other CARE team member, or even any other organiser, rather than acting entirely unilaterally. Formal processes and guidelines must never get in the way of preventing threats to anyone’s safety.
 
-<hr class="pink-line"> 
+<hr class="green-line"> 
 
 ### Reviewing the report
 
@@ -72,7 +72,7 @@ A written record will be kept of each incident and its review. Although that som
 
 As a result of the meeting, the CARE team may come to a conclusion about a resolution, or may conclude that additional information should be obtained. In the latter case, this additional information will be collected as soon as possible. Any conversations as part of this should generally be done by two people from the CARE team.
 
-<hr class="purple-line">
+<hr class="blue-line">
 
 ### Conflicts of interest
 
@@ -80,7 +80,7 @@ As soon as reasonable, but at the latest at the report review meeting, team memb
 
 A conflict of interest does not inherently mean the team member can no longer participate in the process, as that would make it very hard for the team to act on reports involving well-known people in the community. However, if a report concerns someone a team member is very close to, they probably should not take part in the process. The team will decide together on where to draw this line in individual cases. Where possible, any conversations with offenders should not be done by their friends, as it can be very unpleasant for everyone involved.
 
-<hr class="pink-line">
+<hr class="green-line">
 
 ### Resolutions
 
@@ -97,13 +97,13 @@ The most common resolutions the CARE team can decide on are:
 
 When deciding on a resolution, our basic goal is to address the report in an appropriate way, while also looking to prevent or reduce the risk of continuing harm in the future. For example, we may try to distinguish whether a violation occurred intentionally or not, especially in not too severe cases like inappropriate jokes. In intentional cases, or severe behaviour, we'll probably choose for stronger measures. The CARE team can also use behaviour on social media, the conference Slack, or personal interactions to further build a picture of the person(s) involved.
 
-<hr class="purple-line">
+<hr class="blue-line">
 
 ### Informing the reporter
 
 After the resolution is complete, the reporter should be informed of the action taken by the CARE team, and the reasoning behind this.
 
-<hr class="pink-line">
+<hr class="green-line">
 
 ### Public statements
 
