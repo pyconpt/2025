@@ -223,6 +223,11 @@ p.small-text {
   position: relative;
   padding-top: 8vh;
 }
+@media (max-width: 990px) {
+  .custom-footer .footer-media {
+    margin: 20px 0 20px 0;
+  }
+}
 @media (max-width: 768px) {
   .custom-footer {
     padding-bottom: 20vh !important;
@@ -1134,6 +1139,21 @@ p.small-text {
 .home-sponsors img {
   margin: 0 30px 0 30px;
 }
+@media (max-width: 992px) {
+  .home-sponsors .sponsors-title {
+    font-size: 60px;
+    line-height: 66px;
+  }
+}
+@media (max-width: 500px) {
+  .home-sponsors .mobile-sponsor-images {
+    display: grid !important;
+    text-align: center;
+  }
+  .home-sponsors .mobile-sponsor-images img {
+    margin-bottom: 50px;
+  }
+}
 
 /*#endregion Sponsors */
 /*#region HomeFreeTickets */
@@ -1172,6 +1192,37 @@ p.small-text {
   line-height: 88px;
   cursor: default;
 }
+@media (max-width: 992px) {
+  .home-free-tickets .free-tickets-section-title-1 {
+    font-size: 60px;
+    line-height: 66px;
+  }
+  .home-free-tickets .free-tickets-section-title-2 {
+    font-size: 60px;
+    line-height: 66px;
+    margin-left: 200px;
+  }
+}
+@media (max-width: 768px) {
+  .home-free-tickets .free-tickets-section-title-1 {
+    font-size: 40px;
+    line-height: 44px;
+  }
+  .home-free-tickets .free-tickets-section-title-2 {
+    font-size: 40px;
+    line-height: 44px;
+  }
+}
+@media (max-width: 600px) {
+  .home-free-tickets .free-tickets-section-title-2 {
+    margin-left: 100px;
+  }
+}
+@media (max-width: 400px) {
+  .home-free-tickets .free-tickets-section-title-2 {
+    margin-left: 30px;
+  }
+}
 .home-free-tickets .ticket-card-green {
   border: 2px solid #77F1A1;
 }
@@ -1204,6 +1255,7 @@ p.small-text {
   font-weight: 400;
   line-height: normal;
   margin-bottom: 80px;
+  text-align: left;
 }
 .home-free-tickets a {
   color: white;

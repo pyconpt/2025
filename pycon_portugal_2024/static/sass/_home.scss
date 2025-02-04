@@ -569,6 +569,21 @@
   img{
     margin: 0 30px 0 30px;
   }
+@media(max-width: 992px) {
+    .sponsors-title{
+      font-size: 60px;
+      line-height: 66px;
+    }
+  }
+  @media(max-width: 500px){
+    .mobile-sponsor-images {
+      img{
+        margin-bottom: 50px;
+      }
+      display: grid!important;
+      text-align: center;
+    }
+  }
 }
 
 /*#endregion Sponsors */
@@ -592,6 +607,8 @@
     cursor: default;
   }
 
+
+
   .free-tickets-section-title-2 {
     margin-top: -30px;
     margin-left: 300px;
@@ -607,6 +624,41 @@
     line-height: 88px;
     cursor: default;
   }
+
+  @media(max-width: 992px) {
+    .free-tickets-section-title-1{
+      font-size: 60px;
+      line-height: 66px;
+    }
+    .free-tickets-section-title-2{
+      font-size: 60px;
+      line-height: 66px;
+      margin-left: 200px;
+    }
+  }
+  @media(max-width: 768px) {
+    .free-tickets-section-title-1{
+      font-size: 40px;
+      line-height: 44px;
+    }
+    .free-tickets-section-title-2{
+      font-size: 40px;
+      line-height: 44px;
+    }
+  }
+
+  @media(max-width: 600px){
+    .free-tickets-section-title-2{
+      margin-left: 100px;
+    }
+  }
+  @media(max-width: 400px){
+    .free-tickets-section-title-2{
+      margin-left: 30px;
+    }
+  }
+
+
 
   .ticket-card-green {
     border: 2px solid base.$Green;
@@ -650,6 +702,7 @@
     font-weight: 400;
     line-height: normal;
     margin-bottom: 80px;
+    text-align: left;
   }
 
   a {
