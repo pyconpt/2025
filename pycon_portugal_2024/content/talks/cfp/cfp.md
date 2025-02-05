@@ -1,38 +1,54 @@
 layout: simple
 
-## Call for Participation - Now Closed
+[//]: # (## Call for Participation - Now Closed)
 
-Thank you to everyone who showed interest and submitted their talks and workshops for PyCon Portgual 2024, set to take place in the beautiful city of Altice Forum, Braga. The Call for Proposals (CFP) officially closed at 23:59 (UTC),
+[//]: # ()
+[//]: # (Thank you to everyone who showed interest and submitted their talks and workshops for PyCon Portgual 2024, set to take place in the beautiful city of Altice Forum, Braga. The Call for Proposals &#40;CFP&#41; officially closed at 23:59 &#40;UTC&#41;,)
 
-We have been overwhelmed by the enthusiasm and diversity of the proposals received, covering a wide range of both technical and non-technical topics. It's inspiring to see such vibrant participation from both new and seasoned speakers, reflecting the inclusive and supportive spirit of the PyCon community.
+[//]: # ()
+[//]: # (We have been overwhelmed by the enthusiasm and diversity of the proposals received, covering a wide range of both technical and non-technical topics. It's inspiring to see such vibrant participation from both new and seasoned speakers, reflecting the inclusive and supportive spirit of the PyCon community.)
 
-**What Happens Next?**
-Our review team is now working diligently to evaluate all the submissions. We aim to craft a comprehensive program that caters to all skill levels and interests, ensuring a rewarding experience for all attendees. Selected speakers will be notified, and the full conference schedule will be announced shortly thereafter. Stay tuned for updates!
+[//]: # ()
+[//]: # (**What Happens Next?**)
 
-**Missed the CFP Deadline**
-If you missed this year's CFP deadline but still wish to contribute, there are plenty of other ways to get involved. We encourage you to participate in the PyCon Portgual [Slack channel](https://join.slack.com/t/pyconportugal/shared_invite/zt-1ckszg1ye-QDgxx3lOkC15Ocal8xhCSg), where you can engage with the community, offer support, or even find collaboration opportunities. Your involvement doesn't have to end with the CFP - the Python community thrives on continuous sharing and support.
+[//]: # (Our review team is now working diligently to evaluate all the submissions. We aim to craft a comprehensive program that caters to all skill levels and interests, ensuring a rewarding experience for all attendees. Selected speakers will be notified, and the full conference schedule will be announced shortly thereafter. Stay tuned for updates!)
 
-**Stay Connected**
-For the latest updates, remember to follow us on Twitter [PyCon Portgual](https://x.com/PyConPT) and check our official website regularly. We'll be sharing more information about the conference schedule, speakers, and other exciting activities planned for PyCon Portgual 2024 in ViAltice Forum, Braga.
+[//]: # ()
+[//]: # (**Missed the CFP Deadline**)
 
-**Questions or Suggestions?**
-Our team is here to assist you. Should you have any questions or suggestions, please feel free to reach out to us at content@pycon.pt. We're committed to making PyCon Portgual 2024 an inclusive, engaging, and memorable event for everyone.
+[//]: # (If you missed this year's CFP deadline but still wish to contribute, there are plenty of other ways to get involved. We encourage you to participate in the PyCon Portgual [Slack channel]&#40;https://join.slack.com/t/pyconportugal/shared_invite/zt-1ckszg1ye-QDgxx3lOkC15Ocal8xhCSg&#41;, where you can engage with the community, offer support, or even find collaboration opportunities. Your involvement doesn't have to end with the CFP - the Python community thrives on continuous sharing and support.)
 
-Thank you once again for your enthusiasm and participation. We can't wait to see you in Braga and explore the amazing world of Ptyhon together!
+[//]: # ()
+[//]: # (**Stay Connected**)
 
-We'll see you in Braga!
+[//]: # (For the latest updates, remember to follow us on Twitter [PyCon Portgual]&#40;https://x.com/PyConPT&#41; and check our official website regularly. We'll be sharing more information about the conference schedule, speakers, and other exciting activities planned for PyCon Portgual 2024 in ViAltice Forum, Braga.)
 
-If you have any questions, please do not hesitate to contact us at [content@pycon.pt](mailto:content@pycon.pt). Don't forget to follow us on Twitter [@PyCon PT](https://x.com/PyConPT){:target="\_blank"} for the latest up to date information!
+[//]: # ()
+[//]: # (**Questions or Suggestions?**)
 
-**CfP powered by:**
+[//]: # (Our team is here to assist you. Should you have any questions or suggestions, please feel free to reach out to us at content@pycon.pt. We're committed to making PyCon Portgual 2024 an inclusive, engaging, and memorable event for everyone.)
 
-[![pretalx](/static/images/other/pretalx.svg){:class='hotel'}](https://pretalx.com/p/about/){:target="\_blank"}
+[//]: # ()
+[//]: # (Thank you once again for your enthusiasm and participation. We can't wait to see you in Braga and explore the amazing world of Ptyhon together!)
 
-<!-- This page contains all information regarding the proposal process for PyCon Portugal – we will update it regularly as new information becomes available.
+[//]: # ()
+[//]: # (We'll see you in Braga!)
 
-The talk submissions are [open](https://pretalx.evolutio.pt/pycon-portugal-2024/cfp){:target="_blank"}! If you have any questions, please do not hesitate to contact us at [content@pycon.pt](mailto:content@pycon.pt). Don't forget to follow us on Twitter @PyConPT for the latest up-to-date information!
+[//]: # ()
+[//]: # (If you have any questions, please do not hesitate to contact us at [content@pycon.pt]&#40;mailto:content@pycon.pt&#41;. Don't forget to follow us on Twitter [@PyCon PT]&#40;https://x.com/PyConPT&#41;{:target="\_blank"} for the latest up to date information!)
 
-If you think you have something great to talk about – submit your idea! If you are unsure, talk it over with somebody, or go to Slack to find previous speakers and participants to discuss your idea with. When in doubt, submit your talk 😉! -->
+
+## Call for Participation - Open
+
+This page contains all information regarding the proposal process for Pycon Portugal - we will update it regularly as new information becomes available.
+
+It's a new year. What better way to start it than submitting your talk or workshop for **Pycon Portugal 2025**, in beautiful **Cascais, Portugal**? 
+
+The **Call for Proposals (CFP)** is [open](https://pretalx.evolutio.pt/pycon-portugal-2025/cfp){:target="_blank"} now and will be open until midnight on February 28 [AoE Time Zone](https://www.timeanddate.com/time/zones/aoe); please check the CFP for your timezone specifics. That's plenty of time, you don't have to leave it to the last minute. If you have any questions, please do not hesitate to contact us at [content@pycon.pt](mailto:content@pycon.pt)
+
+If you think you have something great to talk about – submit your idea! If you are unsure, talk it over with somebody, or go to Slack to find previous speakers and participants to discuss your idea with. When in doubt, submit your talk 😉! 
+
+
 
 ### CfP powered by:
 
@@ -40,41 +56,57 @@ If you think you have something great to talk about – submit your idea! If you
 
 <hr class="green-line">
 
-## Schedule ️
+[//]: # (## Schedule ️)
 
-* Talks - October 17, 18
+[//]: # ()
+[//]: # (* Talks - October 17, 18)
 
-* Workshops - October 19
+[//]: # ()
+[//]: # (* Workshops - October 19)
 
-The conference will take place from 9AM to 6PM.
+[//]: # ()
+[//]: # (The conference will take place from 9AM to 6PM.)
 
-Follow us on social media for up-to-date information - see footer below!
+[//]: # ()
+[//]: # (Follow us on social media for up-to-date information - see footer below!)
 
-<hr class="blue-line">
+[//]: # ()
+[//]: # (<hr class="blue-line">)
 
-## Topics
+[//]: # (## Topics)
 
-* Python internals and challenges in modern development.
+[//]: # ()
+[//]: # (* Python internals and challenges in modern development.)
 
-* Wild ideas, clever hacks, surprising or cool use cases.
+[//]: # ()
+[//]: # (* Wild ideas, clever hacks, surprising or cool use cases.)
 
-* Improving Python developers’ lives.
+[//]: # ()
+[//]: # (* Improving Python developers’ lives.)
 
-* Pushing Python to its limits.
+[//]: # ()
+[//]: # (* Pushing Python to its limits.)
 
-* Fundamentals, in a modern light.
+[//]: # ()
+[//]: # (* Fundamentals, in a modern light.)
 
-* The Python community, culture, history, past, present & future, the why, the who, and the what of it all.
+[//]: # ()
+[//]: # (* The Python community, culture, history, past, present & future, the why, the who, and the what of it all.)
 
-* Security.
+[//]: # ()
+[//]: # (* Security.)
 
-* Whatever you deem appropriate – it's your conference, after all!
+[//]: # ()
+[//]: # (* Whatever you deem appropriate – it's your conference, after all!)
 
-You may think that your idea is not suited to PyCon Portugal, or that you couldn't possibly present it well, or that others will do it better. We want to prove you wrong. Read more on [Why You, Too, Should Speak at a Conference](https://www.womenwhocode.com/blog/why-you-too-should-speak-at-a-conference){:target="_blank"}, which applies to speaking at PyCon Portugal!
+[//]: # ()
+[//]: # (You may think that your idea is not suited to PyCon Portugal, or that you couldn't possibly present it well, or that others will do it better. We want to prove you wrong. Read more on [Why You, Too, Should Speak at a Conference]&#40;https://www.womenwhocode.com/blog/why-you-too-should-speak-at-a-conference&#41;{:target="_blank"}, which applies to speaking at PyCon Portugal!)
 
-If you would like to ask a question, you are always welcome to write to the content committee: [content@pycon.pt](mailto:content@pycon.pt).
+[//]: # ()
+[//]: # (If you would like to ask a question, you are always welcome to write to the content committee: [content@pycon.pt]&#40;mailto:content@pycon.pt&#41;.)
 
-<hr class="green-line">
+[//]: # ()
+[//]: # (<hr class="green-line">)
 
 ## Bonuses
 

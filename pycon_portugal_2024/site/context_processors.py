@@ -13,13 +13,13 @@ def links(request):
             "Information": {
                 "dropdown": "true",
                 "submenu": {
-                    "BRAGA": "/information/braga/",
+                    "CASCAIS": "/information/cascais/",
                     "VENUE": "/information/venue/",
                     "GRANTS": "/information/grants/",
                     "SPRINTS": "/information/sprints/",
+                    "HOSPITALITY": "/information/hospitality",
+                    "T-SHIRTS": "/information/t-shirts",
                     "FAQS": "/information/faqs/",
-                    "PREVIOUS EDITIONS": "/information/previous/",
-
                 },
             },
             "Sponsors/Jobs": {
