@@ -2,27 +2,70 @@ layout: simple
 
 ## Venue
 
-[//]: # (In this second edition, we had a record number of submissions: 113. 🎉)
-
-[//]: # ()
-
-[//]: # (Please check the current Schedule.)
-
-[//]: # ()
-
-[//]: # (The conference talks & workshops will take place from 9:00 AM to 6:30 PM, September 7, 8, and 9.)
 <br>
-The conference will take place in Altice Forum Braga.<br>
-[![pretalx](/static/images/logo/altice.png){:class='altice-logo'}](https://www.altice.pt/pt){:target="_blank"}
+The conference will take place in Nova SBE Cascais!<br>
+[![pretalx](/static/images/nova_sbe/nova_logo_2.png){:class='nova-sbe-logo'}](https://www.altice.pt/pt){:target="_blank"}
 <br>
-**Altice Forum Braga** 
-R. Monsenhor Airosa 
-4705-002 Braga
+**Nova SBE Cascais** 
+R. da Holanda 1
+2775-405 Carcavelos
 <br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5069.663304899653!2d-8.425918536088231!3d41.54131581562045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd24ffac9e112765%3A0xcfbbeef9f53e5d87!2sAltice%20Forum%20Braga!5e0!3m2!1spt-PT!2spt!4v1711117466207!5m2!1spt-PT!2spt" width="600" height="450" style="border:0; width:100%;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3114.712109987524!2d-9.328352023984158!3d38.67848385959125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd193313310c6687%3A0x8ca00c36063deaa1!2sNova%20School%20of%20Business%20and%20Economics!5e0!3m2!1spt-PT!2spt!4v1739123315901!5m2!1spt-PT!2spt" width="600" height="450" style="border:0; width:100%;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 <hr class="green-line">
-<br>
+
+## A School of Business and Economics... and so much more
+### What we stand for
+We understood our role from the very beginning of our journey. And for the past 40 years, we have committed to participating in the positive transformation of our world. As the world changes, we will adapt to its multiple challenges. As the challenges continue - we will stay true to who we are. 
+We believe we commit to every single person who continues to wonder, discover, and create. To all those who keep trying to improve themselves and make a meaningful impact. 
+We believe we should support those who strive to be better: to do better as people, professionals, leaders, and citizens. 
+Tomorrow as with yesterday, we are a school with a role to play. A role we cannot avoid or delay. We will offer a space to all those who believe in our ability to do better - curious minds and resilient souls. A Space where ideas and ideals can flourish safely, and freely. 
+We are a community of world citizens who want to improve peoples' lives and in doing so, prove our collective potential to keep growing. This is our test and our ultimate driving force.
+
+<hr class="blue-line">
+
+## Programs
+- [BACHELOR'S](https://www.novasbe.unl.pt/en/programs/bachelors)
+- [MASTER'S](https://www.novasbe.unl.pt/en/programs/masters)
+- [EXECUTIVE MASTER'S](https://www.novasbe.unl.pt/en/programs/executive-masters)
+- [PH.D.S](https://www.novasbe.unl.pt/en/programs/phds)
+- [POSTGRADUATE PROGRAMS](https://www.novasbe.unl.pt/en/programs/postgraduate-programs)
+- [THE LISBON MBA](https://www.novasbe.unl.pt/en/programs/the-lisbon-mba)
+- [SUMMER SCHOOLS](https://www.novasbe.unl.pt/en/programs/summer-schools)
+
+### Financial Times
+\#7 International Master’s in Finance worldwide; \#1 in Portugal
+\#8 International Master’s in Management worldwide; #1 in Portugal 
+\#1 Executive Education in Portugal; #13 in Custom Programs in the World
+
+### Eduniversal
+\#2 Master’s in Finance in Europe 
+\#2 Master’s in Economics in Europe 
+\#2 Master’s in Management in Europe 
+
+Our commitment allowed us to ganin several important accreditations. EQUIS, AMBA, AACSB.
+Only approximately 130 business schools in the world have all three accreditations.
+
+<hr class="green-line">
+
+## School Features
+- Set between Lisbon and Cascais, among the safest cities in Europe
+- 70 % sunny days a year, coastal lifestyle
+- Rich history and culture
+- Open to diversity and creativity
+- Comfortable for english speakers
+- All courses taught in English
+- 40 % international students
+- 21,000 Alumni in 60+ countries and 100+ cities
+- Strong link to the corporate world
+- 60 Corporate Partners
+- 55% of the current students are international
+- 200+ exchange deals with 50 countries
+- +3M € Invested in scholarships for all programs
+- 58% of Master's students find jobs abroad
+
+<hr class="blue-line">
+
 ## Explore the facilities
 
 <div class="swiper-buttons d-none d-sm-block">
@@ -39,54 +82,45 @@ R. Monsenhor Airosa
 
 <div markdown="1" class="swiper-slide">
 
-![ALTICE 1](/static/images/altice/altice_1.jpg){:class='altice'}
+![NOVA_1](/static/images/nova_sbe/nova_1.jpg)
 
 </div>
 
 <div markdown="1" class="swiper-slide">
 
-![ALTICE 2](/static/images/altice/altice_2.jpg){:class='altice'}
+![NOVA_2](/static/images/nova_sbe/nova_2.jpg)
 
 </div>
 
 <div markdown="1" class="swiper-slide">
 
-![ALTICE 3](/static/images/altice/altice_3.jpg){:class='altice'}
+![NOVA_3](/static/images/nova_sbe/nova_3.jpg)
 
 </div>
 
 <div markdown="1" class="swiper-slide">
 
-![ALTICE 4](/static/images/altice/altice_4.jpg){:class='altice'}
+![NOVA_4](/static/images/nova_sbe/nova_4.jpg)
 
 </div>
 
 <div markdown="1" class="swiper-slide">
 
-![ALTICE 5](/static/images/altice/altice_5.jpg){:class='altice'}
+![NOVA_5](/static/images/nova_sbe/nova_5.jpg)
 
 </div>
 
 <div markdown="1" class="swiper-slide">
 
-![ALTICE 6](/static/images/altice/altice_6.jpg){:class='altice'}
+![NOVA_6](/static/images/nova_sbe/nova_6.jpg)
 
 </div>
 <div markdown="1" class="swiper-slide">
 
-![ALTICE 7](/static/images/altice/altice_7.jpg){:class='altice'}
+![NOVA_7](/static/images/nova_sbe/nova_7.jpg)
 
 </div>
-<div markdown="1" class="swiper-slide">
 
-![ALTICE 8](/static/images/altice/altice_8.jpg){:class='altice'}
-
-</div>
-<div markdown="1" class="swiper-slide">
-
-![ALTICE 9](/static/images/altice/altice_9.jpg){:class='altice'}
-
-</div>
 </div>
 
 </div>
@@ -104,11 +138,10 @@ R. Monsenhor Airosa
     });
   });
 </script>
-**Congress Room**  
-Modular space with a total area of 450m2.  
-- [Virtual tour](https://www.forumbraga.com/virtualtour/index.html?start_scene=scene_055_SalaDeCongressos1){:style="color: white;" target="_blank"}
 
-**Small Auditorium**  
-The Small Auditorium, located on the 1st floor of the Congress Centre has a capacity of 254 seats, of which 4 are intended for disabled people.
-- [Virtual tour](https://www.forumbraga.com/virtualtour/index.html?start_scene=scene_044_AuditorioPequeno2){:style="color: white;" target="_blank"}
 
+**Nova SBE Tour**
+- [Virtual tour](https://campustour.novasbe.pt/){ target="_blank"}
+
+
+[//]: # (<iframe width="600" height="450" style="border:0; width:100%;" src="https://www.youtube.com/embed/SI46MWq5GD4?si=9rjZL_btZCNf2fqm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)

@@ -104,14 +104,20 @@ p.small-text {
   color: #77F1A1;
 }
 
-.sponsorhip-title {
-  padding: 0;
-  color: #ffffff;
-  font-family: Turret Road, sans-serif;
-  font-size: 2em;
-  font-weight: 800;
+@media (max-width: 992px) {
+  h2 {
+    font-size: 60px;
+  }
 }
-
+@media (max-width: 768px) {
+  h2 {
+    font-size: 50px;
+  }
+  p,
+  li {
+    font-size: 18px;
+  }
+}
 @media screen and (max-width: 600px) {
   .sponsorhip-title {
     font-size: 55px;
@@ -203,14 +209,20 @@ p.small-text {
   color: #77F1A1;
 }
 
-.sponsorhip-title {
-  padding: 0;
-  color: #ffffff;
-  font-family: Turret Road, sans-serif;
-  font-size: 2em;
-  font-weight: 800;
+@media (max-width: 992px) {
+  h2 {
+    font-size: 60px;
+  }
 }
-
+@media (max-width: 768px) {
+  h2 {
+    font-size: 50px;
+  }
+  p,
+  li {
+    font-size: 18px;
+  }
+}
 @media screen and (max-width: 600px) {
   .sponsorhip-title {
     font-size: 55px;
@@ -429,14 +441,20 @@ p.small-text {
   color: #77F1A1;
 }
 
-.sponsorhip-title {
-  padding: 0;
-  color: #ffffff;
-  font-family: Turret Road, sans-serif;
-  font-size: 2em;
-  font-weight: 800;
+@media (max-width: 992px) {
+  h2 {
+    font-size: 60px;
+  }
 }
-
+@media (max-width: 768px) {
+  h2 {
+    font-size: 50px;
+  }
+  p,
+  li {
+    font-size: 18px;
+  }
+}
 @media screen and (max-width: 600px) {
   .sponsorhip-title {
     font-size: 55px;
@@ -621,14 +639,20 @@ p.small-text {
   color: #77F1A1;
 }
 
-.sponsorhip-title {
-  padding: 0;
-  color: #ffffff;
-  font-family: Turret Road, sans-serif;
-  font-size: 2em;
-  font-weight: 800;
+@media (max-width: 992px) {
+  h2 {
+    font-size: 60px;
+  }
 }
-
+@media (max-width: 768px) {
+  h2 {
+    font-size: 50px;
+  }
+  p,
+  li {
+    font-size: 18px;
+  }
+}
 @media screen and (max-width: 600px) {
   .sponsorhip-title {
     font-size: 55px;
@@ -1652,14 +1676,20 @@ p.small-text {
   color: #77F1A1;
 }
 
-.sponsorhip-title {
-  padding: 0;
-  color: #ffffff;
-  font-family: Turret Road, sans-serif;
-  font-size: 2em;
-  font-weight: 800;
+@media (max-width: 992px) {
+  h2 {
+    font-size: 60px;
+  }
 }
-
+@media (max-width: 768px) {
+  h2 {
+    font-size: 50px;
+  }
+  p,
+  li {
+    font-size: 18px;
+  }
+}
 @media screen and (max-width: 600px) {
   .sponsorhip-title {
     font-size: 55px;
@@ -1667,14 +1697,14 @@ p.small-text {
   }
 }
 table {
-  border: solid white 1px;
+  border: solid #77F1A1 1px;
 }
 
 td,
 th {
   color: #ffffff;
   padding: 0.5em;
-  border: #ff00ff solid 1px;
+  border: #77F1A1 solid 1px;
 }
 
 blockquote p {
@@ -1773,7 +1803,7 @@ blockquote {
   pointer-events: none;
 }
 
-.altice-logo {
+.nova-sbe-logo {
   max-height: 150px;
   max-width: 350px;
   height: auto;

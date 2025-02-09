@@ -6,8 +6,7 @@ We have made a large sponsorship menu to invite all to contribute and to give yo
 
 Please see the detailed description and options in the sponsorships brochure.
 
-[<center><button class="btn main-purple-btn">Discover the Sponsorship Brochure (PDF)</button></center>](/static/docs/brochura_geral-vfinal.pdf){:target="\_blank"}
-
+[//]: # ([<center><button class="btn main-purple-btn">Discover the Sponsorship Brochure &#40;PDF&#41;</button></center>]&#40;/static/docs/brochura_geral-vfinal.pdf&#41;{:target="\_blank"})
 The following table highlights the main sponsor levels.
 
 <!-- | Levels       | High-level Description                         | Included Tickets | Price\* |

@@ -58,13 +58,15 @@ $red: #b94a48;
 // bootstrap alert CSS, translated to the django-standard levels of
 // debug, info, success, warning, error
 
-a{
+a {
   color: $Green;
 }
+
 a:hover {
   color: $Green;
   filter: brightness(80%);
 }
+
 .alert-debug {
   background-color: $white;
   border-color: $mint-green;
@@ -127,12 +129,20 @@ p.small-text {
   color: $Green;
 }
 
-.sponsorhip-title {
-  padding: 0;
-  color: #ffffff;
-  font-family: Turret Road, sans-serif;
-  font-size: 2em;
-  font-weight: 800;
+@media(max-width: 992px) {
+  h2 {
+    font-size: 60px;
+  }
+}
+
+@media(max-width: 768px) {
+  h2 {
+    font-size: 50px;
+  }
+  p,
+  li {
+    font-size: 18px;
+  }
 }
 
 @media screen and (max-width: 600px) {
