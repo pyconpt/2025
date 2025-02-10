@@ -10,11 +10,21 @@
         <button class="hero-button green">2025</button>
         <button class="hero-button white">PYCON PORTUGAL</button>
       </div>
+      <div class="button-wrapper-mobile d-none">
+        <div class="col-12"><button class="hero-button button-1">WELCOME TO</button></div>
+        <div class="col-12"><button class="hero-button button-2">PYCON</button></div>
+        <div class="col-12"><button class="hero-button button-3">PORTUGAL</button></div>
+        <div class="col-12"><button class="hero-button button-4">2025</button></div>
+      </div>
     </div>
   </div>
   <div class="container-fluid home-hero-subsection">
     <div class="row">
-      <div class="col-12 col-md-6 left">
+      <div class="info-mobile col-12 right">
+        <p class="location">CASCAIS</p>
+        <p class="date">JUNHO 2025</p>
+      </div>
+      <div class="col-12 col-lg-6 left">
         <div class="ticket d-flex">
           <p>BUY TICKETS NOW</p>
           <img src="{% static 'images/home/ticket_icon.svg' %}" alt="ticket_icon">
@@ -29,9 +39,19 @@
           <button class="button-3">FOR</button>
         </div>
       </div>
-      <div class="col-12 col-md-6 right">
+      <div class="info-desktop col-12 col-md-6 right">
         <p class="location">CASCAIS</p>
         <p class="date">JUNHO 2025</p>
+        <p class="xaxa-text">
+          Whether you are an experienced<br>
+          programmer, a hobby hacker or an<br>
+          absolute beginner, we’d love to welcome<br>
+          you to the Python community. <br><br>
+          PyCons are hosted all around the world by<br>
+          volunteers from local Python communities.
+        </p>
+      </div>
+      <div class="info-mobile-2 col-12 right">
         <p class="xaxa-text">
           Whether you are an experienced<br>
           programmer, a hobby hacker or an<br>
@@ -153,7 +173,7 @@
       </div>
     </div>
   </div>
-  <div class="container-fluid home-important-dates mb-5 position-relative">
+  <div class="container-fluid home-important-dates position-relative">
     <img src="{% static "images/home/important_dates_filler.svg" %}" alt="Filler">
     <div class="row justify-content-end">
       <div class="col-12 d-flex justify-content-center">
@@ -211,7 +231,7 @@
       </div>
     </div>
   </div>
-  <div class="container home-speakers mt-5 mb-5">
+  <div class="container home-speakers mb-5">
     <div class="row">
       <div class="col-12 d-flex justify-content-center title-wrapper">
         <button class="speakers-title-1">OUR</button>
@@ -222,7 +242,7 @@
         <div class="carousel-inner">
           <div class="carousel-item active">
             <div class="row justify-content-center">
-              <div class="col-lg-3 col-md-4 col-10">
+              <div class="col-lg-3 col-md-5 col-10">
                 <a href="">
                   <button class="speaker-function keynote-button">KEYNOTE</button>
                   <img src="/static/images/speakers/JuliusBoakye.jpg"
@@ -233,7 +253,18 @@
                   </div>
                 </a>
               </div>
-              <div class="col-lg-3 col-md-4 col-10">
+              <div class="col-lg-3 col-md-5 col-10">
+                <a href="">
+                  <button class="speaker-function keynote-button">KEYNOTE</button>
+                  <img src="/static/images/speakers/JuliusBoakye.jpg"
+                       class="d-block w-100"
+                       alt="JuliusBoakye">
+                  <div class="carousel-caption">
+                    <p class="speaker-name keynote">Julius Boakye</p>
+                  </div>
+                </a>
+              </div>
+              <div class="col-lg-3 col-md-5 col-10">
                 <a href="">
                   <button class="speaker-function talk-button">TALK</button>
                   <img src="/static/images/speakers/MaximDanilov.jpg"
@@ -249,7 +280,7 @@
           <!-- second carousel -->
           <div class="carousel-item">
             <div class="row justify-content-center">
-              <div class="col-lg-3 col-md-4 col-10">
+              <div class="col-lg-3 col-md-5 col-10">
                 <a href="">
                   <button class="speaker-function talk-button">TALK</button>
                   <img src="/static/images/speakers/InacioGomesMedeiros.jpg"
@@ -259,7 +290,17 @@
                   </div>
                 </a>
               </div>
-              <div class="col-lg-3 col-md-4 col-10">
+              <div class="col-lg-3 col-md-5 col-10">
+                <a href="">
+                  <button class="speaker-function talk-button">TALK</button>
+                  <img src="/static/images/speakers/InacioGomesMedeiros.jpg"
+                       class="d-block w-100" alt="JorgeMiranda">
+                  <div class="carousel-caption">
+                    <p class="speaker-name talk">Inacio Gomes Medeiros</p>
+                  </div>
+                </a>
+              </div>
+              <div class="col-lg-3 col-md-5 col-10">
                 <a href="">
                   <button class="speaker-function workshop-button">WORKSHOP</button>
                   <img src="/static/images/speakers/JoaoVasconcelos.jpeg"
@@ -285,7 +326,86 @@
           <span class="visually-hidden">Next</span>
         </button>
       </div>
+      <div id="speakersCarousel_mobile" class="carousel slide d-none" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <!-- Slide 1: Julius Boakye -->
+          <div class="carousel-item active">
+            <div class="row justify-content-center">
+              <div class="col-10 col-md-6 col-lg-3">
+                <a href="">
+                  <button class="speaker-function keynote-button">KEYNOTE</button>
+                  <img src="/static/images/speakers/JuliusBoakye.jpg"
+                       class="d-block w-100" alt="JuliusBoakye">
+                  <div class="carousel-caption">
+                    <p class="speaker-name keynote">Julius Boakye</p>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- Slide 2: Maxim Danilov -->
+          <div class="carousel-item">
+            <div class="row justify-content-center">
+              <div class="col-10 col-md-6 col-lg-3">
+                <a href="">
+                  <button class="speaker-function talk-button">TALK</button>
+                  <img src="/static/images/speakers/MaximDanilov.jpg"
+                       class="d-block w-100" alt="MaximDanilov">
+                  <div class="carousel-caption">
+                    <p class="speaker-name talk">Maxim Danilov</p>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- Slide 3: Inacio Gomes Medeiros -->
+          <div class="carousel-item">
+            <div class="row justify-content-center">
+              <div class="col-10 col-md-6 col-lg-3">
+                <a href="">
+                  <button class="speaker-function talk-button">TALK</button>
+                  <img src="/static/images/speakers/InacioGomesMedeiros.jpg"
+                       class="d-block w-100" alt="InacioGomesMedeiros">
+                  <div class="carousel-caption">
+                    <p class="speaker-name talk">Inacio Gomes Medeiros</p>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- Slide 4: Joao Vasconcelos -->
+          <div class="carousel-item">
+            <div class="row justify-content-center">
+              <div class="col-10 col-md-6 col-lg-3">
+                <a href="">
+                  <button class="speaker-function workshop-button">WORKSHOP</button>
+                  <img src="/static/images/speakers/JoaoVasconcelos.jpeg"
+                       class="d-block w-100" alt="JoaoVasconcelos">
+                  <div class="carousel-caption">
+                    <p class="speaker-name workshop">Joao Vasconcelos</p>
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- Carousel Controls -->
+        <button class="carousel-control-prev" type="button"
+                data-bs-target="#speakersCarousel_mobile" data-bs-slide="prev"
+                aria-label="Previous">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button"
+                data-bs-target="#speakersCarousel_mobile" data-bs-slide="next"
+                aria-label="Next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
     </div>
+
+  </div>
   </div>
   <div class="container home-sponsors mt-5">
     <div class="row">
