@@ -42,6 +42,6 @@ With our limited funds, we can't promise you will receive a grant, but if you're
 [//]: # (    </a>)
 
 [//]: # (</div>)
-If you have questions, you can write to [2025@python.pt](mailto:2025@python.pt).
+If you have questions, you can write to [2025@pycon.pt](mailto:2025@pycon.pt).
 
 **The application window closes on April 15th!**

@@ -9,7 +9,7 @@ layout: centered
             </li>
         
             <li>
-                <p>Contact hundreds of python practitioners and/or enthusiasts</p>
+                <p>Contact hundreds of Python practitioners and/or enthusiasts</p>
             </li>
             <li>
                 <p class="community-card-description">Engage in state of the art contents</p>

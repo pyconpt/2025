@@ -38,7 +38,7 @@ Follow us on social media for up to date information - see footer below!
 [//]: # (**Be sure to grab your ticket ASAP!** The tickets include the following food: morning snack, lunch, and afternoon snack. Please don't forget to **add your dietary restrictions when purchasing your ticket!**)
 
 [//]: # ()
-[//]: # (If you wish to amend your order or if you have a ticket claim &#40;for instance through a sponsorship or as a speaker&#41;, please get in touch at [2025@python.pt]&#40;mailto:2025@python.pt&#41;.)
+[//]: # (If you wish to amend your order or if you have a ticket claim &#40;for instance through a sponsorship or as a speaker&#41;, please get in touch at [2025@pycon.pt]&#40;mailto:2025@pycon.pt&#41;.)
 
 [//]: # ()
 [//]: # (**Ticketing powered by:**)

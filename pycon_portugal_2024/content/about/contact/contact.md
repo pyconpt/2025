@@ -4,10 +4,10 @@ layout: simple
 
 You are most welcome to get in touch if you have questions.
 
-* [2025@pycon.pt](mailto:2025@python.pt)
-* [sponsors@pycon.pt](mailto:sponsors@pycon.pt)
-* [conduct@pycon.pt](mailto:conduct@pycon.pt)
-* [content@pycon.pt](mailto:content@pycon.pt)
+* [2025@pycon.pt](mailto:2025@pycon.pt) (General)
+* [sponsors@pycon.pt](mailto:sponsors@pycon.pt) (Sponsorship opportunities)
+* [conduct@pycon.pt](mailto:conduct@pycon.pt) (Code of conduct concerns)
+* [content@pycon.pt](mailto:content@pycon.pt) (Content and speaker proposals)
 
 Having trouble reaching to us by email, please send us a bug report to [pyconpt@googlegroups.com](mailto:pyconpt@googlegroups.com)
 

@@ -17,7 +17,7 @@ def links(request):
                     "VENUE": "/information/venue/",
                     "GRANTS": "/information/grants/",
                     "SPRINTS": "/information/sprints/",
-                    "HOSPITALITY": "/information/hospitality",
+                    "CHILDCARE": "/information/childcare",
                     "T-SHIRTS": "/information/t-shirts",
                     "FAQS": "/information/faqs/",
                 },

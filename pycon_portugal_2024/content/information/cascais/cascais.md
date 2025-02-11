@@ -121,17 +121,7 @@ Cascais' bus station offers services connecting the town to Lisbon and other sur
 ### Buses
 CHECK TIMETABLES AND ROUTES [HERE](https://mobi.cascais.pt/geral/nova-rede-municipal-horarios-percursos-das-linhas-municipais){ target="_blank"}
 
-SEE THE TICKETS AVAILABLE FOR 2024 [HERE](https://mobi.cascais.pt/geral/titulos-disponiveis-para-2024){ target="_blank"}
-
-In Cascais, buses offer an absolutely innovative mobility experience.
-
-44 municipal lines that reach all parts of the municipality, more timetables and an 83% increase in the number of kilometers traveled.
-
-Since January 2020, these lines have been free for everyone who lives, studies, or works in Cascais, using the Viver Cascais card.
-
-MobiCascais | Reinforced fleet, more coverage, and better conditions.
-
-New Municipal Network - Always travel first class!
+Google Maps provides excellent navigation for public transportation in Lisbon/Cascais and is a great tool for planning trips.
 
 ### Kiosks: bicycles and scooters
 There are 4 MobiCascais kiosks in the municipality of Cascais, where you can rent a traditional or electric bike or an electric scooter for periods ranging from 30 minutes to 4 hours (scooters) and 1 day (bicycles). 
