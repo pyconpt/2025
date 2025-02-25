@@ -1,13 +1,5 @@
 layout: simple
 
-## Composition
-
-### More info coming soon
-
-Follow us on social media for up to date information - see footer below!
-
-<hr class="green-line">
-
 ## Reviewing
 
 Reviewers will be asked to look at a set of submissions and submit a review (both a few words and a rough rating). After the review period is over, we will go through the talks by category and select the talks based on accumulated reviews. If we can't make the decision among two or three talks, we'll check back with the reviewers and ask them for their opinion.
@@ -16,7 +8,7 @@ Of course, we'll let you know regardless of the outcome of the review. We'll pro
 
 We value your feedback. If you have any questions, concerns or wish to volunteer for the review team, please get in touch with [content@pycon.pt](mailto:content@pycon.pt).
 
-<hr class="blue-line">
+<hr class="green-line">
 
 ## Selection Process
 

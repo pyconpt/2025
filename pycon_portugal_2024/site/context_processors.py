@@ -16,7 +16,6 @@ def links(request):
                     "CASCAIS": "/information/cascais/",
                     "VENUE": "/information/venue/",
                     "GRANTS": "/information/grants/",
-                    "SPRINTS": "/information/sprints/",
                     "CHILDCARE": "/information/childcare",
                     "T-SHIRTS": "/information/t-shirts",
                     "FAQS": "/information/faqs/",
