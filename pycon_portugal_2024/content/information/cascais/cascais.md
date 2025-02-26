@@ -23,7 +23,7 @@ The beaches of Cascais are glorious. Surrounding the town are the beautiful beac
 Cascais is so much more than just a beach holiday destination. Just a short train ride takes you to the centre of vibrant Lisbon, and to the north lies the town of Sintra, with its whimsical palaces and cooling hills.
 
 <br>
-<iframe style="width:100%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24904.961932809776!2d-9.468362928185886!3d38.715048278573086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1ec47379b79a97%3A0x870d3b7e1807bbc2!2sCascais!5e0!3m2!1spt-PT!2spt!4v1739133306493!5m2!1spt-PT!2spt" width="600" height="450" style="border:0;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe style="width:100%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24912.908577816386!2d-9.353855528246527!3d38.69223538957922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd1ec8cf16a1ea19%3A0xd614fc3dd57074fe!2sCarcavelos!5e0!3m2!1spt-PT!2spt!4v1740595497767!5m2!1spt-PT!2spt" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" width="600" height="450" style="border:0;" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe width="560" height="600" style="width: 100%" src="https://www.youtube.com/embed/gbc1CzHKuKU?si=2NZQJ9dmkk8H15OP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr class="green-line">
 <br>

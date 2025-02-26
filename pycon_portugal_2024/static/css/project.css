@@ -1263,6 +1263,9 @@ p.small-text {
   cursor: default;
   margin-top: 100px;
 }
+.home-tickets .ticket-card-width {
+  max-width: 475px;
+}
 .home-tickets .ticket-card-green {
   border: 2px solid #77F1A1;
 }
@@ -1322,8 +1325,6 @@ p.small-text {
   font-weight: 400;
   line-height: normal;
   margin-bottom: 80px;
-  padding-left: 10px !important;
-  padding-right: 10px !important;
 }
 .home-tickets a {
   color: white;
@@ -1335,14 +1336,14 @@ p.small-text {
 }
 .home-tickets .tickets-call-to-action {
   position: absolute;
-  left: 22%;
-  top: 85%;
+  left: 24%;
+  top: 87%;
   text-align: center;
   font-family: "Share Tech";
   font-size: 36px;
   font-style: normal;
   font-weight: 400;
-  line-height: 88px;
+  line-height: 58px;
   -webkit-transform: rotate(2.233deg);
           transform: rotate(2.233deg);
   -ms-flex-negative: 0;
@@ -1393,14 +1394,12 @@ p.small-text {
 @media (max-width: 992px) {
   .home-tickets .tickets-section-title {
     font-size: 60px;
-    line-height: 66px;
   }
 }
 @media (max-width: 768px) {
   .home-tickets .tickets-call-to-action {
-    left: 36%;
+    left: 31%;
     font-size: 28px;
-    line-height: 70px;
   }
   .home-tickets .tickets-section-title {
     font-size: 48px;
@@ -1417,7 +1416,6 @@ p.small-text {
 @media (max-width: 500px) {
   .home-tickets .tickets-call-to-action {
     font-size: 25px;
-    line-height: 60px;
     left: 30%;
   }
   .home-tickets .tickets-section-title {
@@ -1428,12 +1426,13 @@ p.small-text {
 }
 @media (max-width: 400px) {
   .home-tickets .tickets-call-to-action {
-    left: 30%;
+    left: 28%;
   }
 }
 @media (max-width: 375px) {
   .home-tickets .tickets-call-to-action {
-    left: 28%;
+    left: 27%;
+    font-size: 24px;
   }
 }
 
@@ -1541,6 +1540,9 @@ p.small-text {
   }
   .home-previous-editions .grid-item.small {
     grid-column: span 1;
+    max-width: 326px;
+    height: 288px;
+    margin: 0 auto;
   }
   .home-previous-editions .button-1 {
     font-size: 48px;
@@ -1845,6 +1847,9 @@ p.small-text {
 .home-important-dates .background-white {
   background: #F9F9F9;
 }
+.home-important-dates .important-date-link {
+  text-decoration: unset;
+}
 @media (max-width: 992px) {
   .home-important-dates img {
     display: none;
@@ -2002,6 +2007,9 @@ p.small-text {
   margin-top: 100px;
   margin-bottom: 150px;
 }
+.home-free-tickets .free-tickets-width {
+  max-width: 475px;
+}
 .home-free-tickets .free-tickets-section-title-1 {
   margin-left: -100px;
   -webkit-transform: rotate(-2.517deg);
@@ -2080,12 +2088,12 @@ p.small-text {
   margin-left: -100px;
   text-align: center;
   position: absolute;
-  margin-top: -30px;
+  margin-top: -5px;
   font-family: "Share Tech";
   font-size: 36px;
   font-style: normal;
   font-weight: 400;
-  line-height: 80px;
+  line-height: 50px;
   -webkit-transform: rotate(2.233deg);
           transform: rotate(2.233deg);
   -ms-flex-negative: 0;

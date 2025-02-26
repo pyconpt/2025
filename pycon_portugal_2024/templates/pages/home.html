@@ -11,10 +11,18 @@
         <button class="hero-button white">PYCON PORTUGAL</button>
       </div>
       <div class="button-wrapper-mobile d-none">
-        <div class="col-12"><button class="hero-button button-1">WELCOME TO</button></div>
-        <div class="col-12"><button class="hero-button button-2">PYCON</button></div>
-        <div class="col-12"><button class="hero-button button-3">PORTUGAL</button></div>
-        <div class="col-12"><button class="hero-button button-4">2025</button></div>
+        <div class="col-12">
+          <button class="hero-button button-1">WELCOME TO</button>
+        </div>
+        <div class="col-12">
+          <button class="hero-button button-2">PYCON</button>
+        </div>
+        <div class="col-12">
+          <button class="hero-button button-3">PORTUGAL</button>
+        </div>
+        <div class="col-12">
+          <button class="hero-button button-4">2025</button>
+        </div>
       </div>
     </div>
   </div>
@@ -26,7 +34,8 @@
       </div>
       <div class="col-12 col-lg-6 left">
         <div class="ticket d-flex">
-          <p>BUY TICKETS NOW</p>
+          <a href="https://pretix.evolutio.pt/evolutio/pyconpt2025/" target="_blank"><p>
+            BUY TICKETS NOW</p></a>
           <img src="{% static 'images/home/ticket_icon.svg' %}" alt="ticket_icon">
         </div>
         <div class="filler">
@@ -63,15 +72,15 @@
       </div>
     </div>
   </div>
-  <div class="container home-tickets mb-5">
-    <div class="row">
+  <div class="container-fluid home-tickets mb-5">
+    <div class="row justify-content-center">
       <div class="col-12 d-flex justify-content-center mb-5">
         <button class="tickets-section-title">Tickets</button>
       </div>
-      <div class="col-lg-4 mb-5 position-relative">
+      <div class="col-lg-4 mb-5 position-relative ticket-card-width">
         <div class="ticket-card-green">
           <h4 class="text-center pt-3 card-green">Student</h4>
-          <div class="col-content py-3">
+          <div class="col-content p-4">
             <p class="detail detail-green card-green">from</p>
             <p class="price card-green">€30</p>
             <p class="description card-green">If you are currently enrolled as a
@@ -88,10 +97,10 @@
 
       </div>
 
-      <div class="col-lg-4 mb-5 position-relative">
+      <div class="col-lg-4 mb-5 position-relative ticket-card-width">
         <div class="ticket-card-white">
           <h4 class="text-center pt-3 card-white">Individual</h4>
-          <div class="col-content py-3">
+          <div class="col-content p-4">
             <p class="detail card-white detail-white">from</p>
             <p class="price card-white">€75</p>
             <p class="description card-white">If you are paying your ticket from your
@@ -104,10 +113,10 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 mb-5 position-relative">
+      <div class="col-lg-4 mb-5 position-relative ticket-card-width">
         <div class="ticket-card-blue">
           <h4 class="text-center pt-3 card-blue">Business</h4>
-          <div class="col-content py-3 ">
+          <div class="col-content p-4">
             <p class="detail card-blue detail-blue">from</p>
             <p class="price card-blue">€125</p>
             <p class="description card-blue">If your employer is paying for the ticket
@@ -185,42 +194,69 @@
       <div class="col-12 col-lg-3">
         <button class="button background-green color-blue">JANUARY</button>
       </div>
-      <div class="col-12 col-lg-8">
-        <p class="text color-green"><strong>1st</strong> Call for Participation
-          Opening<br><strong>1st</strong>
-          Early Bird Tickets Sales Opening</p>
+      <div class="col-12 col-lg-8 d-block">
+        <a href="/talks/cfp" class="important-date-link"><p class="text color-green"
+                                                            style="margin-bottom: 0!important">
+          <strong>1st</strong> Call for
+          Participation
+          Opening</p></a><br>
+        <a href="https://pretix.evolutio.pt/evolutio/pyconpt2025/"
+           class="important-date-link"><p class="text color-green"><strong>1st</strong>
+          Early Bird Tickets
+          Sales Opening</p></a>
       </div>
       <div class="col-12 col-lg-3">
         <button class="button background-blue color green">FEBRUARY</button>
       </div>
-      <div class="col-12 col-lg-8">
-        <p class="text color-blue"><strong>28th</strong> Call for Participation Deadline
-        </p>
+      <div class="col-12 col-lg-8 d-block">
+        <a href="/talks/cfp" class="important-date-link"><p class="text color-blue">
+          <strong>28th</strong> Call for Participation Deadline
+        </p></a>
       </div>
       <div class="col-12 col-lg-3">
         <button class="button color-blue background-white">MARCH</button>
       </div>
-      <div class="col-12 col-lg-8">
-        <p class="text color-white"><strong>1st</strong> Content Review & Selection
-          Kickoff<br><strong>15th</strong> Grants Applications Opening</p>
+      <div class="col-12 col-lg-8 d-block">
+        <a href="/talks/selection_process" class="important-date-link"><p
+          class="text color-white" style="margin-bottom: 0!important">
+          <strong>1st</strong> Content Review & Selection
+          Kickoff</p></a><br><a href="/information/grants" class="important-date-link">
+        <p class="text color-white"><strong>15th</strong> Grants Applications Opening
+        </p></a>
       </div>
       <div class="col-12 col-lg-3">
         <button class="button color-dark-blue background-green">APRIL</button>
       </div>
-      <div class="col-12 col-lg-8">
-        <p class="text color-green"><strong>1st</strong> Talks Publication<br><strong>1st</strong>
-          Childcare Applications Opening<br>
-          <strong>15th</strong> Schedule Publication<br><strong>15th</strong> Grants
-          Application Deadline<br><strong>30th</strong> Early Bird Ticket Sales Closes
-        </p>
+      <div class="col-12 col-lg-8 d-block">
+        <a href="/talks/schedule" class="important-date-link"><p
+          class="text color-green" style="margin-bottom: 0!important">
+          <strong>1st</strong> Talks Publication</p></a><br>
+        <a href="/information/childcare" class="important-date-link"><p
+          class="text color-green" style="margin-bottom: 0!important">
+          <strong>1st</strong>Childcare Applications Opening
+        </p></a><br>
+        <a href="/talks/schedule" class="important-date-link"><p
+          class="text color-green" style="margin-bottom: 0!important">
+          <strong>15th</strong> Schedule Publication</p>
+        </a><br>
+        <a href="/information/grants" class="important-date-link"><p
+          class="text color-green" style="margin-bottom: 0!important">
+          <strong>15th</strong> Grants Application Deadline</p></a><br>
+        <a href="https://pretix.evolutio.pt/evolutio/pyconpt2025/"
+           class="important-date-link"><p class="text color-green"><strong>30th</strong>Early
+          Bird Ticket Sales Closes</p></a>
       </div>
       <div class="col-12 col-lg-3">
         <button class="button color-green background-blue">MAY</button>
       </div>
-      <div class="col-12 col-lg-8">
-        <p class="text color-blue"><strong>5th</strong> Childcare Applications
-          Deadline<br><strong>10th</strong>
-          T-Shirts Sales Deadline (for deliveries at the conference)</p>
+      <div class="col-12 col-lg-8 d-block">
+        <a href="/information/childcare" class="important-date-link"><p
+          class="text color-blue" style="margin-bottom: 0!important">
+          <strong>5th</strong> Childcare Applications
+          Deadline</p></a><br>
+        <a href="/information/t-shirts" class="important-date-link"><p
+          class="text color-blue"><strong>10th</strong>T-Shirts Sales Deadline (for
+          deliveries at the conference)</p></a>
       </div>
       <div class="col-12 col-lg-3">
         <button class="button color-dark-blue background-white">JULY</button>
@@ -231,220 +267,230 @@
       </div>
     </div>
   </div>
-{#  <div class="container home-speakers mb-5">#}
-{#    <div class="row">#}
-{#      <div class="col-12 d-flex justify-content-center title-wrapper">#}
-{#        <button class="speakers-title-1">OUR</button>#}
-{#        <button class="speakers-title-2">SPEAKERS</button>#}
-{#      </div>#}
-{##}
-{#      <div id="speakersCarousel" class="carousel slide" data-bs-ride="carousel">#}
-{#        <div class="carousel-inner">#}
-{#          <div class="carousel-item active">#}
-{#            <div class="row justify-content-center">#}
-{#              <div class="col-lg-3 col-md-5 col-10">#}
-{#                <a href="">#}
-{#                  <button class="speaker-function keynote-button">KEYNOTE</button>#}
-{#                  <img src="/static/images/speakers/JuliusBoakye.jpg"#}
-{#                       class="d-block w-100"#}
-{#                       alt="JuliusBoakye">#}
-{#                  <div class="carousel-caption">#}
-{#                    <p class="speaker-name keynote">Julius Boakye</p>#}
-{#                  </div>#}
-{#                </a>#}
-{#              </div>#}
-{#              <div class="col-lg-3 col-md-5 col-10">#}
-{#                <a href="">#}
-{#                  <button class="speaker-function keynote-button">KEYNOTE</button>#}
-{#                  <img src="/static/images/speakers/JuliusBoakye.jpg"#}
-{#                       class="d-block w-100"#}
-{#                       alt="JuliusBoakye">#}
-{#                  <div class="carousel-caption">#}
-{#                    <p class="speaker-name keynote">Julius Boakye</p>#}
-{#                  </div>#}
-{#                </a>#}
-{#              </div>#}
-{#              <div class="col-lg-3 col-md-5 col-10">#}
-{#                <a href="">#}
-{#                  <button class="speaker-function talk-button">TALK</button>#}
-{#                  <img src="/static/images/speakers/MaximDanilov.jpg"#}
-{#                       class="d-block w-100"#}
-{#                       alt="MaximDanilov">#}
-{#                  <div class="carousel-caption">#}
-{#                    <p class="speaker-name talk">Maxim Danilov</p>#}
-{#                  </div>#}
-{#                </a>#}
-{#              </div>#}
-{#            </div>#}
-{#          </div>#}
-{#          <!-- second carousel -->#}
-{#          <div class="carousel-item">#}
-{#            <div class="row justify-content-center">#}
-{#              <div class="col-lg-3 col-md-5 col-10">#}
-{#                <a href="">#}
-{#                  <button class="speaker-function talk-button">TALK</button>#}
-{#                  <img src="/static/images/speakers/InacioGomesMedeiros.jpg"#}
-{#                       class="d-block w-100" alt="JorgeMiranda">#}
-{#                  <div class="carousel-caption">#}
-{#                    <p class="speaker-name talk">Inacio Gomes Medeiros</p>#}
-{#                  </div>#}
-{#                </a>#}
-{#              </div>#}
-{#              <div class="col-lg-3 col-md-5 col-10">#}
-{#                <a href="">#}
-{#                  <button class="speaker-function talk-button">TALK</button>#}
-{#                  <img src="/static/images/speakers/InacioGomesMedeiros.jpg"#}
-{#                       class="d-block w-100" alt="JorgeMiranda">#}
-{#                  <div class="carousel-caption">#}
-{#                    <p class="speaker-name talk">Inacio Gomes Medeiros</p>#}
-{#                  </div>#}
-{#                </a>#}
-{#              </div>#}
-{#              <div class="col-lg-3 col-md-5 col-10">#}
-{#                <a href="">#}
-{#                  <button class="speaker-function workshop-button">WORKSHOP</button>#}
-{#                  <img src="/static/images/speakers/JoaoVasconcelos.jpeg"#}
-{#                       class="d-block w-100" alt="Speaker 7">#}
-{#                  <div class="carousel-caption">#}
-{#                    <p class="speaker-name workshop">Joao Vasconcelos</p>#}
-{#                  </div>#}
-{#                </a>#}
-{#              </div>#}
-{#            </div>#}
-{#          </div>#}
-{#        </div>#}
-{#        <button class="carousel-control-prev" type="button"#}
-{#                data-bs-target="#speakersCarousel" data-bs-slide="prev"#}
-{#                aria-label="Previous">#}
-{#          <span class="carousel-control-prev-icon" aria-hidden="true"></span>#}
-{#          <span class="visually-hidden">Previous</span>#}
-{#        </button>#}
-{#        <button class="carousel-control-next" type="button"#}
-{#                data-bs-target="#speakersCarousel" data-bs-slide="next"#}
-{#                aria-label="Next">#}
-{#          <span class="carousel-control-next-icon" aria-hidden="true"></span>#}
-{#          <span class="visually-hidden">Next</span>#}
-{#        </button>#}
-{#      </div>#}
-{#      <div id="speakersCarousel_mobile" class="carousel slide d-none" data-bs-ride="carousel">#}
-{#        <div class="carousel-inner">#}
-{#          <!-- Slide 1: Julius Boakye -->#}
-{#          <div class="carousel-item active">#}
-{#            <div class="row justify-content-center">#}
-{#              <div class="col-10 col-md-6 col-lg-3">#}
-{#                <a href="">#}
-{#                  <button class="speaker-function keynote-button">KEYNOTE</button>#}
-{#                  <img src="/static/images/speakers/JuliusBoakye.jpg"#}
-{#                       class="d-block w-100" alt="JuliusBoakye">#}
-{#                  <div class="carousel-caption">#}
-{#                    <p class="speaker-name keynote">Julius Boakye</p>#}
-{#                  </div>#}
-{#                </a>#}
-{#              </div>#}
-{#            </div>#}
-{#          </div>#}
-{#          <!-- Slide 2: Maxim Danilov -->#}
-{#          <div class="carousel-item">#}
-{#            <div class="row justify-content-center">#}
-{#              <div class="col-10 col-md-6 col-lg-3">#}
-{#                <a href="">#}
-{#                  <button class="speaker-function talk-button">TALK</button>#}
-{#                  <img src="/static/images/speakers/MaximDanilov.jpg"#}
-{#                       class="d-block w-100" alt="MaximDanilov">#}
-{#                  <div class="carousel-caption">#}
-{#                    <p class="speaker-name talk">Maxim Danilov</p>#}
-{#                  </div>#}
-{#                </a>#}
-{#              </div>#}
-{#            </div>#}
-{#          </div>#}
-{#          <!-- Slide 3: Inacio Gomes Medeiros -->#}
-{#          <div class="carousel-item">#}
-{#            <div class="row justify-content-center">#}
-{#              <div class="col-10 col-md-6 col-lg-3">#}
-{#                <a href="">#}
-{#                  <button class="speaker-function talk-button">TALK</button>#}
-{#                  <img src="/static/images/speakers/InacioGomesMedeiros.jpg"#}
-{#                       class="d-block w-100" alt="InacioGomesMedeiros">#}
-{#                  <div class="carousel-caption">#}
-{#                    <p class="speaker-name talk">Inacio Gomes Medeiros</p>#}
-{#                  </div>#}
-{#                </a>#}
-{#              </div>#}
-{#            </div>#}
-{#          </div>#}
-{#          <!-- Slide 4: Joao Vasconcelos -->#}
-{#          <div class="carousel-item">#}
-{#            <div class="row justify-content-center">#}
-{#              <div class="col-10 col-md-6 col-lg-3">#}
-{#                <a href="">#}
-{#                  <button class="speaker-function workshop-button">WORKSHOP</button>#}
-{#                  <img src="/static/images/speakers/JoaoVasconcelos.jpeg"#}
-{#                       class="d-block w-100" alt="JoaoVasconcelos">#}
-{#                  <div class="carousel-caption">#}
-{#                    <p class="speaker-name workshop">Joao Vasconcelos</p>#}
-{#                  </div>#}
-{#                </a>#}
-{#              </div>#}
-{#            </div>#}
-{#          </div>#}
-{#        </div>#}
-{#        <!-- Carousel Controls -->#}
-{#        <button class="carousel-control-prev" type="button"#}
-{#                data-bs-target="#speakersCarousel_mobile" data-bs-slide="prev"#}
-{#                aria-label="Previous">#}
-{#          <span class="carousel-control-prev-icon" aria-hidden="true"></span>#}
-{#          <span class="visually-hidden">Previous</span>#}
-{#        </button>#}
-{#        <button class="carousel-control-next" type="button"#}
-{#                data-bs-target="#speakersCarousel_mobile" data-bs-slide="next"#}
-{#                aria-label="Next">#}
-{#          <span class="carousel-control-next-icon" aria-hidden="true"></span>#}
-{#          <span class="visually-hidden">Next</span>#}
-{#        </button>#}
-{#      </div>#}
-{#    </div>#}
-{##}
-{#  </div>#}
+  {#  <div class="container home-speakers mb-5">#}
+  {#    <div class="row">#}
+  {#      <div class="col-12 d-flex justify-content-center title-wrapper">#}
+  {#        <button class="speakers-title-1">OUR</button>#}
+  {#        <button class="speakers-title-2">SPEAKERS</button>#}
+  {#      </div>#}
+  {##}
+  {#      <div id="speakersCarousel" class="carousel slide" data-bs-ride="carousel">#}
+  {#        <div class="carousel-inner">#}
+  {#          <div class="carousel-item active">#}
+  {#            <div class="row justify-content-center">#}
+  {#              <div class="col-lg-3 col-md-5 col-10">#}
+  {#                <a href="">#}
+  {#                  <button class="speaker-function keynote-button">KEYNOTE</button>#}
+  {#                  <img src="/static/images/speakers/JuliusBoakye.jpg"#}
+  {#                       class="d-block w-100"#}
+  {#                       alt="JuliusBoakye">#}
+  {#                  <div class="carousel-caption">#}
+  {#                    <p class="speaker-name keynote">Julius Boakye</p>#}
+  {#                  </div>#}
+  {#                </a>#}
+  {#              </div>#}
+  {#              <div class="col-lg-3 col-md-5 col-10">#}
+  {#                <a href="">#}
+  {#                  <button class="speaker-function keynote-button">KEYNOTE</button>#}
+  {#                  <img src="/static/images/speakers/JuliusBoakye.jpg"#}
+  {#                       class="d-block w-100"#}
+  {#                       alt="JuliusBoakye">#}
+  {#                  <div class="carousel-caption">#}
+  {#                    <p class="speaker-name keynote">Julius Boakye</p>#}
+  {#                  </div>#}
+  {#                </a>#}
+  {#              </div>#}
+  {#              <div class="col-lg-3 col-md-5 col-10">#}
+  {#                <a href="">#}
+  {#                  <button class="speaker-function talk-button">TALK</button>#}
+  {#                  <img src="/static/images/speakers/MaximDanilov.jpg"#}
+  {#                       class="d-block w-100"#}
+  {#                       alt="MaximDanilov">#}
+  {#                  <div class="carousel-caption">#}
+  {#                    <p class="speaker-name talk">Maxim Danilov</p>#}
+  {#                  </div>#}
+  {#                </a>#}
+  {#              </div>#}
+  {#            </div>#}
+  {#          </div>#}
+  {#          <!-- second carousel -->#}
+  {#          <div class="carousel-item">#}
+  {#            <div class="row justify-content-center">#}
+  {#              <div class="col-lg-3 col-md-5 col-10">#}
+  {#                <a href="">#}
+  {#                  <button class="speaker-function talk-button">TALK</button>#}
+  {#                  <img src="/static/images/speakers/InacioGomesMedeiros.jpg"#}
+  {#                       class="d-block w-100" alt="JorgeMiranda">#}
+  {#                  <div class="carousel-caption">#}
+  {#                    <p class="speaker-name talk">Inacio Gomes Medeiros</p>#}
+  {#                  </div>#}
+  {#                </a>#}
+  {#              </div>#}
+  {#              <div class="col-lg-3 col-md-5 col-10">#}
+  {#                <a href="">#}
+  {#                  <button class="speaker-function talk-button">TALK</button>#}
+  {#                  <img src="/static/images/speakers/InacioGomesMedeiros.jpg"#}
+  {#                       class="d-block w-100" alt="JorgeMiranda">#}
+  {#                  <div class="carousel-caption">#}
+  {#                    <p class="speaker-name talk">Inacio Gomes Medeiros</p>#}
+  {#                  </div>#}
+  {#                </a>#}
+  {#              </div>#}
+  {#              <div class="col-lg-3 col-md-5 col-10">#}
+  {#                <a href="">#}
+  {#                  <button class="speaker-function workshop-button">WORKSHOP</button>#}
+  {#                  <img src="/static/images/speakers/JoaoVasconcelos.jpeg"#}
+  {#                       class="d-block w-100" alt="Speaker 7">#}
+  {#                  <div class="carousel-caption">#}
+  {#                    <p class="speaker-name workshop">Joao Vasconcelos</p>#}
+  {#                  </div>#}
+  {#                </a>#}
+  {#              </div>#}
+  {#            </div>#}
+  {#          </div>#}
+  {#        </div>#}
+  {#        <button class="carousel-control-prev" type="button"#}
+  {#                data-bs-target="#speakersCarousel" data-bs-slide="prev"#}
+  {#                aria-label="Previous">#}
+  {#          <span class="carousel-control-prev-icon" aria-hidden="true"></span>#}
+  {#          <span class="visually-hidden">Previous</span>#}
+  {#        </button>#}
+  {#        <button class="carousel-control-next" type="button"#}
+  {#                data-bs-target="#speakersCarousel" data-bs-slide="next"#}
+  {#                aria-label="Next">#}
+  {#          <span class="carousel-control-next-icon" aria-hidden="true"></span>#}
+  {#          <span class="visually-hidden">Next</span>#}
+  {#        </button>#}
+  {#      </div>#}
+  {#      <div id="speakersCarousel_mobile" class="carousel slide d-none" data-bs-ride="carousel">#}
+  {#        <div class="carousel-inner">#}
+  {#          <!-- Slide 1: Julius Boakye -->#}
+  {#          <div class="carousel-item active">#}
+  {#            <div class="row justify-content-center">#}
+  {#              <div class="col-10 col-md-6 col-lg-3">#}
+  {#                <a href="">#}
+  {#                  <button class="speaker-function keynote-button">KEYNOTE</button>#}
+  {#                  <img src="/static/images/speakers/JuliusBoakye.jpg"#}
+  {#                       class="d-block w-100" alt="JuliusBoakye">#}
+  {#                  <div class="carousel-caption">#}
+  {#                    <p class="speaker-name keynote">Julius Boakye</p>#}
+  {#                  </div>#}
+  {#                </a>#}
+  {#              </div>#}
+  {#            </div>#}
+  {#          </div>#}
+  {#          <!-- Slide 2: Maxim Danilov -->#}
+  {#          <div class="carousel-item">#}
+  {#            <div class="row justify-content-center">#}
+  {#              <div class="col-10 col-md-6 col-lg-3">#}
+  {#                <a href="">#}
+  {#                  <button class="speaker-function talk-button">TALK</button>#}
+  {#                  <img src="/static/images/speakers/MaximDanilov.jpg"#}
+  {#                       class="d-block w-100" alt="MaximDanilov">#}
+  {#                  <div class="carousel-caption">#}
+  {#                    <p class="speaker-name talk">Maxim Danilov</p>#}
+  {#                  </div>#}
+  {#                </a>#}
+  {#              </div>#}
+  {#            </div>#}
+  {#          </div>#}
+  {#          <!-- Slide 3: Inacio Gomes Medeiros -->#}
+  {#          <div class="carousel-item">#}
+  {#            <div class="row justify-content-center">#}
+  {#              <div class="col-10 col-md-6 col-lg-3">#}
+  {#                <a href="">#}
+  {#                  <button class="speaker-function talk-button">TALK</button>#}
+  {#                  <img src="/static/images/speakers/InacioGomesMedeiros.jpg"#}
+  {#                       class="d-block w-100" alt="InacioGomesMedeiros">#}
+  {#                  <div class="carousel-caption">#}
+  {#                    <p class="speaker-name talk">Inacio Gomes Medeiros</p>#}
+  {#                  </div>#}
+  {#                </a>#}
+  {#              </div>#}
+  {#            </div>#}
+  {#          </div>#}
+  {#          <!-- Slide 4: Joao Vasconcelos -->#}
+  {#          <div class="carousel-item">#}
+  {#            <div class="row justify-content-center">#}
+  {#              <div class="col-10 col-md-6 col-lg-3">#}
+  {#                <a href="">#}
+  {#                  <button class="speaker-function workshop-button">WORKSHOP</button>#}
+  {#                  <img src="/static/images/speakers/JoaoVasconcelos.jpeg"#}
+  {#                       class="d-block w-100" alt="JoaoVasconcelos">#}
+  {#                  <div class="carousel-caption">#}
+  {#                    <p class="speaker-name workshop">Joao Vasconcelos</p>#}
+  {#                  </div>#}
+  {#                </a>#}
+  {#              </div>#}
+  {#            </div>#}
+  {#          </div>#}
+  {#        </div>#}
+  {#        <!-- Carousel Controls -->#}
+  {#        <button class="carousel-control-prev" type="button"#}
+  {#                data-bs-target="#speakersCarousel_mobile" data-bs-slide="prev"#}
+  {#                aria-label="Previous">#}
+  {#          <span class="carousel-control-prev-icon" aria-hidden="true"></span>#}
+  {#          <span class="visually-hidden">Previous</span>#}
+  {#        </button>#}
+  {#        <button class="carousel-control-next" type="button"#}
+  {#                data-bs-target="#speakersCarousel_mobile" data-bs-slide="next"#}
+  {#                aria-label="Next">#}
+  {#          <span class="carousel-control-next-icon" aria-hidden="true"></span>#}
+  {#          <span class="visually-hidden">Next</span>#}
+  {#        </button>#}
+  {#      </div>#}
+  {#    </div>#}
+  {##}
+  {#  </div>#}
   <div class="container home-sponsors mt-5">
-    <div class="row">
-      <div>
-        <div class="col-12 justify-content-center d-flex">
-          <button class="sponsors-title">SPONSORS</button>
-        </div>
-
+  <div class="row">
+    <div>
+      <div class="col-12 justify-content-center d-flex">
+        <button class="sponsors-title">SPONSORS</button>
       </div>
-      <div>
-{#        <div class="col-12 justify-content-center d-flex">#}
-{#          <button class="diamond">DIAMOND</button>#}
-{#        </div>#}
-{#        <div class="d-flex justify-content-center mobile-sponsor-images">#}
-{#          <a href="https://pydantic.dev/" target="_blank"><img#}
-{#            src="{% static 'images/sponsors/pydantic.svg' %}" alt="Pydantic"></a>#}
-{#        </div>#}
-{#      </div>#}
+
+    </div>
+    <div>
+      {#        <div class="col-12 justify-content-center d-flex">#}
+      {#          <button class="diamond">DIAMOND</button>#}
+      {#        </div>#}
+      {#        <div class="d-flex justify-content-center mobile-sponsor-images">#}
+      {#          <a href="https://pydantic.dev/" target="_blank"><img#}
+      {#            src="{% static 'images/sponsors/pydantic.svg' %}" alt="Pydantic"></a>#}
+      {#        </div>#}
+      {#      </div>#}
+      {#      <div>#}
+      {#        <div class="col-12 justify-content-center d-flex">#}
+      {#          <button class="platinum">PLATINUM</button>#}
+      {#        </div>#}
+      {#        <div class="d-flex justify-content-center mobile-sponsor-images">#}
+      {#          <a href="https://pydantic.dev/" target="_blank"><img#}
+      {#            src="{% static 'images/sponsors/pydantic.svg' %}" alt="Pydantic"></a>#}
+      {#        </div>#}
+      {#      </div>#}
+      {#      <div>#}
+      {#        <div class="col-12 justify-content-center d-flex">#}
+      {#          <button class="grants">GRANTS</button>#}
+      {#        </div>#}
+      {#        <div class="d-flex justify-content-center mobile-sponsor-images">#}
+      {#          <a href="https://www.europython-society.org/" target="_blank"><img#}
+      {#            src="{% static 'images/sponsors/europython.svg' %}"#}
+      {#            alt="EuroPython Society"></a>#}
+      {#          <a href="https://www.python.org/psf-landing/" target="_blank"><img#}
+      {#            src="{% static 'images/sponsors/pythonfoundation.svg' %}"#}
+      {#            alt="Python Software Foundation"></a>#}
+      {#          <a href="https://www.djangoproject.com/" target="_blank"><img#}
+      {#            src="{% static 'images/sponsors/django.svg' %}"#}
+      {#            alt="EuroPython Society"></a>#}
+      {#        </div>#}
+      {#      </div>#}
 {#      <div>#}
 {#        <div class="col-12 justify-content-center d-flex">#}
-{#          <button class="platinum">PLATINUM</button>#}
+{#          <button class="grants">PARTNER</button>#}
 {#        </div>#}
 {#        <div class="d-flex justify-content-center mobile-sponsor-images">#}
-{#          <a href="https://pydantic.dev/" target="_blank"><img#}
-{#            src="{% static 'images/sponsors/pydantic.svg' %}" alt="Pydantic"></a>#}
-{#        </div>#}
-{#      </div>#}
-{#      <div>#}
-{#        <div class="col-12 justify-content-center d-flex">#}
-{#          <button class="grants">GRANTS</button>#}
-{#        </div>#}
-{#        <div class="d-flex justify-content-center mobile-sponsor-images">#}
-{#          <a href="https://www.europython-society.org/" target="_blank"><img#}
+{#          <a href="https://www.cascais.pt/" target="_blank"><img#}
 {#            src="{% static 'images/sponsors/europython.svg' %}"#}
-{#            alt="EuroPython Society"></a>#}
-{#          <a href="https://www.python.org/psf-landing/" target="_blank"><img#}
-{#            src="{% static 'images/sponsors/pythonfoundation.svg' %}"#}
-{#            alt="Python Software Foundation"></a>#}
-{#          <a href="https://www.djangoproject.com/" target="_blank"><img#}
-{#            src="{% static 'images/sponsors/django.svg' %}"#}
 {#            alt="EuroPython Society"></a>#}
 {#        </div>#}
 {#      </div>#}
@@ -459,18 +505,18 @@
       </div>
     </div>
   </div>
-  <div class="container home-free-tickets">
-    <div class="row">
+  <div class="container-fluid home-free-tickets">
+    <div class="row justify-content-center">
       <div class="col-12 d-flex justify-content-center">
         <button class="free-tickets-section-title-1">YOU CAN WIN</button>
       </div>
       <div class="col-12 d-flex justify-content-center mb-5">
         <button class="free-tickets-section-title-2">A FREE TICKET</button>
       </div>
-      <div class="col-lg-4 mb-5">
+      <div class="col-lg-4 mb-5 free-tickets-width">
         <div class="ticket-card-green">
           <h4 class="text-center pt-3 card-green">CFP</h4>
-          <div class="col-content py-3 text-center">
+          <div class="col-content p-4 text-center">
             <img class="mb-4 mt-3" src="{% static 'images/home/free_tickets_3.svg' %}"
                  alt="CALL FOR PROPOSAL">
             <p class="description card-green">Do you have content to share with the
@@ -485,10 +531,10 @@
 
       </div>
 
-      <div class="col-lg-4 mb-5">
+      <div class="col-lg-4 mb-5 free-tickets-width">
         <div class="ticket-card-white">
           <h4 class="text-center pt-3 card-white">VOLUNTEER</h4>
-          <div class="col-content py-3 text-center">
+          <div class="col-content p-4 text-center">
             <img class="mb-4 mt-3" src="{% static 'images/home/free_tickets_1.svg' %}"
                  alt="VOLUNTEERS">
 
@@ -501,10 +547,10 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 mb-5">
+      <div class="col-lg-4 mb-5 free-tickets-width">
         <div class="ticket-card-blue">
           <h4 class="text-center pt-3 card-blue">GRANT</h4>
-          <div class="col-content py-3 text-center">
+          <div class="col-content p-4 text-center">
             <img class="mb-4 mt-3" src="{% static 'images/home/free_tickets_2.svg' %}"
                  alt="GRANTS">
 
