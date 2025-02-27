@@ -13,13 +13,12 @@ def links(request):
             "Information": {
                 "dropdown": "true",
                 "submenu": {
-                    "BRAGA": "/information/braga/",
+                    "CASCAIS": "/information/cascais/",
                     "VENUE": "/information/venue/",
                     "GRANTS": "/information/grants/",
-                    "SPRINTS": "/information/sprints/",
+                    "CHILDCARE": "/information/childcare",
+                    "T-SHIRTS": "/information/t-shirts",
                     "FAQS": "/information/faqs/",
-                    "PREVIOUS EDITIONS": "/information/previous/",
-
                 },
             },
             "Sponsors/Jobs": {
@@ -41,7 +40,7 @@ def links(request):
             },
             "Tickets": {
                 "dropdown": "false",
-                "href": "https://pretix.evolutio.pt/evolutio/pyconpt2024/",
+                "href": "https://pretix.evolutio.pt/evolutio/pyconpt2025/",
                 "blanktarget": True,
             },
             "About": {
@@ -53,7 +52,7 @@ def links(request):
             },
         },
         "social_media": {
-            "twitter": "https://twitter.com/PyConPT",
+            "x": "https://x.com/PyConPT",
             "slack": "https://join.slack.com/t/pyconportugal/shared_invite/zt-1ckszg1ye-QDgxx3lOkC15Ocal8xhCSg",
             "youtube": "https://www.youtube.com/@DisjoinedTech94",
             "linkedin": "https://www.linkedin.com/company/84778227",

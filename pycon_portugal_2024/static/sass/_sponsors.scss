@@ -3,14 +3,14 @@
 @use "base";
 
 table {
-  border: solid white 1px;
+  border: solid base.$Green 1px;
 }
 
 td,
 th {
   color: #ffffff;
   padding: 0.5em;
-  border: base.$lightPurple solid 1px;
+  border: base.$Green solid 1px;
 }
 
 blockquote p {

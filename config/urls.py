@@ -16,8 +16,8 @@ urlpatterns = [
     path("users/", include("pycon_portugal_2024.users.urls", namespace="users")),
     path("accounts/", include("allauth.urls")),
     # Your stuff: custom urls includes go here
-    # path("", default_view, name="home"),
-    path("", landing_page_view, name="landing_page"),
+    path("", default_view, name="home"),
+    #path("", landing_page_view, name="landing_page"),
     path("zencoder", TemplateView.as_view(template_name="pages/zencoder.html"), name="zencoder"),
     path("<slug:menu>/", default_view, name="menu-view"),
     path("<slug:menu>/<slug:submenu>/", default_view, name="submenu-view")

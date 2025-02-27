@@ -2,29 +2,9 @@
 
 @use "base";
 
-.black-nav {
-  background-color: base.$bgPurple !important;
-
-  ul {
-    border-color: white !important;
-
-    a {
-      color: white !important;
-    }
-  }
-
-  .dropdown-menu {
-    background: base.$bgPurple !important;
-  }
-
-  ul a:hover.dropdown-item:hover {
-    background-color: base.$white !important;
-    color: #0a042c !important;
-  }
-}
 
 .header {
-  background-color: base.$bgPurple;
+  background-color: base.$bgBlueGray;
 
   .navbar-brand {
     img {
@@ -33,16 +13,35 @@
   }
 
   .navbar-toggler {
-    &:hover {
-      background-color: white !important;
+    .icon-2 {
+      display: none;
     }
 
     i {
-      color: base.$white;
+      color: base.$Green;
       font-size: 42px;
+      transition: ease-in-out 0.3s;
+
       &:hover {
-        color: base.$bgPurple;
+        filter: brightness(80%);
       }
+    }
+
+    &:focus {
+      box-shadow: none;
+    }
+  }
+
+  .navbar-nav {
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  @media (max-width: 992px) {
+
+    .navbar-nav {
+      justify-content: flex-start !important;
+      align-items: flex-start !important;
     }
   }
 
@@ -51,14 +50,14 @@
 
     a,
     a:hover {
-      text-decoration: none;
+      color: #FFF;
 
       &.dropdown-item {
         color: white;
 
         &:hover {
           background-color: white !important;
-          color: base.$bgPurple !important;
+          color: base.$bgBlueGray !important;
         }
 
         a {
@@ -67,27 +66,36 @@
       }
     }
 
+
     .nav-link::after {
       display: none;
     }
 
     .nav-link {
-      font-family: Alef, serif;
-      font-size: 24px;
-      font-weight: 700;
-      text-align: center;
+      font-family: "Share Tech";
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      text-decoration: none;
     }
 
-    @media (max-width: 768px) {
+    @media (max-width: 992px) {
       .nav-link {
-        text-align: center;
+        text-align: left;
+        font-size: 24px;
+        margin-bottom: 20px;
       }
     }
   }
 
   .dropdown-menu {
-    background: base.$bgPurple;
+    background: base.$bgBlueGray;
     border: 1px solid #f7f7f7;
+
+    a {
+      font-family: "Share Tech";
+    }
   }
 }
 

@@ -4,21 +4,22 @@
   <div class="container">
     <a class="navbar-brand d-block d-lg-none" href="{{ home }}">
       <img src="
-              {% block nav_brand %}{% static 'images/logo/logo-pycon2024-white.png' %}{% endblock %}"
+              {% block nav_brand %}{% static 'images/logo/logo-pycon2025-green.svg' %}{% endblock %}"
            alt="Logo">
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
             data-bs-target="#navbarToggler" aria-controls="navbarToggler"
             aria-expanded="false" aria-label="Toggle navigation">
-      <i class="bi bi-list"></i>
+      <i class="bi bi-list icon-1"></i>
+      <i class="bi bi-x icon-2"></i>
     </button>
     <div class="collapse navbar-collapse" id="navbarToggler">
-      <ul class="navbar-nav mb-2 mb-lg-0 mt-4 mt-lg-0 w-100 justify-content-evenly align-items-center">
+      <ul class="navbar-nav mb-2 mb-lg-0 mt-4 mt-lg-0 w-100">
         {% for menu, menu_dict in site_menu.items %}
           {% if menu == 'Logo' %}
             <a class="navbar-brand d-none d-lg-block" href="{{ home }}">
               <img src="
-                      {% static 'images/logo/logo-pycon2024-white.png' %}"
+                      {% static 'images/logo/logo-pycon2025-green.svg' %}"
                    alt="Logo">
             </a>
           {% else %}

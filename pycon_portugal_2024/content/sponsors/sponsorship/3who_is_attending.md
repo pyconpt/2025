@@ -10,4 +10,4 @@ The attendees are a mixed crowd with various professional positions and levels. 
 
 We have room for an unlimited number of attendees. The physical events usually have an attendance of 400 persons.
 
-<hr class="purple-line">
+<hr class="blue-line">

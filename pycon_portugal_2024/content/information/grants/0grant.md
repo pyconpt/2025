@@ -1,8 +1,8 @@
 layout: simple
 
-## Opportunity Grants - Now Closed
+## Opportunity Grants
 
-**PyCon Portugal 2024 offers grants so that those who might otherwise not be able to attend won't hesitate to participate.** Some expenses for the conference attendance (which could include travel, hotel, registration, etc) will be covered for opportunity grant recipients.
+**PyCon Portugal 2025 offers grants so that those who might otherwise not be able to attend won't hesitate to participate.** Some expenses for the conference attendance (which could include travel, hotel, registration, etc) will be covered for opportunity grant recipients.
 
 We actively encourage you to apply for an opportunity grant. While we wish we could give grants to everyone who applies, we do not have the funds to do that. Our goal is to maximize the impact our grant program has, within the limited funds we have.
 
@@ -29,4 +29,4 @@ Our program prioritises anyone who is part of an under-represented or marginaliz
 * people living with or recovering from substance abuse
 * people who have been displaced or affected by wars in Ukraine and elsewhere
 
-**Sorry the Oportunity Grant is closed, thank you**. We aim to inform you of the results within a few days after closing the application window. Note that if you need a grant, you must apply before the deadline. Moreover, speakers are automatically entitled to a ticket.
+[//]: # (**Sorry the Oportunity Grant is closed, thank you**. We aim to inform you of the results within a few days after closing the application window. Note that if you need a grant, you must apply before the deadline. Moreover, speakers are automatically entitled to a ticket.)

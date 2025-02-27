@@ -8,22 +8,22 @@
     {% if menu != "Home" %}
       {{ menu }} -
     {% endif %}
-    PyCon Portugal 2024
+    PyCon Portugal 2025
   {% endblock title %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Welcome to the biggest Portugal Python event! Diverse activities, presentations, workshops and social events for beginners and professionals from everywhere.">
-  <meta name="author" content="Telmo Guerra, Felipe Valverde">
+  <meta name="author" content="Gonzalito">
 
   <meta name="twitter:card" content="summary_large_image">
-  <meta property="twitter:domain" content="2024.pycon.pt">
-  <meta property="twitter:url" content="https://2024.pycon.pt/">
-  <meta name="twitter:title" content="PyCon Portugal 2024 Website">
+  <meta property="twitter:domain" content="2025.pycon.pt">
+  <meta property="twitter:url" content="https://2025.pycon.pt/">
+  <meta name="twitter:title" content="PyCon Portugal 2025 Website">
   <meta name="twitter:description" content="Welcome to the biggest Portugal Python event! Diverse activities, presentations, workshops and social events for beginners and professionals from everywhere.">
   <meta name="twitter:image" content="https://{{ request.get_host }}{{ STATIC_URL }}images/logo/og_logo.png">
-  <meta property="og:title" content="PyCon Portugal 2024 Website">
+  <meta property="og:title" content="PyCon Portugal 2025 Website">
   <meta property="og:description" content="Welcome to the biggest Portugal Python event! Diverse activities, presentations, workshops and social events for beginners and professionals from everywhere.">
   <meta property="og:image" content="https://{{ request.get_host }}{{ STATIC_URL }}images/logo/og_logo.png">
-  <meta property="og:url" content="https://2024.pycon.pt">
+  <meta property="og:url" content="https://2025.pycon.pt">
   <meta property="og:type" content="website">
 
   <!-- Google tag (gtag.js) -->
@@ -38,11 +38,13 @@
   </script>
 
   <link rel="apple-touch-icon" sizes="180x180"
-        href="{% static 'images/favicons/apple-touch-icon.png' %}">
+        href="{% static 'images/favicons/favicon_32x32.png' %}">
   <link rel="icon" type="image/png" sizes="32x32"
-        href="{% static 'images/favicons/favicon-32x32.png' %}">
+        href="{% static 'images/favicons/favicon_32x32.png' %}">
+<link rel="icon" type="image/png" sizes="24x24"
+        href="{% static 'images/favicons/favicon_24x24.png' %}">
   <link rel="icon" type="image/png" sizes="16x16"
-        href="{% static 'images/favicons/favicon-16x16.png' %}">
+        href="{% static 'images/favicons/favicon_16x16.png' %}">
   <link rel="manifest" href="{% static 'images/favicons/site.webmanifest' %}">
   <link rel="icon" href="{% static 'images/favicons/favicon.ico' %}">
 
@@ -50,6 +52,8 @@
     <!-- Latest compiled and minified Bootstrap CSS -->
     <link rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
+    <link href='https://fonts.googleapis.com/css?family=Share Tech' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Nunito' rel='stylesheet'>
     <link rel="stylesheet"
           href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css"
           integrity="sha512-GQGU0fMMi238uA+a/bdWJfpUGKUkBdgfFdgBm72SUQ6BeyWjoY/ton0tEjH+OSH9iP4Dfh+7HM0I9f5eR0L/4w=="

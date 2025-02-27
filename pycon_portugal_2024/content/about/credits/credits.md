@@ -8,10 +8,8 @@ This list of individuals is still growing. Nonetheless, these are our sincerest 
 * Bia Rodrigues
 * David Vaz
 * Felipe Valverde
-* Filipe Guedes
 * Frederico Rodrigues
-* Gabriel Guimarães
-* Isabella Colombarolli
+* Gonçalo Sousa
 * Julius Boakye
 * Luis Vaz
 * Miguel Magalhães
