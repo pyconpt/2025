@@ -44,7 +44,7 @@ This page contains all information regarding the proposal process for Pycon Port
 
 It's a new year. What better way to start it than submitting your talk or workshop for **Pycon Portugal 2025**, in beautiful **Cascais, Portugal**? 
 
-The **Call for Proposals (CFP)** is [open](https://pretalx.evolutio.pt/pycon-portugal-2025/cfp){:target="_blank"} now and will be open until midnight on February 28 [AoE Time Zone](https://www.timeanddate.com/time/zones/aoe){:target="_blank"}; please check the CFP for your timezone specifics. That's plenty of time, you don't have to leave it to the last minute. If you have any questions, please do not hesitate to contact us at [content@pycon.pt](mailto:content@pycon.pt)
+The **Call for Proposals (CFP)** is [open](https://pretalx.evolutio.pt/pycon-portugal-2025/cfp){:target="_blank"} now and will be open until midnight on March 31 [AoE Time Zone](https://www.timeanddate.com/time/zones/aoe){:target="_blank"}; please check the CFP for your timezone specifics. That's plenty of time, you don't have to leave it to the last minute. If you have any questions, please do not hesitate to contact us at [content@pycon.pt](mailto:content@pycon.pt)
 
 If you think you have something great to talk about – submit your idea! If you are unsure, talk it over with somebody, or go to Slack to find previous speakers and participants to discuss your idea with. When in doubt, submit your talk 😉! 
 
