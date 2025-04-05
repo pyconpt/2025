@@ -38,7 +38,7 @@ layout: simple
 [//]: # (If you have any questions, please do not hesitate to contact us at [content@pycon.pt]&#40;mailto:content@pycon.pt&#41;. Don't forget to follow us on Twitter [@PyCon PT]&#40;https://x.com/PyConPT&#41;{:target="\_blank"} for the latest up to date information!)
 
 
-## Call for Participation - Open
+## Call for Participation - Closed
 
 This page contains all information regarding the proposal process for Pycon Portugal - we will update it regularly as new information becomes available.
 
