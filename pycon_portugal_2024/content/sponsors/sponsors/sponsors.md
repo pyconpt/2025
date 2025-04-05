@@ -15,6 +15,14 @@ layout: simple
             src="/static/images/sponsors/zencoder.svg" alt="Zencoder"></a>
         </div>
         <div class="col-12 justify-content-center d-flex">
+          <button class="diamond">Bronze</button>
+        </div>
+        <div class="d-flex justify-content-center mobile-sponsor-images">
+          <a href="https://openteams.com/" target="_blank">
+            <img src="/static/images/sponsors/OT.png" alt="OpenTeams" style="width: 180px">
+          </a>
+        </div>
+        <div class="col-12 justify-content-center d-flex">
           <button class="grants">VENUE</button>
         </div>
         <div class="d-flex justify-content-center mobile-sponsor-images">
@@ -28,6 +36,11 @@ layout: simple
         <div class="d-flex justify-content-center mobile-sponsor-images">
           <a href="https://www.cascais.pt/" target="_blank">
             <img src="/static/images/sponsors/cascaiscamera.png" alt="Camera" style="width: 200px">
+          </a>
+        </div>
+        <div class="pt-3 d-flex justify-content-center mobile-sponsor-images">
+          <a href="https://dspa.pt/?lang=en" target="_blank">
+            <img src="/static/images/sponsors/dspa.png" alt="Camera" style="width: 200px">
           </a>
         </div>
         <div class="col-12 justify-content-center d-flex">
