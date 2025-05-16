@@ -2,8 +2,8 @@ layout: simple
 
 ## Talks and Workshops Schedule
 
-- **Talks** - TBA
-- **Workshops** - TBA
+- **Talks** - 24th & 26th July 2025
+- **Workshops** - 26th July 2025
 - **Lightning Talks** - TBA
 
 [//]: # "<!-- - [**Sprints**](/information/sprints/) - June 8th-9th -->"
@@ -16,14 +16,14 @@ layout: simple
 
 <a href="https://pretalx.evolutio.pt/pycon-portugal-2025/featured/" target="_blank">View the featured talks on Pretalx</a>
 
-<!-- <div id="pretalx-widget-container" style="margin-top: 20px;">
+<div id="pretalx-widget-container" style="margin-top: 20px;">
   <script
     type="text/javascript"
     src="https://pretalx.evolutio.pt/djangocon-europe-2025/schedule/widget/v2.en.js"
   ></script>
 
 <pretalx-schedule
-event-url="https://pretalx.evolutio.pt/djangocon-europe-2025/"
+event-url="https://pretalx.evolutio.pt/pycon-portugal-2025/"
 locale="en"
 format="grid"
 style="--pretalx-clr-primary: #36bc5b; --pretalx-clr-background: # --light-green: #97eb61; --pretalx-clr-text: #002400; width: 100%; max-width: 100%;"
@@ -35,7 +35,7 @@ style="--pretalx-clr-primary: #36bc5b; --pretalx-clr-background: # --light-green
       <div class="pretalx-widget-info-message">
         JavaScript is disabled in your browser. To access our schedule without
         JavaScript, please
-        <a href="https://pretalx.evolutio.pt/djangocon-europe-2025/schedule/" target="_blank">View the schedule on Pretalx</a>.
+        <a href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/" target="_blank">View the schedule on Pretalx</a>.
       </div>
     </div>
   </noscript>
@@ -71,7 +71,7 @@ style="--pretalx-clr-primary: #36bc5b; --pretalx-clr-background: # --light-green
     }
 }
 
-</style> -->
+</style>
 
 <br>
 
