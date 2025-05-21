@@ -32,4 +32,4 @@ All of our partner hotels are located close to the venue, making any of them a g
 **Discount:** 10% discount off best available rate.
 
 
-**Conditions:** Bookings are to be made by email to reservas@rivierahotel.pt using the promotional code: PYCON 2025.
+**Conditions:** Bookings are to be made by email to [reservas@rivierahotel.pt](mailto:sponsors@pycon.pt) using the promotional code: PYCON 2025.
