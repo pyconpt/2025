@@ -8,13 +8,6 @@ layout: simple
         </div>
       </div>
         <div class="col-12 justify-content-center d-flex">
-          <button class="diamond">DIAMOND</button>
-        </div>
-        <div class="d-flex justify-content-center mobile-sponsor-images">
-          <a href="https://zencoder.ai/" target="_blank"><img
-            src="/static/images/sponsors/zencoder.svg" alt="Zencoder"></a>
-        </div>
-        <div class="col-12 justify-content-center d-flex">
           <button class="diamond">Bronze</button>
         </div>
         <div class="d-flex justify-content-center mobile-sponsor-images">
