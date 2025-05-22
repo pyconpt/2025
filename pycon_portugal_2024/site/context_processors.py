@@ -18,6 +18,7 @@ def links(request):
                     "GRANTS": "/information/grants/",
                     "CHILDCARE": "/information/childcare",
                     "T-SHIRTS": "/information/t-shirts",
+                    "HOSPITALITY": "/information/hospitality/",
                     "FAQS": "/information/faqs/",
                 },
             },
