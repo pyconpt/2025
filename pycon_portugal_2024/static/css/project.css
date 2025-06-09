@@ -1952,6 +1952,22 @@ p.small-text {
   width: 170px;
   margin: 80px 0 80px 0;
 }
+
+.home-sponsors .silver {
+  border: 0;
+  cursor: default;
+  color: #F9F9F9;
+  text-align: center;
+  font-family: "Share Tech";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  background: #5076F6;
+  padding: 10px 0 10px 0;
+  width: 170px;
+  margin: 80px 0 80px 0;
+}
 .home-sponsors .grants {
   border: 0;
   cursor: default;

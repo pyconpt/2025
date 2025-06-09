@@ -7,6 +7,14 @@ layout: simple
           <button class="sponsors-title">SPONSORS</button>
         </div>
       </div>
+    <div class="col-12 justify-content-center d-flex">
+          <button class="silver">Silver</button>
+        </div>
+        <div class="d-flex justify-content-center mobile-sponsor-images">
+          <a href="https://intellias.com/" target="_blank">
+            <img src="/static/images/sponsors/intellias.svg" alt="Intellias" style="width: 180px">
+          </a>
+        </div>
         <div class="col-12 justify-content-center d-flex">
           <button class="diamond">Bronze</button>
         </div>
@@ -15,6 +23,14 @@ layout: simple
             <img src="/static/images/sponsors/OT.png" alt="OpenTeams" style="width: 180px">
           </a>
         </div>
+         <div class="col-12 justify-content-center d-flex">
+        <button class="grants">Grants</button>
+      </div>
+      <div class="d-flex justify-content-center mobile-sponsor-images">
+        <a href="https://python.org/psf" target="_blank">
+          <img src="/static/images/sponsors/psf-logo.png" alt="PSF" style="width: 180px">
+        </a>
+      </div>
         <div class="col-12 justify-content-center d-flex">
           <button class="grants">VENUE</button>
         </div>
