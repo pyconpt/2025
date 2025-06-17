@@ -87,6 +87,42 @@ We welcome and celebrate the uniqueness of every individual. Join Intellias for 
 
 [//]: # ()
 [//]: # ()
+<hr/>
+<br>
+<br>
+
+### [**OpenTeams**](https://openteams.com/)
+
+## **Senior Software Engineer: Numerical and High Performance Computing**
+
+**Remote**
+
+### **Who We Are**
+At OpenTeams we're at the forefront of AI innovation, building cutting-edge products and providing strategic consulting services that transform businesses. We're a dynamic team passionate about leveraging artificial intelligence to solve complex challenges and create impactful solutions — while staying true to the open source ethos. We empower enterprises with fully customizable AI solutions while ensuring ownership of proprietary data, codebases and insights.
+
+We value freedom, trust, teamwork, accountability, quality, and limitless human potential. We dedicate 3% of our profits to the open source community. If you value David vs Goliath situations, we're the place for you.
+
+### **What you'll do**
+Have you noticed Python's explosion in data science and machine learning and tools like PyTorch, NumPy, Numba, and Dask? Would you like to help support this community and build out the future of the open source Python computing ecosystem?
+
+In this position, you'll get to:
+- Work with modern numerical computing and deep learning technology
+- Contribute to open-source projects like PyTorch, TorchRL, TorchAO, and Triton
+- Use C++, CUDA, Python, C, and MLIR
+- Develop new features, performance enhancements and help maintain code with millions of users
+- Interact with the PyTorch development community, users, and our clients who are building PyTorch and building with PyTorch
+- Collaborate with, learn from, and mentor team members
+- Be a part of the Python community
+
+### **What we're looking for**
+Prior experience with particular packages like PyTorch or NumPy is nice to have but certainly not required. If you have expertise in languages like C++, Python, and CUDA and can find your way around large code bases, we expect you can learn about any new library or project quickly. We also highly value good communication skills. Knowledge of deep learning is of benefit. We aim to help you grow within OpenTeams and within the Python open source community.
+
+### **Grow With Us**
+AI is transforming industries at an unprecedented pace, and we're leading the charge with open source innovation. At OpenTeams, you won't just be another cog in the machine—you'll be part of a passionate, remote-first team pioneering the future of AI.
+
+We believe in building AI differently: with transparency, collaboration, and a commitment to empowering businesses with complete control over their data, code, and insights. Our team thrives on solving real-world challenges, crafting ethical AI, and contributing to the open source projects driving the AI revolution.
+
+### [**Apply**](https://job-boards.greenhouse.io/openteams/jobs/4570845005?gh_src=e778dda05us)
 [//]: # (__Nice to haves but not required:__)
 
 [//]: # (- Experience as a team lead or manager)
