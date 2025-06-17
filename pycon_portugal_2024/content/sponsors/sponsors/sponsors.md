@@ -31,6 +31,11 @@ layout: simple
           <img src="/static/images/sponsors/psf-logo.png" alt="PSF" style="width: 180px">
         </a>
       </div>
+      <div class="d-flex justify-content-center mobile-sponsor-images py-3">
+        <a href="https://www.djangoproject.com/" target="_blank">
+          <img src="/static/images/sponsors/django.svg" alt="Django" style="width: 180px">
+        </a>
+      </div>
         <div class="col-12 justify-content-center d-flex">
           <button class="grants">VENUE</button>
         </div>

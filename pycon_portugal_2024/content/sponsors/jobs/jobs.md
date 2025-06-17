@@ -9,13 +9,13 @@ Looking for a job? Here we'll have an awesome list with companies who sponsored 
 
 [//]: # ()
 [//]: # ()
-[//]: # (### [**Platform Engineer**]&#40;https://pydantic.dev/about#join-the-teams&#41;{:target="\_blank"})
+### [**Intellias**](https://career.intellias.com/vacancy/senior-fullstack-developer-pythonreact-26664/){:target="_blank"}
 
-[//]: # (**Platform Engineer**)
+## **Senior FullStack Developer**
 
 [//]: # (**Logfire**)
 
-[//]: # (As a Principal Platform Engineer you'll have the opportunity to take our nascent developer )
+Over 20 years of market experience, Intellias brings together technologists, creators and innovators in Europe, North and Latin America, and the Middle East. Join our international team and take the mission to solve the advanced tech challenges of tomorrow! 
 
 [//]: # (platform to the next level. You'll be the first full-time engineer dedicated to building out our )
 
@@ -23,10 +23,29 @@ Looking for a job? Here we'll have an awesome list with companies who sponsored 
 
 [//]: # (scale the company from <10 engineers.)
 
-[//]: # ()
-[//]: # (### **What you will do:**)
+### **What project we have for you:**
+Our client is a fast-growing startup that is on a mission to change the deskless work experience.They created a management platform that allows to easily manage all operations, from scheduling to payroll. With over 3.8B deskless workers across the globe, the challenges and potential are endless. Product includes various features: scheduling and time tracking, task management, communication management, chat, knowledge base, help desk, HR & people management, recognition & rewards, documentation, training etc.
+We are looking for an experienced Senior Product Fullstack Developer, to further develop the management platform. You will build a product that customers love and use on a daily basis, a product that is fun to use, fast, reliable and scalable. You will tackle a wide array of problems from developing a UI that is responsive to the user and fun to choosing the right backend technologies to solve specific product use cases at scale.
+<hr/>
 
-[//]: # (- Design and develop an internal developer platform to help our team move quicker )
+
+[//]: # ()
+
+
+### **What you will do:**
+
+- Lead the design, development, and maintenance of complex Python applications.  
+- Collaborate with product management and other stakeholders to define technical requirements and deliverables. 
+- Write clean, efficient, and self-documented code. 
+- Implement automation tests.
+- Participate in code reviews to ensure code quality and maintainability. 
+- Monitor application performance and provide optimization recommendations. 
+- Stay up to date with the latest technologies and industry trends. 
+- Drive the continuous technological improvement process. 
+
+
+<!-- ### [**Apply**](https://career.intellias.com/vacancy/senior-fullstack-developer-pythonreact-26664/){:target="_blank"} -->
+
 
 [//]: # (from idea to production. Examples of features we want are test/preview )
 
@@ -41,21 +60,30 @@ Looking for a job? Here we'll have an awesome list with companies who sponsored 
 [//]: # (- Grow a team that aligns with the company's vision and culture.)
 
 [//]: # ()
-[//]: # (### **Who You Are**)
+[//]: # ()
+<!-- ### **Who You Are** -->
 
-[//]: # (We expect a candidate for this position to have experience in:)
 
-[//]: # (- Managing infrastructure via IaC)
+- 5+ years of experience working with frontend and backend technologies at scale.
+- Candidates from product companies with startup mindset are preferrable
+- 5+ years of experience with Python
+- 3+ years of experience with React with MobX
+- Experience in a wide variety of technical tools such as different DB types, queues, design patterns, and architectures.
+- Mongodb, Mysql – Expert level
+- Message broker: Rabbit MQ – Expert level
+- Experience both with AWS and Azure is needed
+- Ability to understand the pros and cons of different architecture decisions and choose the best option.
+- Experience scaling services to millions of users.
+- Understands the complexity of web technology, constraints, UI/UX.
+- Experience with State Management libraries (mobx, redux)
 
-[//]: # (- Kubernetes.)
 
-[//]: # (- Database management &#40;e.g. orchestrating migrations, deploying stateful services on )
+### **What it's like to work at Intellias** 
+At Intellias, where technology takes center stage, people always come before processes. By creating a comfortable atmosphere in our team, we empower individuals to unlock their true potential and achieve extraordinary results. That’s why we offer a range of benefits that support your well-being and charge your professional growth.
+We are committed to fostering equity, diversity, and inclusion as an equal opportunity employer. All applicants will be considered for employment without discrimination based on race, color, religion, age, gender, nationality, disability, sexual orientation, gender identity or expression, veteran status, or any other characteristic protected by applicable law.
+We welcome and celebrate the uniqueness of every individual. Join Intellias for a career where your perspectives and contributions are vital to our shared success.
 
-[//]: # (k8s and managing data in test environments&#41;)
-
-[//]: # (- GitHub and GitHub Actions, including complex workflows)
-
-[//]: # (- Experience with Google Cloud Platform)
+### [**Apply**](https://career.intellias.com/vacancy/senior-fullstack-developer-pythonreact-26664/){:target="_blank"}
 
 [//]: # ()
 [//]: # ()
