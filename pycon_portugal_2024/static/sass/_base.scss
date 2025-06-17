@@ -95,6 +95,14 @@ h3 {
   font-weight: 400;
 }
 
+h4 {
+  padding: 0;
+  color: $WhiteGray;
+  font-family: Share Tech;
+  font-size: 36px;
+  font-weight: 400;
+}
+
 p,
 li {
   color: $WhiteGray;
@@ -157,21 +165,21 @@ p.small-text {
 }
 
 ::-webkit-scrollbar-track {
-    background-color: $DarkBlue;
+  background-color: $DarkBlue;
 }
 
 /* Scrollbar Handle */
 ::-webkit-scrollbar-thumb {
-    background-color: $WhiteGray;
+  background-color: $WhiteGray;
   border-radius: 8px;
 }
 
 /* Scrollbar Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-    background-color: $Green;
+  background-color: $Green;
 }
 
 /* Scrollbar Width */
 ::-webkit-scrollbar {
-    width: 8px;
+  width: 8px;
 }
