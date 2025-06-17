@@ -3,6 +3,7 @@ To understand why this file is here, please read:
 
 http://cookiecutter-django.readthedocs.io/en/latest/faq.html#why-is-there-a-django-contrib-sites-directory-in-cookiecutter-django
 """
+
 from django.conf import settings
 from django.db import migrations
 
@@ -16,6 +17,8 @@ def _update_or_create_site_with_sequence(site_model, connection, domain, name):
             "name": name,
         },
     )
+    # if created and connection.vendor == 'postgresql': do this if you are using sqlite
+
     if created:
         # We provided the ID explicitly when creating the Site entry, therefore the DB
         # sequence to auto-generate them wasn't used and is now out of sync. If we
@@ -23,7 +26,8 @@ def _update_or_create_site_with_sequence(site_model, connection, domain, name):
         # site is created.
         # To avoid this, we need to manually update DB sequence and make sure it's
         # greater than the maximum value.
-        max_id = site_model.objects.order_by('-id').first().id
+        # Note: This is only needed for PostgreSQL, SQLite handles this automatically.
+        max_id = site_model.objects.order_by("-id").first().id
         with connection.cursor() as cursor:
             cursor.execute("SELECT last_value from django_site_id_seq")
             (current_id,) = cursor.fetchone()
