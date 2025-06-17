@@ -2,7 +2,7 @@ layout: simple
 
 ## Talks and Workshops Schedule
 
-- **Talks** - 24th & 26th July 2025
+- **Talks** - 24th & 25th July 2025
 - **Workshops** - 26th July 2025
 - **Lightning Talks** - TBA
 
