@@ -25,7 +25,7 @@ layout: simple
     </div>
     <div class="d-flex justify-content-center mobile-sponsor-images">
       <a href="https://openteams.com/" target="_blank">
-        <img src="/static/images/sponsors/openteam.svg" alt="OpenTeams" style="width: 160px">
+        <img src="/static/images/sponsors/openteams.png" alt="OpenTeams" style="width: 160px">
       </a>
     </div>
 
