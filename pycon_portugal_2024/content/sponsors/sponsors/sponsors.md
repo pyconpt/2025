@@ -43,6 +43,9 @@ layout: simple
         <a href="https://www.djangoproject.com/" target="_blank">
           <img src="/static/images/sponsors/django.svg" alt="Django Software Foundation">
         </a>
+        <a href="https://www.up.pt/" target="_blank">
+          <img src="/static/images/sponsors/uporto.png" alt="University of Porto">
+        </a>
       </div>
     </div>
 
