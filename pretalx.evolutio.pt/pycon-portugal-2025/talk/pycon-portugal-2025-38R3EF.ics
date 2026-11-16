@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//talk//38R3EF
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-38R3EF@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250726T103000
+DTEND;TZID=WET:20250726T123000
+DESCRIPTION:During the workshop we will create an HTTP-based API that inter
+ acts as a chatbot.\n\nIt will cover key concepts and delines core challeng
+ es such as:\n- including integrating a vector database for document retrie
+ val\,\n- enhancing the capabilities of large language models with retrieve
+ d context with *Langchain*\, \n- and finally exposing the core operations 
+ through endpoints with *FastAPI* for seamless interaction. \n\nWhether you
+ 're a developer aiming to expand your AI toolkit or a data enthusiast expl
+ oring RAG\, the aims to provide you with the knowledge and skills to desig
+ n and deploy intelligent\, context-driven applications.
+DTSTAMP:20261116T111136Z
+LOCATION:D -114\, Floor -1 (Room Azores)
+SUMMARY:FastAPI Meets Langchain: crafting a RAG AI-powered chatbot - Giunio
+  De Luca
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/38R3EF/
+END:VEVENT
+END:VCALENDAR

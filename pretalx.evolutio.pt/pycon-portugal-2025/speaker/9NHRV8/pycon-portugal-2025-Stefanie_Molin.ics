@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//speaker//9NHRV
+ 8
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-KWZZZS@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250725T111000
+DTEND;TZID=WET:20250725T114000
+DESCRIPTION:Relying solely on simple summary statistics like the mean\, med
+ ian\, or standard deviation is not enough to describe complex data. Come a
+ nd see why this is the case and learn what it takes to translate research 
+ into an open-source library.
+DTSTAMP:20261116T111146Z
+LOCATION:Auditorium
+SUMMARY:Data Morph: A Cautionary Tale of Summary Statistics - Stefanie Moli
+ n
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/KWZZZS/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-KYUBDF@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250726T160000
+DTEND;TZID=WET:20250726T180000
+DESCRIPTION:Maintaining code quality can be challenging\, no matter the siz
+ e of your project or number of contributors. Different team members may ha
+ ve different opinions on code styling and preferences for code structure\,
+  while solo contributors might find themselves spending a considerable amo
+ unt of time making sure the code conforms to accepted conventions. However
+ \, manually inspecting and fixing issues in files is both tedious and erro
+ r-prone. As such\, computers are much more suited to this task than humans
+ . Pre-commit hooks are a great way to have a computer handle this for you.
+ \n\nPre-commit hooks are code checks that run whenever you attempt to comm
+ it your changes with Git. They can detect and\, in some cases\, automatica
+ lly correct code-quality issues *before* they make it to your codebase. In
+  this tutorial\, you will learn how to install and configure pre-commit ho
+ oks for your repository to ensure that only code that passes your checks m
+ akes it into your code base. We will also explore how to build custom pre-
+ commit hooks for novel use cases.
+DTSTAMP:20261116T111146Z
+LOCATION:D -112\, Floor -1 (Room Madeira)
+SUMMARY:(Pre-)Commit to Better Code - Stefanie Molin
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/KYUBDF/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//talk//PFTBFK
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-PFTBFK@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250724T145000
+DTEND;TZID=WET:20250724T152000
+DESCRIPTION:Python 3.14 is shaping up to be one of the biggest Python relea
+ ses in recent years. Let's explore the exciting new features and see how t
+ hey'll make you a more effective Python developer.
+DTSTAMP:20261116T111131Z
+LOCATION:Auditorium
+SUMMARY:What's new in Python 3.14 - Anže Pečar
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/PFTBFK/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//talk//KWZZZS
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-KWZZZS@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250725T111000
+DTEND;TZID=WET:20250725T114000
+DESCRIPTION:Relying solely on simple summary statistics like the mean\, med
+ ian\, or standard deviation is not enough to describe complex data. Come a
+ nd see why this is the case and learn what it takes to translate research 
+ into an open-source library.
+DTSTAMP:20261116T111133Z
+LOCATION:Auditorium
+SUMMARY:Data Morph: A Cautionary Tale of Summary Statistics - Stefanie Moli
+ n
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/KWZZZS/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//talk//EMWGJK
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-EMWGJK@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250726T160000
+DTEND;TZID=WET:20250726T180000
+DESCRIPTION:Decorators are often thought of as functions that accept functi
+ ons as arguments and that return other functions...\n\nIn this hands-on wo
+ rkshop you will see that this is not always right.
+DTSTAMP:20261116T111137Z
+LOCATION:D -114\, Floor -1 (Room Azores)
+SUMMARY:Advanced decorators – decorators & classes - Rodrigo Girão Serrão
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/EMWGJK/
+END:VEVENT
+END:VCALENDAR

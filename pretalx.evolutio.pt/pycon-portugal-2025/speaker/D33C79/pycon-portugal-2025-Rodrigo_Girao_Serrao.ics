@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//speaker//D33C7
+ 9
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-GLYSA7@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250724T155000
+DTEND;TZID=WET:20250724T162000
+DESCRIPTION:This talk walks you through the 20 tools available in `itertool
+ s`\, a module you should be proficient in if you aspire to write Python co
+ de that makes efficient use iterables.
+DTSTAMP:20261116T111145Z
+LOCATION:Auditorium
+SUMMARY:A tour of the module `itertools` - Rodrigo Girão Serrão
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/GLYSA7/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-HAD3VX@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250726T133000
+DTEND;TZID=WET:20250726T153000
+DESCRIPTION:[Polars](https://github.com/pola-rs/polars) is lightning fast\,
+  easy to use\, dataframe library.\nIt's clean API and its contexts and exp
+ ressions allow writing readable but performant data wrangling code.\n\nAim
+ ed at both data newbies and pandas experts (Polars != pandas)\, in this ha
+ nds-on tutorial we'll use data from the [Pokémon franchise](https://en.wi
+ kipedia.org/wiki/Pokémon) to explore the Polars API and the ideas that se
+ t it apart from pandas and other dataframe libraries.
+DTSTAMP:20261116T111145Z
+LOCATION:D -112\, Floor -1 (Room Madeira)
+SUMMARY:The Pokémon trainer's guide to Polars - Rodrigo Girão Serrão
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/HAD3VX/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-EMWGJK@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250726T160000
+DTEND;TZID=WET:20250726T180000
+DESCRIPTION:Decorators are often thought of as functions that accept functi
+ ons as arguments and that return other functions...\n\nIn this hands-on wo
+ rkshop you will see that this is not always right.
+DTSTAMP:20261116T111145Z
+LOCATION:D -114\, Floor -1 (Room Azores)
+SUMMARY:Advanced decorators – decorators & classes - Rodrigo Girão Serrão
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/EMWGJK/
+END:VEVENT
+END:VCALENDAR

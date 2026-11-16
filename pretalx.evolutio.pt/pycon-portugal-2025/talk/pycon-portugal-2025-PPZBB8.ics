@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//talk//PPZBB8
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-PPZBB8@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250726T133000
+DTEND;TZID=WET:20250726T153000
+DESCRIPTION:The new version of Django has several important features that a
+ llow us to avoid installing additional modules. Libraries like DRF\, yasg\
+ , spectacular have always been recommended for REST API development. Now t
+ he rules have changed. In this workshop: \n1. The modern art of project de
+ velopment in Django. (µ-Django style). \n2. Built-in serializer tools. \n
+ 3. Json response\, an underrated tool. \n4. Async ORM and class based view
+ s . The best parts of modern Django.\n\nAfter this workshop\, all particip
+ ants got information about the new features of Django.
+DTSTAMP:20261116T111136Z
+LOCATION:D -114\, Floor -1 (Room Azores)
+SUMMARY:Building pure Django REST API - Maxim Danilov
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/PPZBB8/
+END:VEVENT
+END:VCALENDAR

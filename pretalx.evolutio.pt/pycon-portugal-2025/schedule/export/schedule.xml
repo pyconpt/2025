@@ -1,0 +1,1202 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- Made with love by pretalx v2026.2.1. -->
+<schedule>
+    <generator name="pretalx" system="pretalx.evolutio.pt" version="2026.2.1" />
+    <version>0.17</version>
+    <conference>
+        <title>PyCon Portugal 2025</title>
+        <acronym>pycon-portugal-2025</acronym>
+        <start>2025-07-24</start>
+        <end>2025-07-26</end>
+        <days>3</days>
+        <timeslot_duration>00:05</timeslot_duration>
+        <base_url>https://pretalx.evolutio.pt/</base_url>
+        <logo>https://pretalx.evolutio.pt//media/pycon-portugal-2025/img/Artboard_2_copy_32x_SOKIm4g.png</logo>
+        <time_zone_name>Europe/Lisbon</time_zone_name>
+        
+        
+    </conference>
+    <day index='1' date='2025-07-24' start='2025-07-24T04:00:00+01:00' end='2025-07-25T03:59:00+01:00'>
+        <room name='Auditorium' guid='bf34b7c1-3d44-5f9b-8827-55d43acb3e6e'>
+            <event guid='b77a4dc2-5f75-5c77-986e-9caf1527d3c3' id='1700' code='X7QJN9'>
+                <room>Auditorium</room>
+                <title>Welcome Session</title>
+                <subtitle></subtitle>
+                <type>Other</type>
+                <date>2025-07-24T09:00:00+01:00</date>
+                <start>09:00</start>
+                <duration>00:15</duration>
+                <abstract>Welcome Session</abstract>
+                <slug>pycon-portugal-2025-1700-welcome-session</slug>
+                <track></track>
+                
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Welcome Session</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/X7QJN9/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/X7QJN9/feedback/</feedback_url>
+            </event>
+            <event guid='5e70a870-ff71-513d-a808-4deefd7ddebf' id='1706' code='TQBNLH'>
+                <room>Auditorium</room>
+                <title>From Lisbon to Space: Data Science at ExoPlanetary Scale with Python</title>
+                <subtitle></subtitle>
+                <type>Keynote</type>
+                <date>2025-07-24T09:15:00+01:00</date>
+                <start>09:15</start>
+                <duration>01:00</duration>
+                <abstract>What does it mean to lead a boutique data science company in Portugal working with clients across the globe, including the European Space Agency? In this talk, we&#8217;ll share the journey of building a specialized team that operates in banking, telecom, pharma, and space, with a spotlight on one of our contributions to the European Space Agency&#8217;s ARIEL mission.
+
+As part of this collaboration, we&#8217;ll showcase an interactive Streamlit app we developed as an educational tool to explore exoplanet data, from raw light curves to atmospheric spectra, and to experiment with machine learning models that estimate those spectra. This example illustrates how Python can power real-world scientific collaboration and make complex space science accessible, explainable, and interactive.</abstract>
+                <slug>pycon-portugal-2025-1706-from-lisbon-to-space-data-science-at-exoplanetary-scale-with-python</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1348'>Mar&#237;lia Felismino Sim&#245;es</person><person id='1349'>Nikki Grens</person>
+                </persons>
+                <language>en</language>
+                <description>What does it mean to lead a boutique data science company in Portugal working with clients across the globe, including the European Space Agency? In this talk, we&#8217;ll share the journey of building a specialized team that operates in banking, telecom, pharma, and space, with a spotlight on one of our contributions to the European Space Agency&#8217;s ARIEL mission.
+
+As part of this collaboration, we&#8217;ll showcase an interactive Streamlit app we developed as an educational tool to explore exoplanet data, from raw light curves to atmospheric spectra, and to experiment with machine learning models that estimate those spectra. This example illustrates how Python can power real-world scientific collaboration and make complex space science accessible, explainable, and interactive.</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/TQBNLH/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/TQBNLH/feedback/</feedback_url>
+            </event>
+            <event guid='1344744a-67b9-5b44-bf3c-18cdf3000741' id='1653' code='S7NMTF'>
+                <room>Auditorium</room>
+                <title>An A11y for better SEO</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-24T10:40:00+01:00</date>
+                <start>10:40</start>
+                <duration>00:30</duration>
+                <abstract>As applications grow increasingly complex and AI transforms development practices, accessibility has never been more critical. Making your digital products work for people with disabilities doesn&apos;t just promote inclusion&#8212;it directly improves your SEO performance. This presentation explores the powerful correlation between accessibility and search rankings, providing practical strategies to leverage this relationship for enhanced user experiences and outcomes.</abstract>
+                <slug>pycon-portugal-2025-1653-an-a11y-for-better-seo</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1298'>Sandro Costa</person>
+                </persons>
+                <language>en</language>
+                <description>Web accessibility and search engine optimization (SEO) share a symbiotic relationship that increasingly defines digital success. When websites are designed to be accessible to people with disabilities, they inherently incorporate many elements that search engines value for ranking purposes. Proper semantic HTML structure, descriptive alt text for images, clear navigation hierarchies, and readable content benefit both users with disabilities and search engine crawlers. This overlap is not coincidental but reflects a fundamental truth: what makes content accessible to humans with diverse needs also makes it more comprehensible to algorithmic systems. As search engines evolve to prioritize user experience metrics, the connection between accessibility and SEO grows stronger, with improved page speed, reduced bounce rates, and enhanced engagement serving both purposes. 
+During this presentation, we&apos;ll explore a small flask app, improve it&apos;s accessibility and document best practices, while discussing accessibility fundamentals.
+Accessibility is a key feature of your application and should always be viewed as an ally for your SEO.
+
+Presentation topics:
+- How do people with disabilities interact with our applications
+- Web accessibility and the WCAG
+- Proper content and structure of a good web app
+- Description and context are everything
+- HTML Semantics
+- Image alt text, video transcriptions and audio descriptions
+- Responsiveness and optimized navigation
+- Speed and optimization
+- Continuous testing and improvements</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/S7NMTF/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/S7NMTF/feedback/</feedback_url>
+            </event>
+            <event guid='20c20f37-4328-5414-9d83-dc886aac6b98' id='1659' code='J3JQBR'>
+                <room>Auditorium</room>
+                <title>Unifying Data Management in Python with Ibis</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-24T11:40:00+01:00</date>
+                <start>11:40</start>
+                <duration>00:30</duration>
+                <abstract>Discover how Ibis provides a single DataFrame API across pandas, DuckDB, and SQL databases, bridging the gap between data science prototypes and production code.</abstract>
+                <slug>pycon-portugal-2025-1659-unifying-data-management-in-python-with-ibis</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1300'>Daniel Mesejo</person>
+                </persons>
+                <language>en</language>
+                <description>The data ecosystem in Python is fragmented: data scientists typically use pandas or polars, engineers favor SQL or PySpark, and web developers depend on ORMs. This fragmentation leads to silos where code cannot be shared, prototypes have to be rewritten for production, and knowledge transfer is hindered, even though everyone is working with the same underlying data.
+As a contributor to Ibis for the past two years, I&apos;ll demonstrate how this portable DataFrame library provides a unified API across pandas, DuckDB, PostgreSQL, and more, enabling true collaboration between teams without sacrificing performance.
+The presentation will begin with a practical demonstration of the same data query written three different ways - in pandas, SQL, and an ORM - highlighting the costs of this fragmentation. Attendees will then see an overview of the tools different roles typically use and their limitations through a simple demo task.
+Next, the talk will dive into Ibis core concepts, explaining its architecture that separates interface from execution engine, its deferred execution model, and support for 20+ backends. This section includes a short demo of building an analytics query step by step.
+The heart of the presentation will be two real-world examples: first, taking a data exploration workflow to production using the same Ibis code across pandas, DuckDB, and PostgreSQL with performance comparisons; second, integrating analytics into web applications, showing how data science and web development teams can share code.
+The talk will conclude with strategic considerations on when to leverage native SQL capabilities and performance optimization tips.
+Attendees will learn to write Pythonic data code that works across multiple engines, strategically use SQL while keeping most code in Python, share code between prototyping and production, and process data significantly faster than with pandas alone.
+This talk is for data scientists, engineers, web developers, and anyone working with tabular data. No specific SQL knowledge is required, though familiarity with pandas or other DataFrame libraries will be helpful.</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/J3JQBR/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/J3JQBR/feedback/</feedback_url>
+            </event>
+            <event guid='1400462a-d27c-5c3f-9e89-cc185a6c9658' id='1685' code='KCQ3MA'>
+                <room>Auditorium</room>
+                <title>Property-based testing the Python way</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-24T12:10:00+01:00</date>
+                <start>12:10</start>
+                <duration>00:30</duration>
+                <abstract>What if I told you that you could write simpler tests but get better results?
+
+What if I told you can automatically generate your test data?
+
+This may sound difficult to your traditional testing approach but can be easily done with Hypothesis, the Python library used for property-based testing.</abstract>
+                <slug>pycon-portugal-2025-1685-property-based-testing-the-python-way</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1315'>Emma Saroyan</person>
+                </persons>
+                <language>en</language>
+                <description>This is an introductory talk about property-based testing. The talk requires some previous knowledge about testing to make the most out of it but if you are new and curious I think you would get something out of it.
+The talk approaches a simple problem from two different testing perspectives. Giving you an idea about property-based testing and how it&#8217;s different from the traditional approach with Python.
+
+The main focus of the topic would be Hypothesis and how you can achieve your testing goals with it.
+By the end of this talk you would have a solid understanding of property-based testing with Hypothesis, that would help you decide which testing approach fits your need.
+
+Given below is a rough overview of the talk structure:
+The testing problem. (10 mins)
+The traditional approach. 
+Cons of traditional approach.
+What is property-based testing. 
+Intro to Hypothesis. (20 mins)
+Same problem solution with Hypothesis. 
+Why choose Hypothesis as a go-to property-based testing tool. 
+Parameterized testing with Pytest vs Hypothesis approach. 
+When or when not to use property based testing. 
+How you can adopt Hypothesis in your code base.</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/KCQ3MA/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/KCQ3MA/feedback/</feedback_url>
+            </event>
+            <event guid='f84212df-b33e-5bd4-8f0b-43016dcd83bf' id='1687' code='3KPGAT'>
+                <room>Auditorium</room>
+                <title>Python-Driven Robotics: Where Bytes Meet Biopsies</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-24T12:40:00+01:00</date>
+                <start>12:40</start>
+                <duration>00:30</duration>
+                <abstract>Python&apos;s innovation in MedTech: Robotics for precise lung biopsies. See how Python advances healthcare&apos;s future.</abstract>
+                <slug>pycon-portugal-2025-1687-python-driven-robotics-where-bytes-meet-biopsies</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1323'>Lilinoe Harbottle</person>
+                </persons>
+                <language>en</language>
+                <description>Explore how Python&apos;s robust ecosystem is driving innovation in medical robotics. This talk will showcase Python&apos;s potential to enable minimally-invasive robot-assisted lung biopsies with unprecedented accuracy, including high sensitivity and specificity on hundreds of medical images.
+
+&lt;b&gt;Minimally-Invasive Robotic Systems:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;Understand the system for biopsy procedures, focusing on precision and minimally-invasive techniques.&lt;/li&gt;
+&lt;li&gt;Examine Python libraries for imaging, highlighting algorithmic solutions for nodule targeting.&lt;/li&gt;
+&lt;li&gt;Discuss challenges encountered when achieving high accuracy and sensitivity, and solutions developed to overcome them.&lt;/li&gt;&lt;/ul&gt;
+&lt;b&gt;Algorithmic Diagnostics:&lt;/b&gt;
+&lt;ul&gt;
+&lt;li&gt;Delve into the application of 3D Convolutional Neural Networks (TensorFlow, Keras) for enhanced lung nodule detection.&lt;/li&gt;
+&lt;li&gt;Analyze the model&apos;s performance on large-scale medical image datasets, key metrics, and complexities of training such models.&lt;/li&gt;
+&lt;/ul&gt;
+We&apos;ll explore how Python empowers advanced medical imaging, predictive maintenance, and real-time telemetry, shaping the future of AI-driven surgery. This presentation aims to inspire the PyCon Portugal community (and beyond!), highlighting Python&apos;s potential to advance MedTech and improve patient care through innovative robotic solutions.</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/3KPGAT/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/3KPGAT/feedback/</feedback_url>
+            </event>
+            <event guid='614469a1-0eeb-59f7-9a22-2504d513dbce' id='1430' code='VJQRJZ'>
+                <room>Auditorium</room>
+                <title>Build without limits - lessons learned from using generative AI dev tools</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-24T14:10:00+01:00</date>
+                <start>14:10</start>
+                <duration>00:30</duration>
+                <abstract>Next generation developer tools that incorporate generative AI are everywhere, but how good are they, and. more importantly, how useful. In this talk I am going to share what I have learned from using these tools over the last 12 months.</abstract>
+                <slug>pycon-portugal-2025-1430-build-without-limits-lessons-learned-from-using-generative-ai-dev-tools</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1139'>Ricardo Sueiras</person>
+                </persons>
+                <language>en</language>
+                <description>This talk is always evolving as the AI coding landscape changes.
+
+I will cover the kinds of day-to-day scenarios and use cases I am finding them useful for, how they are helping me address some of my developer problems, and tips I have learned to more effectively use these tools. This builds upon a series of blogs posts where I have been sharing my experiences (and code) in 2024.
+
+This session contains live coding/demos that will help you see this in action.</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/VJQRJZ/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/VJQRJZ/feedback/</feedback_url>
+            </event>
+            <event guid='f56d44a7-d507-571e-9b25-4c26864f9d70' id='1707' code='PFTBFK'>
+                <room>Auditorium</room>
+                <title>What&apos;s new in Python 3.14</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-24T14:50:00+01:00</date>
+                <start>14:50</start>
+                <duration>00:30</duration>
+                <abstract>Python 3.14 is shaping up to be one of the biggest Python releases in recent years. Let&apos;s explore the exciting new features and see how they&apos;ll make you a more effective Python developer.</abstract>
+                <slug>pycon-portugal-2025-1707-what-s-new-in-python-3-14</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1351'>An&#382;e Pe&#269;ar</person>
+                </persons>
+                <language>en</language>
+                <description>In this talk we&apos;ll explore the new features in Python 3.14 through live coding examples that show how they work in practice. This includes:
+
+* Free threaded Python
+* Multiple interpreters
+* Deferred evaluation of annotations
+* Template strings
+* Asyncio introspection
+* Remote attaching to a running Python process
+* Better error messages
+
+If you prefer seeing new features in action over reading release notes this is the talk for you!</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/PFTBFK/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/PFTBFK/feedback/</feedback_url>
+            </event>
+            <event guid='f12892ea-63f0-55e1-b9d0-ba64a046dd85' id='1713' code='GLYSA7'>
+                <room>Auditorium</room>
+                <title>A tour of the module `itertools`</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-24T15:50:00+01:00</date>
+                <start>15:50</start>
+                <duration>00:30</duration>
+                <abstract>This talk walks you through the 20 tools available in `itertools`, a module you should be proficient in if you aspire to write Python code that makes efficient use iterables.</abstract>
+                <slug>pycon-portugal-2025-1713-a-tour-of-the-module-itertools</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1313'>Rodrigo Gir&#227;o Serr&#227;o</person>
+                </persons>
+                <language>en</language>
+                <description>The talk proposes splitting the module itertools in 5 categories of iterables: combinatorial, reshaping, infinite, filtering, and complementary.
+
+For each category, we will explore the tools available, look at examples of usage, and understand when each iterable can be useful.
+
+Oh, and there&#8217;s also `tee`. Let us not forget `tee`!</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/GLYSA7/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/GLYSA7/feedback/</feedback_url>
+            </event>
+            <event guid='e2f81be2-ecfa-51fb-b537-6ad0c7c65ad5' id='1615' code='UJJX3N'>
+                <room>Auditorium</room>
+                <title>Tools to setup great Python projects: 2025 update</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-24T16:30:00+01:00</date>
+                <start>16:30</start>
+                <duration>00:30</duration>
+                <abstract>In 2023, I talked about my approach to setup reliable python projects, using tools to manage dependencies robustly and level up the team&apos;s code automatically. Since then, new tools have come out and my preferences have changed a bit:
+
+- Package manger: uv (previously: poetry)
+- Python manager: uv (previously: pyenv)
+- Python binaries manager: uv (previously: pipx)
+- Formatter: ruff + reorder-python-imports (previously: black + isort)
+- Linter: ruff
+- Tester: pytest
+
+I still find it important to centralize your configurations and assure consistent behavior across CLIs, IDEs, CI/CDs, etc. I keep storing all configurations in `pyproject.toml` and setup a script that calls these tools (usually `pre-commit`).
+
+Results: 
+- configure once, get helpful checks forever
+- improve workflow for all team members, present and future
+- deploy projects deterministically with little surprises
+- consistent behavior across different environments</abstract>
+                <slug>pycon-portugal-2025-1615-tools-to-setup-great-python-projects-2025-update</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1267'>Duarte Pompeu</person>
+                </persons>
+                <language>en</language>
+                <description># Summary 
+
+In 2023, I presented &quot;How to setup great Python projects&quot; in PyCon Portugal. I talked about my setup that brought some goodies to me and my team with little effort: good package management, automatic formatting, lint with auto-fixing, and others.
+
+2 years later, I&apos;ve changed my workflow to include recent tooling and I&apos;m getting even better results, so I&apos;d like to share my experience again.
+
+Results: 
+- configure once, get helpful checks forever
+- improve workflow for all team members (present and future)
+- deploy projects deterministically with little surprises
+- consistent behavior across different environments
+
+# Tools
+
+## Package/python/binaries manager
+
+2025: `uv`
+2023: `poetry` / `pyenv` / `pipx`
+
+After creating the widely popular `ruff`, the code formatter and linter, astral created `uv`, a package manager with similar principles behind: speed and quality.
+
+I like how fast it is, and how you can also manage python versions and standalone binaries with it.
+
+My favorite features:
+- good dependency solving and locking: makes deployments very deterministic
+- speed: it&apos;s fast and pleasing to use
+- batteries included:  does what previously required 3 different tools
+- backwards-compatibility with pip: I can immediately migrate projects that use `pip` and `requirements.txt` to `uv`
+
+## Formatters
+
+2025: `uv` + `reorder-python-imports`
+2023: `black` + `isort`
+
+`uv` has introduced the option to format code, which is very similar to `black` and `isort` but much quicker, and will also allow linting code. So I&apos;m using it and I&apos;m quite happy.
+
+`reorder-python-imports` first felt a bit strange, but has reduced the amount of git conflicts when different people change imports, so I&apos;m fully onboard.
+
+My favorite features of `ruff`:
+- it&apos;s fast
+- it also lints code
+
+My favorite features of `reorder-python-imports`:
+- it reduces git conflicts
+
+## Linters
+
+2025: `ruff`
+2023: `ruff`
+
+I&apos;m still using ruff: it was promising before, and it&apos;s the best nowadays.
+
+My favorite features:
+- it&apos;s fast
+- it supports a lots of rules, and keeps growing
+- it also formats code
+
+## Tester
+
+2025: pytest
+2023: pytest
+
+I still find pytest a nice solution for tests, and more pythonic than the native `unittest` module.
+
+My favorite features:
+
+- it&apos;s more pythonic than `unittest`
+- it allows re-usable fixtures and parametrization out of the box
+
+# Centralizing the configurations
+
+1. I store all configs in `pyproject.toml`, which is the default place for configuration nowadays. 
+2.  I write some script (Makefile, or pre-commit, or shell) to invoke the formatters, linters, etc WITHOUT any flag - (they will check `pyproject.toml` automatically)
+
+The result:
+- it&apos;s easy to apply the checks in the CLI (run the script)
+- it&apos;s easy for IDEs to emit warnings and format on save (check pyproject.toml)
+- it&apos;s easy for CI/CD processes to check PRs (run the script)
+
+And all this happens consistently without drift across different processes!
+
+# Results
+
+I find these to be the most important results:
+
+- configure once, get helpful checks forever
+- improve workflow for all team members (present and future)
+- deploy projects deterministically with little surprises
+- achieve consistent behavior across different environments</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/UJJX3N/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/UJJX3N/feedback/</feedback_url>
+            </event>
+            <event guid='d94afecd-4ada-56c1-8e68-1ff017d0051f' id='1703' code='YNU98X'>
+                <room>Auditorium</room>
+                <title>Lightning Talks</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-24T17:10:00+01:00</date>
+                <start>17:10</start>
+                <duration>00:30</duration>
+                <abstract>Lightning Talks</abstract>
+                <slug>pycon-portugal-2025-1703-lightning-talks</slug>
+                <track></track>
+                
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Lightning Talks</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/YNU98X/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/YNU98X/feedback/</feedback_url>
+            </event>
+            
+        </room>
+        
+    </day>
+    <day index='2' date='2025-07-25' start='2025-07-25T04:00:00+01:00' end='2025-07-26T03:59:00+01:00'>
+        <room name='Auditorium' guid='bf34b7c1-3d44-5f9b-8827-55d43acb3e6e'>
+            <event guid='75e38d53-ba75-5a8e-bdc2-2e9dfa7e3cb5' id='1705' code='7QLPMN'>
+                <room>Auditorium</room>
+                <title>Um Siri fazendo barra</title>
+                <subtitle></subtitle>
+                <type>Keynote</type>
+                <date>2025-07-25T09:00:00+01:00</date>
+                <start>09:00</start>
+                <duration>01:00</duration>
+                <abstract>What have in common crabs doing pull-ups, Python and infinitely backtracking parsers?</abstract>
+                <slug>pycon-portugal-2025-1705-um-siri-fazendo-barra</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1347'>Pablo Galindo Salgado</person>
+                </persons>
+                <language>en</language>
+                <description>Sometimes the best way forward is to parse through unexpected choices, backtrack when needed, and commit to what works. This keynote is about a  journey exploring how we navigate through ordered attempts, pattern matching, and discovering that successful parsing often depends on the right lookahead. Stories of memoizing the lessons that matter and learning when to fail fast versus when to keep trying alternative paths.</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/7QLPMN/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/7QLPMN/feedback/</feedback_url>
+            </event>
+            <event guid='677005c0-795f-5b55-b106-447111d80231' id='1617' code='ZQUSTH'>
+                <room>Auditorium</room>
+                <title>Django &amp; HTMX: Patterns for Success</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-25T10:10:00+01:00</date>
+                <start>10:10</start>
+                <duration>00:30</duration>
+                <abstract>This talk explores effective patterns for combining Django and HTMX, addressing common challenges and gaps in standards. 
+Drawing from real-world experience, it provides practical insights into hypermedia-focused development, covering topics like server-side state management, on-demand resource handling, and component-based templating to enhance your Django projects.</abstract>
+                <slug>pycon-portugal-2025-1617-django-htmx-patterns-for-success</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1270'>Lucas Pires</person>
+                </persons>
+                <language>en</language>
+                <description>This talk is designed for Python developers who are either interested in HTMX development or have some experience working with it. 
+The Python and Django communities have been at the forefront of the &#8220;hypermedia revolution,&#8221; serving as one of the early adopters of HTMX.
+
+While there are numerous introductory tutorials and presentations detailing the shift from SPAs to HTMX with great success, there&apos;s a noticeable gap when it comes to established patterns and practical, technical examples drawn from real, in-production applications.
+
+In this talk, I&apos;ll start by explaining why Django and HTMX make such a powerful combination and offer solutions to common challenges and gaps in standards that arise during HTMX-driven application development.
+
+Drawing from my experience working on various projects with this tech stack, I&#8217;ll share practical insights on how to structure Django projects with a stronger focus on the hypermedia approach.
+
+Topics such as server-side state management, on-demand resource handling and component-based templating are just some of the topics that will be delved into in order to show the strengths of the hypermedia approach.</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/ZQUSTH/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/ZQUSTH/feedback/</feedback_url>
+            </event>
+            <event guid='474b87cf-5566-5feb-ae9e-867563d61201' id='1711' code='KWZZZS'>
+                <room>Auditorium</room>
+                <title>Data Morph: A Cautionary Tale of Summary Statistics</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-25T11:10:00+01:00</date>
+                <start>11:10</start>
+                <duration>00:30</duration>
+                <abstract>Relying solely on simple summary statistics like the mean, median, or standard deviation is not enough to describe complex data. Come and see why this is the case and learn what it takes to translate research into an open-source library.</abstract>
+                <slug>pycon-portugal-2025-1711-data-morph-a-cautionary-tale-of-summary-statistics</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1184'>Stefanie Molin</person>
+                </persons>
+                <language>en</language>
+                <description>Statistics do not come intuitively to humans; they always try to find simple ways to describe complex things. Given a complex dataset, they may feel tempted to use simple summary statistics like the mean, median, or standard deviation to describe it. However, these numbers are not a replacement for visualizing the distribution.
+
+To illustrate this fact, researchers have generated many datasets that are very different visually, but share the same summary statistics. In this talk, I will discuss [Data Morph](https://github.com/stefmolin/data-morph), an open source package that builds on previous research using simulated annealing to perturb an arbitrary input dataset into a variety of shapes, while preserving the mean, standard deviation, and correlation to multiple decimal points. I will showcase how it works, discuss the challenges faced during development, and explore the limitations of this approach.</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/KWZZZS/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/KWZZZS/feedback/</feedback_url>
+            </event>
+            <event guid='9793155c-5132-5ec3-822e-c8e3daa6848e' id='1538' code='9PNTEV'>
+                <room>Auditorium</room>
+                <title>Inside the Black Box: The Anatomy of Virtual Environments</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-25T11:50:00+01:00</date>
+                <start>11:50</start>
+                <duration>00:30</duration>
+                <abstract>Virtual environments are a fundamental part of Python development, but to most developers, they&#8217;re largely a &#8216;black box&#8217;. In this talk, we&#8217;re gonna dissect the code, file structure and utilities that make them up to deeply learn, and not just have superficial knowledge of, how venvs actually work.</abstract>
+                <slug>pycon-portugal-2025-1538-inside-the-black-box-the-anatomy-of-virtual-environments</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1223'>Daniel Herv&#225;s</person>
+                </persons>
+                <language>en</language>
+                <description>We all use virtual environments, but do we know how they work? What&#8217;s inside a virtual environment? Why do we even have to &#8216;activate&#8217; them anyways, and what does that mean in the first place? In this talk, we&#8217;re gonna discover that.
+
+First, we&#8217;ll need to go over how Python installs work in modern operating systems (hopefully, the days of xkcd 1987 https://xkcd.com/1987/ are long gone), and how we can&#8217;t isolate projects without the aid of a tool such as these virtual environments. 
+
+Then, we&#8217;ll go over the files and folders inside venvs, examine their purpose, and browse through the venv module source code to understand the CLI tool we use every day. We&#8217;ll install some deps and see how those fit inside this virtual environment structure.
+
+Lastly, we&#8217;ll check which problems are not solved by virtual environments, its limitations depending on the scope we&#8217;re looking for (i.e, a venv is not a container! And shouldn&#8217;t be used as such!), and how, lately, many libraries which purpose overlap with those of venvs are actually wrapping over this functionality so that you don&#8217;t have to manage it yourself (beware the law of leaky abstractions!).</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/9PNTEV/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/9PNTEV/feedback/</feedback_url>
+            </event>
+            <event guid='4c90145f-87be-50ea-9b8e-1f871aea2eb4' id='1569' code='3KBMXY'>
+                <room>Auditorium</room>
+                <title>QuerySet.explain(): make it make sense</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-25T12:30:00+01:00</date>
+                <start>12:30</start>
+                <duration>00:30</duration>
+                <abstract>We have tools that show what queries are executed and the time it takes. But what next? What is going on there? Is it good that it&apos;s doing that? Will some indexes help?
+In this talk, I will help you decipher database query plans and give some rules of thumb to understand if the database is doing the best it can. We will learn about different ways databases retrieve the data and how they estimate the cost of those operations. We will also use query plans to find the best function-based and partial indexes for different kinds of Django filter conditions. JSON fields? We will cover those as well! I will also share several anti-patterns I have seen in  Django projects and show how to rewrite them in a database-friendly way.</abstract>
+                <slug>pycon-portugal-2025-1569-queryset-explain-make-it-make-sense</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1244'>Aivars Kalv&#257;ns</person>
+                </persons>
+                <language>en</language>
+                <description>This might change: introduce explain plan, overview of table/index/parallel scans, nested loop/hash joins. Different approaches when we need less than 5-10% of data or more. Query cost calculation, why database will not choose multiple indexes on separate fields. Nulls in indexes, &quot;NOT IN&quot; queries, how to transform them into &quot;IN&quot; queries.  Creating indexes for specific queries including the proper typecast, lower/upper/like. Using explain plan to see what index the database is looking for. Partial indexes. How active searches over multiple tables fail (OR conditions) and how to fix that (actually did it for clients and had some revelations about Postgres). Will have a demo django code for that.</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/3KBMXY/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/3KBMXY/feedback/</feedback_url>
+            </event>
+            <event guid='e43f9c9d-4e9f-5e33-8e53-b8ab1cd86efc' id='1710' code='Z93RGG'>
+                <room>Auditorium</room>
+                <title>Visualizing complexity</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-25T14:00:00+01:00</date>
+                <start>14:00</start>
+                <duration>00:30</duration>
+                <abstract>An overcomplicated project increases development and maintenance time. We need some metrics for reducing the complexity of the existing code base. However, if we can make complexity visible, it will be much easier to work with it.</abstract>
+                <slug>pycon-portugal-2025-1710-visualizing-complexity</slug>
+                <track></track>
+                <logo>/media/pycon-portugal-2025/submissions/Z93RGG/kandinsky-download-175320_QYj7kr0.png</logo>
+                <persons>
+                    <person id='1325'>Maxim Danilov</person>
+                </persons>
+                <language>en</language>
+                <description>Sun Tzu said in The Art of War: &quot;If you know your enemy and know yourself, you have nothing to fear from the outcome of a hundred battles&quot;. 
+In this talk we will talk about how to measure project complexity and how to visualize this complexity for successful follow-up actions to reduce complexity.
+
+In each part of the talk, examples of complexity measurements in well-known OS projects will be given. Thanks to visualization tools we will be able to take a closer look at our enemy.
+
+In this talk:
+1. Arts of Complexity
+2. Critical mass of tech debt
+3. Managed complexity
+4. Measuring complexity
+5. CCL index
+6. OOP vs FB style measurement.
+7. Coupling/Cohesion index.
+8. Cognitive Complexity Index
+9. Cyclomatic Complexity
+10. Composite code quality Index
+11. Strategies to distribute or reduce complexity
+12. Refactoring
+13. Defining refactoring Hot Zones
+14. Visual &#171;heatmaps&#187; of changes
+15. Changing abstraction level
+16. Increasing modularity
+17. Extracting Dependency
+18. Isolation without refactoring
+19. Imports control
+20. KIS- Keep Imports Short
+21. TDD - Three dots deprecation
+22. Alternatives for Type-Hinting
+23. Documentation
+24. LLMs
+25. Summary + Q&amp;A
+
+This workshop will offer participants a list of tools to measure and visualize complexity in any project.</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/Z93RGG/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/Z93RGG/feedback/</feedback_url>
+            </event>
+            <event guid='cafbc525-35c8-5979-a6aa-02ed1fa33f8e' id='1715' code='TC8ZAX'>
+                <room>Auditorium</room>
+                <title>Pablo does random stuff</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-25T14:35:00+01:00</date>
+                <start>14:35</start>
+                <duration>00:30</duration>
+                <abstract>Join Pablo in an exploration of random Python stuff!</abstract>
+                <slug>pycon-portugal-2025-1715-pablo-does-random-stuff</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1347'>Pablo Galindo Salgado</person>
+                </persons>
+                <language>en</language>
+                <description>Join Pablo in an exploration of random Python stuff!</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/TC8ZAX/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/TC8ZAX/feedback/</feedback_url>
+            </event>
+            <event guid='9d8887ca-1553-5eeb-a217-51ca6ea45465' id='1646' code='EDNLWT'>
+                <room>Auditorium</room>
+                <title>What if you became an open source contributor in 2025?</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-25T15:10:00+01:00</date>
+                <start>15:10</start>
+                <duration>00:30</duration>
+                <abstract>The classic open source dichotomy is well known: everyone uses it, but few give back for the convenience we&apos;ve all grown so used to. What sustains a community? And how can we help ensure that the frameworks and libraries we rely on daily remain viable and healthy in the long run? In this talk, I intend to show how easy it is to get started with your open source contributions, regardless of your seniority.</abstract>
+                <slug>pycon-portugal-2025-1646-what-if-you-became-an-open-source-contributor-in-2025</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1290'>Amanda Savluchinske</person>
+                </persons>
+                <language>en</language>
+                <description>The classic open source dichotomy is well known: everyone uses it, but few give back for the convenience we&apos;ve all grown so used to. What sustains a community? And how can we help ensure that the frameworks and libraries we rely on daily remain viable and healthy in the long run?
+
+Contributing is easier than it seems. Maintainers are, more often than not, more welcoming and kind than you&apos;d expect, and I want to show you how simple it can be to take your first steps in this world. After all, it wasn&apos;t that long ago that I was in that exact same place.
+
+In this talk, you can expect to:
+
+- Learn a bit more about the open source ecosystem;
+- Understand how these decentralized communities operate at a basic level;
+- Get practical tips on how to start contributing and explore possible paths you can take.
+
+Talk outline:
+
+- Personal introduction
+- Open source and its sustainability
+- Demystifying barriers to contributing
+    - Maintainers &#8212; what do they want?
+    - How senior do I need to be to contribute?
+- How to start contributing?
+    - Mentorship programs
+        - Djangonaut Space
+    - Getting involved in communities and forums
+- Practical tips for contributing to OSS projects
+    - Navigating repositories
+    - Using AI to help understand codebases
+    - Finding good issues to start contributing
+    - Best practices for contributing
+        - Conventional Commits
+        - TDD
+        - Documentation updates
+    - Communicating with maintainers</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/EDNLWT/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/EDNLWT/feedback/</feedback_url>
+            </event>
+            <event guid='54800d9a-0368-5358-83ba-63635475af06' id='1708' code='7YHMDK'>
+                <room>Auditorium</room>
+                <title>The role of C++ in the Python ecosystem: the case of the Qt framework</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-25T16:20:00+01:00</date>
+                <start>16:20</start>
+                <duration>00:30</duration>
+                <abstract>With the recent popularity of new programming languages that are improving the Python ecosystem, one cannot dismiss the role of &#8220;old&#8221; languages like C++, and how the new versions might stay relevant.
+On this talk, we will dive directly into the internals on how the Qt for Python project brought one of the most popular C++ frameworks into Python - but not only with 1-to1 bindings.</abstract>
+                <slug>pycon-portugal-2025-1708-the-role-of-c-in-the-python-ecosystem-the-case-of-the-qt-framework</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1346'>Cristi&#225;n Maureira-Fredes</person>
+                </persons>
+                <language>en</language>
+                <description>With the recent popularity of new programming languages that are improving the Python ecosystem, one cannot dismiss the role of &#8220;old&#8221; languages like C++, and how the new versions might stay relevant.
+
+With these ideas in mind, how do you bring a huge project, as old as Python, written in C++ to Python? If you are thinking: &#171;&#8230;just create some bindings and call it a day&#187; you will be surprised.
+
+On this talk, we will dive directly into the internals on how the Qt for Python project brought one of the most popular C++ frameworks into Python - but not only with 1-to1 bindings.
+
+We will discuss about build systems, packaging, limited API, interpreters support, Platform and API compatibility, Python and C++ types, ecosystem awareness, CPython code generation, communities, documentation, and many more challenging aspects of maintaining and developing a C++ library in Python.
+
+After this talk, you will not only understand why exposing an existing library from one language to another is much more than just binding them together, but also you will be able to start developing Python applications with Qt.
+
+Outline
+- Introduction to C++ and quick summary of changes from the recent versions
+- Describing the Qt framework, history, features and scope.
+- Exposing C++ projects into Python
+ + Build system details
+ + Limited API and CPython
+ + Packaging and distribution
+- [demo] Developing an hybrid Python and C++ application
+- [demo] Developing a Qt for Python application from Scratch</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/7YHMDK/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/7YHMDK/feedback/</feedback_url>
+            </event>
+            <event guid='c7df937a-6e90-5eb6-970e-b685a23722b7' id='1702' code='3YB3VB'>
+                <room>Auditorium</room>
+                <title>Lightning Talks</title>
+                <subtitle></subtitle>
+                <type>Talk</type>
+                <date>2025-07-25T17:00:00+01:00</date>
+                <start>17:00</start>
+                <duration>00:30</duration>
+                <abstract>Lightning Talks</abstract>
+                <slug>pycon-portugal-2025-1702-lightning-talks</slug>
+                <track></track>
+                
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Lightning Talks</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/3YB3VB/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/3YB3VB/feedback/</feedback_url>
+            </event>
+            <event guid='b096330d-cb19-593f-bfa4-4a93e9d4a1c2' id='1701' code='KSJDHU'>
+                <room>Auditorium</room>
+                <title>Closing Session</title>
+                <subtitle></subtitle>
+                <type>Other</type>
+                <date>2025-07-25T17:30:00+01:00</date>
+                <start>17:30</start>
+                <duration>00:15</duration>
+                <abstract>Closing Session</abstract>
+                <slug>pycon-portugal-2025-1701-closing-session</slug>
+                <track></track>
+                
+                <persons>
+                    
+                </persons>
+                <language>en</language>
+                <description>Closing Session</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/KSJDHU/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/KSJDHU/feedback/</feedback_url>
+            </event>
+            
+        </room>
+        
+    </day>
+    <day index='3' date='2025-07-26' start='2025-07-26T04:00:00+01:00' end='2025-07-27T03:59:00+01:00'>
+        <room name='D -112, Floor -1 (Room Madeira)' guid='4759c744-02f6-5525-9ec5-29a67364b1dd'>
+            <event guid='6ada5452-332f-523a-baf5-a2ce2560df9c' id='1704' code='BRPBEV'>
+                <room>D -112, Floor -1 (Room Madeira)</room>
+                <title>Understanding and expanding Python: hand-on experience with the Python internals</title>
+                <subtitle></subtitle>
+                <type>Workshop</type>
+                <date>2025-07-26T10:30:00+01:00</date>
+                <start>10:30</start>
+                <duration>02:00</duration>
+                <abstract>Understanding and expanding Python: hand-on experience with the Python internals</abstract>
+                <slug>pycon-portugal-2025-1704-understanding-and-expanding-python-hand-on-experience-with-the-python-internals</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1346'>Cristi&#225;n Maureira-Fredes</person>
+                </persons>
+                <language>en</language>
+                <description>(check [the repository](https://github.com/cmaureir/cpython_tutorial))
+On this tutorial you will learn to:
+
+* Explore the core of the standard Python implementation
+* Modify the interpreter by adding new functions
+* Extend Python with C, Rust, and Zig.
+
+The session will be a combination of a theoretical introduction of the topics, followed by a hand-on experience on each step.
+
+Here is an outline of what will be done:
+
+* Navigating CPython (short presentation)
+* Setting up a development environment
+* Compiling CPython from source
+* Adding a free function to the interpreter
+* Adding a new method to a Python container (list or set)
+* Extending CPython (short presentation)
+* Minimal C-extension for &quot;Hello World&quot;
+* Minimal Rust, and Zig extensions for &quot;Hello World&quot;,
+* Create a new extension replacing Python functionality with C, Rust and Zig.</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/BRPBEV/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/BRPBEV/feedback/</feedback_url>
+            </event>
+            <event guid='e883682c-f5f8-5ccf-a081-1c031903404c' id='1673' code='HAD3VX'>
+                <room>D -112, Floor -1 (Room Madeira)</room>
+                <title>The Pok&#233;mon trainer&apos;s guide to Polars</title>
+                <subtitle></subtitle>
+                <type>Workshop</type>
+                <date>2025-07-26T13:30:00+01:00</date>
+                <start>13:30</start>
+                <duration>02:00</duration>
+                <abstract>[Polars](https://github.com/pola-rs/polars) is lightning fast, easy to use, dataframe library.
+It&apos;s clean API and its contexts and expressions allow writing readable but performant data wrangling code.
+
+Aimed at both data newbies and pandas experts (Polars != pandas), in this hands-on tutorial we&apos;ll use data from the [Pok&#233;mon franchise](https://en.wikipedia.org/wiki/Pok&#233;mon) to explore the Polars API and the ideas that set it apart from pandas and other dataframe libraries.</abstract>
+                <slug>pycon-portugal-2025-1673-the-pokemon-trainer-s-guide-to-polars</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1313'>Rodrigo Gir&#227;o Serr&#227;o</person>
+                </persons>
+                <language>en</language>
+                <description>**Set-up instructions**: install Polars (1.12+); jupyter notebooks are optional.
+
+---
+
+The [Polars](https://github.com/pola-rs/polars) dataframe library leverages a couple of key concepts to allow you to write lightning-fast data manipulation code: contexts and expressions.
+
+The tutorial is split in 4 sections of roughly 30 minutes:
+1. The basics
+2. Expression expansion
+3. Data transformations
+4. The lazy API
+### 1. The basics
+
+Early on in the tutorial we will introduce the concept of expression and explain that expressions simply _represent_ computations, but do not compute anything.
+Then, using Polars contexts (`select`, `group_by`, etc), Polars takes expressions and performs computations, producing a result that depends on the context used.
+The first 30 minutes of the tutorial are spent exploring the four basic contexts that Polars provides:
+1. `select`
+2. `with_columns`
+3. `filter`
+4. `group_by`
+
+### 2. Expression expansion
+
+Effective use of the Polars API can only be attained if you become comfortable with expression expansion, a Polars feature that is highly intuitive but that requires some practising to recognise all of the opportunities where it could be used.
+During this section, we explore how to select columns based on names, patterns, data types, and how to use the Polars column selectors `polars.selectors`.
+
+### 3. Data transformations
+
+During this section we spend some time playing with some general-purpose transformations and we see how the Polars API exposes them, namely pivots and unpivots, as well as several types of joins: equi-joins, the join asof, and a non-equi join.
+
+### 4. The lazy API
+
+Finally, we conclude the tutorial by going through one of the most important features of Polars, which is what enables Polars uses to process enormous amounts of data at impressive speeds: the lazy API.
+During this section, we explore how the lazy API differs from the eager API, how to write queries with the lazy API and how to execute them, how to use streaming, and how to do profiling.
+
+---
+
+I will present the tutorial in a notebook and the whole tutorial will be practical and the audience is supposed to follow along while I live-code.
+In each section, there will be around 15 minutes for participants to work on exercises to practise the concepts introduced.
+
+(During the whole tutorial I will have a script that continuously synchronises my live-coded demos with a GitHub repository so that everyone can pull my code locally if they get lost.)</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/HAD3VX/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/HAD3VX/feedback/</feedback_url>
+            </event>
+            <event guid='399441bf-8a58-5be2-baa6-416cae11cfc7' id='1493' code='KYUBDF'>
+                <room>D -112, Floor -1 (Room Madeira)</room>
+                <title>(Pre-)Commit to Better Code</title>
+                <subtitle></subtitle>
+                <type>Workshop</type>
+                <date>2025-07-26T16:00:00+01:00</date>
+                <start>16:00</start>
+                <duration>02:00</duration>
+                <abstract>Maintaining code quality can be challenging, no matter the size of your project or number of contributors. Different team members may have different opinions on code styling and preferences for code structure, while solo contributors might find themselves spending a considerable amount of time making sure the code conforms to accepted conventions. However, manually inspecting and fixing issues in files is both tedious and error-prone. As such, computers are much more suited to this task than humans. Pre-commit hooks are a great way to have a computer handle this for you.
+
+Pre-commit hooks are code checks that run whenever you attempt to commit your changes with Git. They can detect and, in some cases, automatically correct code-quality issues *before* they make it to your codebase. In this tutorial, you will learn how to install and configure pre-commit hooks for your repository to ensure that only code that passes your checks makes it into your code base. We will also explore how to build custom pre-commit hooks for novel use cases.</abstract>
+                <slug>pycon-portugal-2025-1493-pre-commit-to-better-code</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1184'>Stefanie Molin</person>
+                </persons>
+                <language>en</language>
+                <description>## Section 1: Setting Up Pre-Commit Hooks
+
+After laying the foundation with an overview of Git hooks, we will discuss the use cases for hooks at the pre-commit stage (called pre-commit hooks), as well as a high-level explanation of how to set them up without any external tools. We will then introduce the&#160;`pre-commit`&#160;tool and disambiguate it from pre-commit hooks, before commencing a detailed walkthrough of the pre-commit hooks setup process when using&#160;`pre-commit`.
+
+## Section 2: Creating a Pre-Commit Hook
+While there are a lot of pre-made hooks in existence, sometimes they aren&apos;t sufficient for the task at hand. In this section, we will walk step-by-step through the process of creating and distributing a custom hook. After wiring everything up, we will discuss best practices for sharing, documenting, testing, and maintaining the codebase.
+
+## Audience
+This tutorial is for anyone with intermediate knowledge of Python and basic knowledge of `git`. You must be comfortable writing Python code and working with `git` on the command line and using basic commands (`git clone`, `git add`, `git status`, `git commit`, `git push`). Attendees should have Python and `git` installed on their computers, as well as a text editor for writing code (e.g., Visual Studio Code).</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/KYUBDF/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/KYUBDF/feedback/</feedback_url>
+            </event>
+            
+        </room>
+        <room name='D -114, Floor -1 (Room Azores)' guid='42f02851-b138-5498-97c1-3a955b65f225'>
+            <event guid='3470dbd3-ca40-5ee3-86ca-e807d4ab560f' id='1494' code='38R3EF'>
+                <room>D -114, Floor -1 (Room Azores)</room>
+                <title>FastAPI Meets Langchain: crafting a RAG AI-powered chatbot</title>
+                <subtitle></subtitle>
+                <type>Workshop</type>
+                <date>2025-07-26T10:30:00+01:00</date>
+                <start>10:30</start>
+                <duration>02:00</duration>
+                <abstract>During the workshop we will create an HTTP-based API that interacts as a chatbot.
+
+It will cover key concepts and delines core challenges such as:
+- including integrating a vector database for document retrieval,
+- enhancing the capabilities of large language models with retrieved context with *Langchain*, 
+- and finally exposing the core operations through endpoints with *FastAPI* for seamless interaction. 
+
+Whether you&apos;re a developer aiming to expand your AI toolkit or a data enthusiast exploring RAG, the aims to provide you with the knowledge and skills to design and deploy intelligent, context-driven applications.</abstract>
+                <slug>pycon-portugal-2025-1494-fastapi-meets-langchain-crafting-a-rag-ai-powered-chatbot</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1185'>Giunio De Luca</person>
+                </persons>
+                <language>en</language>
+                <description># Description
+*RAG* (Retrieval-Augmented Generation) is an emerging paradigm in AI that combines the strengths of retrieval systems and generative models to deliver context-aware, highly relevant responses.
+
+By leveraging FastAPI and Langchain, a modular tool for interacting with language models and knowledge sources, you&apos;ll learn how to create an AI assistant application for a shop.
+
+The purpose of the workshop is to outline the core challenges to face when building a chatbot, covering key concepts, including the integration of a vector database for document retrieval, configuring FastAPI endpoints for seamless interaction, and using Langchain to enhance the capabilities of large language models with retrieved context. 
+
+## Prerequisites
+- good understanding of Python syntax, 
+- familiarity with the asyncio library and aync await syntax. 
+- basic knowledge of HTTP services, such as HTTP requests, methods etc.., 
+- prior experience with FastAPI is not required, it can be helpful for following along. 
+- general understanding or interest in Generative AI is beneficial but not essential.</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/38R3EF/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/38R3EF/feedback/</feedback_url>
+            </event>
+            <event guid='07ad4427-3d08-5e54-b707-0b05fea1f243' id='1693' code='PPZBB8'>
+                <room>D -114, Floor -1 (Room Azores)</room>
+                <title>Building pure Django REST API</title>
+                <subtitle></subtitle>
+                <type>Workshop</type>
+                <date>2025-07-26T13:30:00+01:00</date>
+                <start>13:30</start>
+                <duration>02:00</duration>
+                <abstract>The new version of Django has several important features that allow us to avoid installing additional modules. Libraries like DRF, yasg, spectacular have always been recommended for REST API development. Now the rules have changed. In this workshop: 
+1. The modern art of project development in Django. (&#181;-Django style). 
+2. Built-in serializer tools. 
+3. Json response, an underrated tool. 
+4. Async ORM and class based views . The best parts of modern Django.
+
+After this workshop, all participants got information about the new features of Django.</abstract>
+                <slug>pycon-portugal-2025-1693-building-pure-django-rest-api</slug>
+                <track></track>
+                
+                <persons>
+                    <person id='1325'>Maxim Danilov</person>
+                </persons>
+                <language>en</language>
+                <description>In this workshop: 
+1. Modern art of Django project development. Theory
+2. Starting a project using the Documentation first approach.
+3. Adding API visualization and manual testing utility.
+4. Create the first django api view
+break 
+6. Using the serializer tools.
+7. Adding validators
+*8. Async ORM and class-based views
+*9. Testing
+
+After this workshop, all participants got information about the new features of Django.</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/PPZBB8/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/PPZBB8/feedback/</feedback_url>
+            </event>
+            <event guid='c3350b60-e197-5732-a35d-bdea3dc6485c' id='1712' code='EMWGJK'>
+                <room>D -114, Floor -1 (Room Azores)</room>
+                <title>Advanced decorators &#8211; decorators &amp; classes</title>
+                <subtitle></subtitle>
+                <type>Workshop</type>
+                <date>2025-07-26T16:00:00+01:00</date>
+                <start>16:00</start>
+                <duration>02:00</duration>
+                <abstract>Decorators are often thought of as functions that accept functions as arguments and that return other functions...
+
+In this hands-on workshop you will see that this is not always right.</abstract>
+                <slug>pycon-portugal-2025-1712-advanced-decorators-decorators-classes</slug>
+                <track></track>
+                <logo>/media/pycon-portugal-2025/submissions/EMWGJK/ChatGPT_Image_Jun_30_202_x6m0bAJ.png</logo>
+                <persons>
+                    <person id='1313'>Rodrigo Gir&#227;o Serr&#227;o</person>
+                </persons>
+                <language>en</language>
+                <description>This hands-on workshop is divided into 4 sections of 30 minutes each:
+
+ 1. Decorators refresher.
+ 2. Advanced function decorators.
+ 3. Classes as decorators.
+ 4. Decorating classes.
+
+Each section is divided into 15 minutes of live-coded lecture and 15 minutes for exercises where participants work in pairs to solve coding exercises.
+
+The first section briefly recaps the fundamental concepts behind function decorators and the second section introduces the concepts required to write decorators with arguments.
+
+The third section shows how classes can also be decorators, allowing you to create flexible and powerful decorators that leverage the full strength of OOP.
+
+Finally, the fourth section shows how to apply decorators to classes, typically for the purpose of streamlining the definition of some boilerplate code.
+
+**Pre-requisites**: attendees are expected to have used decorators before and to have written one or two decorators for themselves. Attendees are expected to be comfortable writing classes, methods, and implementing the dunder method `__init__`.
+
+**Set-up**: your IDE of choice and Python 3.12+.
+
+**Reference materials**: the reference materials can be found online at &lt;https://decorators.mathspp.com&gt;</description>
+                <recording>
+                    <license></license>
+                    <optout>false</optout>
+                </recording>
+                <links></links>
+                <attachments></attachments>
+
+                <url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/EMWGJK/</url>
+                <feedback_url>https://pretalx.evolutio.pt/pycon-portugal-2025/talk/EMWGJK/feedback/</feedback_url>
+            </event>
+            
+        </room>
+        
+    </day>
+    
+</schedule>

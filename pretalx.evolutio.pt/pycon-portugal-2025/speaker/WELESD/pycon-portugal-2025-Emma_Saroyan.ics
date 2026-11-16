@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//speaker//WELES
+ D
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-KCQ3MA@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250724T121000
+DTEND;TZID=WET:20250724T124000
+DESCRIPTION:What if I told you that you could write simpler tests but get b
+ etter results?\n\nWhat if I told you can automatically generate your test 
+ data?\n\nThis may sound difficult to your traditional testing approach but
+  can be easily done with Hypothesis\, the Python library used for property
+ -based testing.
+DTSTAMP:20261116T111141Z
+LOCATION:Auditorium
+SUMMARY:Property-based testing the Python way - Emma Saroyan
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/KCQ3MA/
+END:VEVENT
+END:VCALENDAR

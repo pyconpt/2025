@@ -1,0 +1,41 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//talk//3KBMXY
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-3KBMXY@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250725T123000
+DTEND;TZID=WET:20250725T130000
+DESCRIPTION:We have tools that show what queries are executed and the time 
+ it takes. But what next? What is going on there? Is it good that it's doin
+ g that? Will some indexes help?\nIn this talk\, I will help you decipher d
+ atabase query plans and give some rules of thumb to understand if the data
+ base is doing the best it can. We will learn about different ways database
+ s retrieve the data and how they estimate the cost of those operations. We
+  will also use query plans to find the best function-based and partial ind
+ exes for different kinds of Django filter conditions. JSON fields? We will
+  cover those as well! I will also share several anti-patterns I have seen 
+ in  Django projects and show how to rewrite them in a database-friendly wa
+ y.
+DTSTAMP:20261116T111133Z
+LOCATION:Auditorium
+SUMMARY:QuerySet.explain(): make it make sense - Aivars Kalvāns
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/3KBMXY/
+END:VEVENT
+END:VCALENDAR

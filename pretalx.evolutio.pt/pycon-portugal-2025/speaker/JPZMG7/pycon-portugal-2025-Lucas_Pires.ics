@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//speaker//JPZMG
+ 7
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-ZQUSTH@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250725T101000
+DTEND;TZID=WET:20250725T104000
+DESCRIPTION:This talk explores effective patterns for combining Django and 
+ HTMX\, addressing common challenges and gaps in standards. \nDrawing from 
+ real-world experience\, it provides practical insights into hypermedia-foc
+ used development\, covering topics like server-side state management\, on-
+ demand resource handling\, and component-based templating to enhance your 
+ Django projects.
+DTSTAMP:20261116T111142Z
+LOCATION:Auditorium
+SUMMARY:Django & HTMX: Patterns for Success - Lucas Pires
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/ZQUSTH/
+END:VEVENT
+END:VCALENDAR

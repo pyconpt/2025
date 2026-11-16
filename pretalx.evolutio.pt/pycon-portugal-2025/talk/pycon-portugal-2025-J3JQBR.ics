@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//talk//J3JQBR
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-J3JQBR@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250724T114000
+DTEND;TZID=WET:20250724T121000
+DESCRIPTION:Discover how Ibis provides a single DataFrame API across pandas
+ \, DuckDB\, and SQL databases\, bridging the gap between data science prot
+ otypes and production code.
+DTSTAMP:20261116T111130Z
+LOCATION:Auditorium
+SUMMARY:Unifying Data Management in Python with Ibis - Daniel Mesejo
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/J3JQBR/
+END:VEVENT
+END:VCALENDAR

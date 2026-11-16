@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//speaker//8DMJY
+ J
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-7YHMDK@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250725T162000
+DTEND;TZID=WET:20250725T165000
+DESCRIPTION:With the recent popularity of new programming languages that ar
+ e improving the Python ecosystem\, one cannot dismiss the role of “old
+ ” languages like C++\, and how the new versions might stay relevant.\nOn
+  this talk\, we will dive directly into the internals on how the Qt for Py
+ thon project brought one of the most popular C++ frameworks into Python - 
+ but not only with 1-to1 bindings.
+DTSTAMP:20261116T111139Z
+LOCATION:Auditorium
+SUMMARY:The role of C++ in the Python ecosystem: the case of the Qt framewo
+ rk - Cristián Maureira-Fredes
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/7YHMDK/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-BRPBEV@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250726T103000
+DTEND;TZID=WET:20250726T123000
+DESCRIPTION:Understanding and expanding Python: hand-on experience with the
+  Python internals
+DTSTAMP:20261116T111139Z
+LOCATION:D -112\, Floor -1 (Room Madeira)
+SUMMARY:Understanding and expanding Python: hand-on experience with the Pyt
+ hon internals - Cristián Maureira-Fredes
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/BRPBEV/
+END:VEVENT
+END:VCALENDAR

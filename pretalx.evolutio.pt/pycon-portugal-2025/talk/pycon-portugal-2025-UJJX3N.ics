@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//talk//UJJX3N
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-UJJX3N@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250724T163000
+DTEND;TZID=WET:20250724T170000
+DESCRIPTION:In 2023\, I talked about my approach to setup reliable python p
+ rojects\, using tools to manage dependencies robustly and level up the tea
+ m's code automatically. Since then\, new tools have come out and my prefer
+ ences have changed a bit:\n\n- Package manger: uv (previously: poetry)\n- 
+ Python manager: uv (previously: pyenv)\n- Python binaries manager: uv (pre
+ viously: pipx)\n- Formatter: ruff + reorder-python-imports (previously: bl
+ ack + isort)\n- Linter: ruff\n- Tester: pytest\n\nI still find it importan
+ t to centralize your configurations and assure consistent behavior across 
+ CLIs\, IDEs\, CI/CDs\, etc. I keep storing all configurations in `pyprojec
+ t.toml` and setup a script that calls these tools (usually `pre-commit`).\
+ n\nResults: \n- configure once\, get helpful checks forever\n- improve wor
+ kflow for all team members\, present and future\n- deploy projects determi
+ nistically with little surprises\n- consistent behavior across different e
+ nvironments
+DTSTAMP:20261116T111132Z
+LOCATION:Auditorium
+SUMMARY:Tools to setup great Python projects: 2025 update - Duarte Pompeu
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/UJJX3N/
+END:VEVENT
+END:VCALENDAR

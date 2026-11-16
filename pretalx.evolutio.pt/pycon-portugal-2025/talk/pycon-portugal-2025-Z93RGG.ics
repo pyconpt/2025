@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//talk//Z93RGG
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-Z93RGG@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250725T140000
+DTEND;TZID=WET:20250725T143000
+DESCRIPTION:An overcomplicated project increases development and maintenanc
+ e time. We need some metrics for reducing the complexity of the existing c
+ ode base. However\, if we can make complexity visible\, it will be much ea
+ sier to work with it.
+DTSTAMP:20261116T111133Z
+LOCATION:Auditorium
+SUMMARY:Visualizing complexity - Maxim Danilov
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/Z93RGG/
+END:VEVENT
+END:VCALENDAR

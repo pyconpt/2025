@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//speaker//SF9AT
+ W
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-7QLPMN@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250725T090000
+DTEND;TZID=WET:20250725T100000
+DESCRIPTION:What have in common crabs doing pull-ups\, Python and infinitel
+ y backtracking parsers?
+DTSTAMP:20261116T111144Z
+LOCATION:Auditorium
+SUMMARY:Um Siri fazendo barra - Pablo Galindo Salgado
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/7QLPMN/
+END:VEVENT
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-TC8ZAX@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250725T143500
+DTEND;TZID=WET:20250725T150500
+DESCRIPTION:Join Pablo in an exploration of random Python stuff!
+DTSTAMP:20261116T111144Z
+LOCATION:Auditorium
+SUMMARY:Pablo does random stuff - Pablo Galindo Salgado
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/TC8ZAX/
+END:VEVENT
+END:VCALENDAR

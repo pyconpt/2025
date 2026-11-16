@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom"><title>PyCon Portugal 2025 schedule updates</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/" rel="alternate"/><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/feed.xml" rel="self"/><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/feed.xml</id><updated>2025-07-26T09:34:16.348672+00:00</updated><entry><title>New PyCon Portugal 2025 schedule released (0.17)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.17" rel="alternate"/><published>2025-07-26T09:34:16.348672+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.17</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+
+</summary></entry><entry><title>New PyCon Portugal 2025 schedule released (0.16)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.16" rel="alternate"/><published>2025-07-26T09:32:17.107323+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.16</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+
+    
+
+    
+        
+            &lt;p&gt;
+                We had to move some sessions, so if you were planning on seeing them, check their new dates or locations:
+            &lt;/p&gt;
+            &lt;ul&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/KYUBDF/"&gt;
+                            “(Pre-)Commit to Better Code” by Stefanie Molin
+                        &lt;/a&gt;
+                        
+                            (Sala Madeira → D -112, Floor -1 (Room Madeira))
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/38R3EF/"&gt;
+                            “FastAPI Meets Langchain: crafting a RAG AI-powered chatbot” by Giunio De Luca
+                        &lt;/a&gt;
+                        
+                            (Sala Açores → D -114, Floor -1 (Room Azores))
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/PPZBB8/"&gt;
+                            “Building pure Django REST API” by Maxim Danilov
+                        &lt;/a&gt;
+                        
+                            (Sala Açores → D -114, Floor -1 (Room Azores))
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/EMWGJK/"&gt;
+                            “Advanced decorators – decorators &amp;amp; classes” by Rodrigo Girão Serrão
+                        &lt;/a&gt;
+                        
+                            (Sala Açores → D -114, Floor -1 (Room Azores))
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/BRPBEV/"&gt;
+                            “Understanding and expanding Python: hand-on experience with the Python internals” by Cristián Maureira-Fredes
+                        &lt;/a&gt;
+                        
+                            (Sala Madeira → D -112, Floor -1 (Room Madeira))
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/HAD3VX/"&gt;
+                            “The Pokémon trainer&amp;#x27;s guide to Polars” by Rodrigo Girão Serrão
+                        &lt;/a&gt;
+                        
+                            (Sala Madeira → D -112, Floor -1 (Room Madeira))
+                        
+                    &lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+
+</summary></entry><entry><title>New PyCon Portugal 2025 schedule released (0.15)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.15" rel="alternate"/><published>2025-07-25T22:48:24.888334+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.15</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+
+</summary></entry><entry><title>New PyCon Portugal 2025 schedule released (0.14)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.14" rel="alternate"/><published>2025-07-25T10:36:00.071447+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.14</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+        
+            &lt;p&gt;
+                We have a new session: 
+                
+                    &lt;a href="/pycon-portugal-2025/talk/TC8ZAX/"&gt;“Pablo does random stuff” by Pablo Galindo Salgado&lt;/a&gt;.
+                
+            &lt;/p&gt;
+        
+    
+
+    
+        
+            &lt;p&gt;
+                Sadly, we had to cancel a session:
+                “Mastering Decorators with Type Annotations” by Syed Ansab Waqar Gillani, Fraz Arshad
+            &lt;/p&gt;
+        
+    
+
+    
+
+
+</summary></entry><entry><title>New PyCon Portugal 2025 schedule released (0.13)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.13" rel="alternate"/><published>2025-07-24T15:59:28.706613+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.13</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+
+    
+
+    
+        
+            &lt;p&gt;
+                We had to move some sessions, so if you were planning on seeing them, check their new dates or locations:
+            &lt;/p&gt;
+            &lt;ul&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/VFXGEZ/"&gt;
+                            “Mastering Decorators with Type Annotations” by Syed Ansab Waqar Gillani, Fraz Arshad
+                        &lt;/a&gt;
+                        
+                            (July 25, 2025, 2:40 p.m. → July 25, 2025, 2:30 p.m.)
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/EDNLWT/"&gt;
+                            “What if you became an open source contributor in 2025?” by Amanda Savluchinske
+                        &lt;/a&gt;
+                        
+                            (July 25, 2025, 3:40 p.m. → July 25, 2025, 3:10 p.m.)
+                        
+                    &lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+
+</summary></entry><entry><title>New PyCon Portugal 2025 schedule released (0.12)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.12" rel="alternate"/><published>2025-07-24T10:57:47.343781+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.12</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+        
+            &lt;p&gt;
+                We have a new session: 
+                
+                    &lt;a href="/pycon-portugal-2025/talk/GLYSA7/"&gt;“A tour of the module `itertools`” by Rodrigo Girão Serrão&lt;/a&gt;.
+                
+            &lt;/p&gt;
+        
+    
+
+    
+        
+            &lt;p&gt;
+                Sadly, we had to cancel a session:
+                “When AI Writes Python: The Future of OSS Libraries” by Archana Vaidheeswaran
+            &lt;/p&gt;
+        
+    
+
+    
+
+
+</summary></entry><entry><title>New PyCon Portugal 2025 schedule released (0.11)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.11" rel="alternate"/><published>2025-07-24T09:37:18.035089+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.11</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+
+    
+
+    
+        
+            &lt;p&gt;
+                We had to move some sessions, so if you were planning on seeing them, check their new dates or locations:
+            &lt;/p&gt;
+            &lt;ul&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/S7NMTF/"&gt;
+                            “An A11y for better SEO” by Sandro Costa
+                        &lt;/a&gt;
+                        
+                            (July 24, 2025, 10:20 a.m. → July 24, 2025, 10:40 a.m.)
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/J3JQBR/"&gt;
+                            “Unifying Data Management in Python with Ibis” by Daniel Mesejo
+                        &lt;/a&gt;
+                        
+                            (July 24, 2025, 11:20 a.m. → July 24, 2025, 11:40 a.m.)
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/KCQ3MA/"&gt;
+                            “Property-based testing the Python way” by Emma Saroyan
+                        &lt;/a&gt;
+                        
+                            (July 24, 2025, noon → July 24, 2025, 12:10 p.m.)
+                        
+                    &lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+
+</summary></entry><entry><title>New PyCon Portugal 2025 schedule released (0.10)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.10" rel="alternate"/><published>2025-07-24T06:38:20.336559+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.10</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+
+</summary></entry><entry><title>New PyCon Portugal 2025 schedule released (0.9)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.9" rel="alternate"/><published>2025-07-23T10:09:23.761388+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.9</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+        
+            &lt;p&gt;We have new sessions!&lt;/p&gt;
+            &lt;ul&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/KWZZZS/"&gt;
+                            “Data Morph: A Cautionary Tale of Summary Statistics” by Stefanie Molin
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/EMWGJK/"&gt;
+                            “Advanced decorators – decorators &amp;amp; classes” by Rodrigo Girão Serrão
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+    
+        
+            &lt;p&gt;
+                Sadly, we had to cancel a session:
+                “Python Power Tools: Hands-On from Decorators to Context Managers” by Neeraj Pandey
+            &lt;/p&gt;
+        
+    
+
+    
+
+
+</summary></entry><entry><title>New PyCon Portugal 2025 schedule released (0.8)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.8" rel="alternate"/><published>2025-07-22T18:32:48.057724+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.8</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+        
+            &lt;p&gt;We have new sessions!&lt;/p&gt;
+            &lt;ul&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/Z93RGG/"&gt;
+                            “Visualizing complexity” by Maxim Danilov
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/7YHMDK/"&gt;
+                            “The role of C++ in the Python ecosystem: the case of the Qt framework” by Cristián Maureira-Fredes
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/PFTBFK/"&gt;
+                            “What&amp;#x27;s new in Python 3.14” by Anže Pečar
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+    
+        
+            &lt;p&gt;Sadly, we had to cancel sessions:&lt;/p&gt;
+            &lt;ul&gt;
+                
+                    &lt;li&gt;“RAG: Tricks from the trenches.” by Duarte Carmo&lt;/li&gt;
+                
+                    &lt;li&gt;“Simulation of life and of a society” by Edson Bomfim&lt;/li&gt;
+                
+                    &lt;li&gt;“Building a Thriving Tech Ecosystem: The Role of PyLadies in Fostering Growth and Inclusion” by Gertrude Abagale&lt;/li&gt;
+                
+                    &lt;li&gt;“Real-time visualization using dash and plotly” by Hampo, JohnPaul A.C.&lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+    
+
+
+</summary></entry><entry><title>New PyCon Portugal 2025 schedule released (0.7)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.7" rel="alternate"/><published>2025-06-23T12:36:34.198689+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.7</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+        
+            &lt;p&gt;
+                We have a new session: 
+                
+                    &lt;a href="/pycon-portugal-2025/talk/TQBNLH/"&gt;“From Lisbon to Space: Data Science at ExoPlanetary Scale with Python” by Marília Felismino Simões, Nikki Grens&lt;/a&gt;.
+                
+            &lt;/p&gt;
+        
+    
+
+    
+
+    
+
+
+</summary></entry><entry><title>New PyCon Portugal 2025 schedule released (0.6)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.6" rel="alternate"/><published>2025-06-23T12:12:54.351931+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.6</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+
+    
+
+    
+        
+            &lt;p&gt;
+                We have moved a session around: 
+                
+                    &lt;a href="/pycon-portugal-2025/talk/7QLPMN/"&gt;“Um Siri fazendo barra” by Pablo Galindo Salgado&lt;/a&gt;
+                    
+                        (July 24, 2025, 9:15 a.m. → July 25, 2025, 9 a.m.)
+                    
+                
+            &lt;/p&gt;
+        
+    
+
+
+</summary></entry><entry><title>New PyCon Portugal 2025 schedule released (0.5)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.5" rel="alternate"/><published>2025-06-19T19:09:41.162418+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.5</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+        
+            &lt;p&gt;We have new sessions!&lt;/p&gt;
+            &lt;ul&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/7QLPMN/"&gt;
+                            “Um Siri fazendo barra” by Pablo Galindo Salgado
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/BRPBEV/"&gt;
+                            “Understanding and expanding Python: hand-on experience with the Python internals” by Cristián Maureira-Fredes
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+    
+
+    
+
+
+</summary></entry><entry><title>New PyCon Portugal 2025 schedule released (0.4)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.4" rel="alternate"/><published>2025-05-26T15:20:20.061517+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.4</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+
+</summary></entry><entry><title>New PyCon Portugal 2025 schedule released (0.3)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.3" rel="alternate"/><published>2025-05-26T13:47:18.938407+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.3</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released a new schedule version!&lt;/p&gt;&lt;/p&gt;
+
+
+    
+        
+            &lt;p&gt;We have new sessions!&lt;/p&gt;
+            &lt;ul&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/VFXGEZ/"&gt;
+                            “Mastering Decorators with Type Annotations” by Syed Ansab Waqar Gillani, Fraz Arshad
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/VLGBAU/"&gt;
+                            “Python Power Tools: Hands-On from Decorators to Context Managers” by Neeraj Pandey
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/AZXMCA/"&gt;
+                            “When AI Writes Python: The Future of OSS Libraries” by Archana Vaidheeswaran
+                        &lt;/a&gt;
+                    &lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+    
+        
+            &lt;p&gt;
+                Sadly, we had to cancel a session:
+                “What We Can Learn from Exemplary Python Documentation” by Christian Heitzmann
+            &lt;/p&gt;
+        
+    
+
+    
+        
+            &lt;p&gt;
+                We have moved a session around: 
+                
+                    &lt;a href="/pycon-portugal-2025/talk/J3JQBR/"&gt;“Unifying Data Management in Python with Ibis” by Daniel Mesejo&lt;/a&gt;
+                    
+                        (July 25, 2025, 2:40 p.m. → July 24, 2025, 11:20 a.m.)
+                    
+                
+            &lt;/p&gt;
+        
+    
+
+
+</summary></entry><entry><title>New PyCon Portugal 2025 schedule released (0.2)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.2" rel="alternate"/><published>2025-05-10T13:15:34.908637+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.2</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        A new PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;Swapped two workshops.&lt;/p&gt;&lt;/p&gt;
+
+
+    
+
+    
+
+    
+        
+            &lt;p&gt;
+                We had to move some sessions, so if you were planning on seeing them, check their new dates or locations:
+            &lt;/p&gt;
+            &lt;ul&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/YEBXPY/"&gt;
+                            “What We Can Learn from Exemplary Python Documentation” by Christian Heitzmann
+                        &lt;/a&gt;
+                        
+                            (July 26, 2025, 1:30 p.m. → July 26, 2025, 10:30 a.m.)
+                        
+                    &lt;/li&gt;
+                
+                    &lt;li&gt;
+                        &lt;a href="/pycon-portugal-2025/talk/HAD3VX/"&gt;
+                            “The Pokémon trainer&amp;#x27;s guide to Polars” by Rodrigo Girão Serrão
+                        &lt;/a&gt;
+                        
+                            (July 26, 2025, 10:30 a.m. → July 26, 2025, 1:30 p.m.)
+                        
+                    &lt;/li&gt;
+                
+            &lt;/ul&gt;
+        
+    
+
+
+</summary></entry><entry><title>New PyCon Portugal 2025 schedule released (0.1)</title><link href="https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.1" rel="alternate"/><published>2025-05-09T14:18:34.672820+00:00</published><id>https://pretalx.evolutio.pt/pycon-portugal-2025/schedule/changelog/#0.1</id><summary type="html">
+
+
+
+&lt;p&gt;
+    
+        The first PyCon Portugal 2025 schedule has been released!
+    
+&lt;/p&gt;
+
+
+
+
+
+
+
+    &lt;p&gt;&lt;p&gt;We released our first schedule!&lt;/p&gt;&lt;/p&gt;
+
+
+
+</summary></entry></feed>

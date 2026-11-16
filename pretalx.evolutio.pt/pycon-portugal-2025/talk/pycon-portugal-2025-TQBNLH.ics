@@ -1,0 +1,42 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//talk//TQBNLH
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-TQBNLH@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250724T091500
+DTEND;TZID=WET:20250724T101500
+DESCRIPTION:What does it mean to lead a boutique data science company in Po
+ rtugal working with clients across the globe\, including the European Spac
+ e Agency? In this talk\, we’ll share the journey of building a specializ
+ ed team that operates in banking\, telecom\, pharma\, and space\, with a s
+ potlight on one of our contributions to the European Space Agency’s ARIE
+ L mission.\n\nAs part of this collaboration\, we’ll showcase an interact
+ ive Streamlit app we developed as an educational tool to explore exoplanet
+  data\, from raw light curves to atmospheric spectra\, and to experiment w
+ ith machine learning models that estimate those spectra. This example illu
+ strates how Python can power real-world scientific collaboration and make 
+ complex space science accessible\, explainable\, and interactive.
+DTSTAMP:20261116T111129Z
+LOCATION:Auditorium
+SUMMARY:From Lisbon to Space: Data Science at ExoPlanetary Scale with Pytho
+ n - Marília Felismino Simões\, Nikki Grens
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/TQBNLH/
+END:VEVENT
+END:VCALENDAR

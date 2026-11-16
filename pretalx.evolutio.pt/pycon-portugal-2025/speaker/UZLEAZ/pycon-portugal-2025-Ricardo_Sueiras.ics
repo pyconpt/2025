@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//speaker//UZLEA
+ Z
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-VJQRJZ@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250724T141000
+DTEND;TZID=WET:20250724T144000
+DESCRIPTION:Next generation developer tools that incorporate generative AI 
+ are everywhere\, but how good are they\, and. more importantly\, how usefu
+ l. In this talk I am going to share what I have learned from using these t
+ ools over the last 12 months.
+DTSTAMP:20261116T111144Z
+LOCATION:Auditorium
+SUMMARY:Build without limits - lessons learned from using generative AI dev
+  tools - Ricardo Sueiras
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/VJQRJZ/
+END:VEVENT
+END:VCALENDAR

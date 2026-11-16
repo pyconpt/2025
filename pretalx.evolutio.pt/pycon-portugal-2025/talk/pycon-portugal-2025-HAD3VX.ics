@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//talk//HAD3VX
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-HAD3VX@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250726T133000
+DTEND;TZID=WET:20250726T153000
+DESCRIPTION:[Polars](https://github.com/pola-rs/polars) is lightning fast\,
+  easy to use\, dataframe library.\nIt's clean API and its contexts and exp
+ ressions allow writing readable but performant data wrangling code.\n\nAim
+ ed at both data newbies and pandas experts (Polars != pandas)\, in this ha
+ nds-on tutorial we'll use data from the [Pokémon franchise](https://en.wi
+ kipedia.org/wiki/Pokémon) to explore the Polars API and the ideas that se
+ t it apart from pandas and other dataframe libraries.
+DTSTAMP:20261116T111136Z
+LOCATION:D -112\, Floor -1 (Room Madeira)
+SUMMARY:The Pokémon trainer's guide to Polars - Rodrigo Girão Serrão
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/HAD3VX/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pretalx//pretalx.evolutio.pt//pycon-portugal-2025//speaker//MURCZ
+ A
+BEGIN:VTIMEZONE
+TZID:WET
+BEGIN:STANDARD
+DTSTART:20001029T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:WET
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20000326T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:WEST
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pretalx-pycon-portugal-2025-9PNTEV@pretalx.evolutio.pt
+DTSTART;TZID=WET:20250725T115000
+DTEND;TZID=WET:20250725T122000
+DESCRIPTION:Virtual environments are a fundamental part of Python developme
+ nt\, but to most developers\, they’re largely a ‘black box’. In this
+  talk\, we’re gonna dissect the code\, file structure and utilities that
+  make them up to deeply learn\, and not just have superficial knowledge of
+ \, how venvs actually work.
+DTSTAMP:20261116T111139Z
+LOCATION:Auditorium
+SUMMARY:Inside the Black Box: The Anatomy of Virtual Environments - Daniel 
+ Hervás
+URL:https://pretalx.evolutio.pt/pycon-portugal-2025/talk/9PNTEV/
+END:VEVENT
+END:VCALENDAR
